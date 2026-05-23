@@ -1,27 +1,48 @@
 [
-    {
-        "title": "The role of the cholinergic system in the signal attenuation rat model of obsessive-compulsive disorder.",
-        "abstract": "In comparison to studies of the involvement of the serotonergic, dopaminergic, and glutamatergic systems in the pathophysiology of obsessive-compulsive disorder (OCD), research on the involvement of the cholinergic system in this disorder has remained sparse. The aim of this study was to test the role of the cholinergic system in compulsive behavior using the signal attenuation rat model of OCD. In this model, \"compulsive\" behavior is induced by attenuating a signal indicating that a lever-press response was effective in producing food. The acetylcholinesterase inhibitor physostigmine (0.05, 0.10, and 0.15\u00a0mg/kg), the nicotinic agonist nicotine (0.03, 0.06, 0.10, 0.30, 0.60, and 1.00\u00a0mg/kg), the nicotinic antagonist mecamylamine (1, 3, 5, and 8\u00a0mg/kg), the muscarinic agonist oxotremorine (0.0075, 0.0150, and 0.0300\u00a0mg/kg), and the muscarinic antagonist scopolamine (0.15, 0.50, 1.00, and 1.50\u00a0mg/kg) were acutely administered to rats just before assessing their lever-press responding following signal attenuation (experiments 1, 3, 5, 7, and 9, respectively). Because the effects of signal attenuation are assessed under extinction conditions, drug doses that were effective in the above experiments were also tested in an extinction session of lever-press responding that was not preceded by signal attenuation (experiments 2, 4, 6, 8, and 10). Acute systemic administration of the cholinergic agents did not exert a selective anti- or pro-compulsive effect in the signal attenuation model. Acetylcholine does not seem to play a role in the signal attenuation rat model of OCD.",
-        "year": "2013"
-    },
-    {
-        "title": "Nicotine augmentation for refractory obsessive-compulsive disorder. A case report.",
-        "abstract": "The authors present a case of obsessive-compulsive disorder (OCD) resistant to conventional treatments, which improved following nicotine augmentation administered as 4 mg chewing gum. The role of acetylcholine in the pathophysiology of OCD is not clear. The authors discuss the effect of nicotine on memory for actions.",
-        "year": "2005"
-    },
-    {
-        "title": "On the role of prefrontal cortex glutamate for the antithetical phenomenology of obsessive compulsive disorder and attention deficit hyperactivity disorder.",
-        "abstract": "1. The objective of the present study was to compare the phenomenology and pathophysiology of obsessive compulsive disorder (OCD) and attention deficit hyperactivity disorder/deficits in attention, motor control and perception (ADHD/DAMP). 2. Through detailed studies of the literature on OCD and ADHD/DAMP, the phenomenology of these two conditions is compared, and possible underlying pathophysiological mechanisms involving interactions between glutamate, dopamine, serotonin and acetylcholine are discussed, with emphasis on OCD. The present paper also discusses possible mechanisms of action for current pharmacological treatments of OCD and ADHD, as well as possible future treatment strategies for these disorders. 3. OCD and ADHD/DAMP are common neuropsychiatric conditions which in many regards appear to be each other's antipodes with respect to clinical manifestations, associated personality traits and brain biochemistry, notably prefrontal cortical glutamate activity. Future pharmacological treatments of these disorders may involve manipulations with glutamate, dopamine D , serotonin 2A and nicotine receptors. 4. It appears that OCD is a hyperglutamatergic and ADHD a hypoglutamatergic condition, with prefrontal brain regions being especially affected.",
-        "year": "2001"
-    },
-    {
-        "title": "On the role of cortical glutamate in obsessive-compulsive disorder and attention-deficit hyperactivity disorder, two phenomenologically antithetical conditions.",
-        "abstract": "The objective of the present study was to compare the phenomenology and pathophysiology of obsessive-compulsive disorder (OCD) and attention-deficit hyperactivity disorder/deficits in attention, motor control and perception (ADHD/DAMP). Through detailed studies of the literature on OCD and ADHD/DAMP the phenomenology of these two conditions is compared, and possible underlying pathophysiological mechanisms involving interactions between glutamate, dopamine, serotonin and acetylcholine are discussed, with emphasis on OCD. The present paper also discusses possible mechanisms of action for current pharmacological treatments of OCD and ADHD, as well as possible future treatment strategies for these disorders. OCD and ADHD/DAMP are common neuropsychiatric conditions which in many regards appear to be each other's antipodes with respect to clinical manifestations, associated personality traits and brain biochemistry, notably prefrontal cortical glutamate activity. Future pharmacological treatments of these disorders may involve manipulations with glutamate, dopamine D1, serotonin 2A and nicotine receptors. It appears that OCD is a hyperglutamatergic and ADHD a hypoglutamatergic condition, with prefrontal brain regions being especially affected.",
-        "year": "2000"
-    },
-    {
-        "title": "[A rapid polarographic microanalytic method for the determination of catecholamines and acetylcholine and their clinical use in borderline forms of neuropsychiatric disorders].",
-        "abstract": "",
-        "year": "1982"
-    }
+  {
+    "pmid": "11263758",
+    "title": "On the role of prefrontal cortex glutamate for the antithetical phenomenology of obsessive compulsive disorder and attention deficit hyperactivity disorder.",
+    "abstract": "1. The objective of the present study was to compare the phenomenology and pathophysiology of obsessive compulsive disorder (OCD) and attention deficit hyperactivity disorder/deficits in attention, motor control and perception (ADHD/DAMP). 2. Through detailed studies of the literature on OCD and ADHD/DAMP, the phenomenology of these two conditions is compared, and possible underlying pathophysiological mechanisms involving interactions between glutamate, dopamine, serotonin and acetylcholine are discussed, with emphasis on OCD. The present paper also discusses possible mechanisms of action for current pharmacological treatments of OCD and ADHD, as well as possible future treatment strategies for these disorders. 3. OCD and ADHD/DAMP are common neuropsychiatric conditions which in many regards appear to be each other's antipodes with respect to clinical manifestations, associated personality traits and brain biochemistry, notably prefrontal cortical glutamate activity. Future pharmacological treatments of these disorders may involve manipulations with glutamate, dopamine D , serotonin 2A and nicotine receptors. 4. It appears that OCD is a hyperglutamatergic and ADHD a hypoglutamatergic condition, with prefrontal brain regions being especially affected.",
+    "year": "2001",
+    "is_review": true,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "11142428",
+    "title": "On the role of cortical glutamate in obsessive-compulsive disorder and attention-deficit hyperactivity disorder, two phenomenologically antithetical conditions.",
+    "abstract": "The objective of the present study was to compare the phenomenology and pathophysiology of obsessive-compulsive disorder (OCD) and attention-deficit hyperactivity disorder/deficits in attention, motor control and perception (ADHD/DAMP). Through detailed studies of the literature on OCD and ADHD/DAMP the phenomenology of these two conditions is compared, and possible underlying pathophysiological mechanisms involving interactions between glutamate, dopamine, serotonin and acetylcholine are discussed, with emphasis on OCD. The present paper also discusses possible mechanisms of action for current pharmacological treatments of OCD and ADHD, as well as possible future treatment strategies for these disorders. OCD and ADHD/DAMP are common neuropsychiatric conditions which in many regards appear to be each other's antipodes with respect to clinical manifestations, associated personality traits and brain biochemistry, notably prefrontal cortical glutamate activity. Future pharmacological treatments of these disorders may involve manipulations with glutamate, dopamine D1, serotonin 2A and nicotine receptors. It appears that OCD is a hyperglutamatergic and ADHD a hypoglutamatergic condition, with prefrontal brain regions being especially affected.",
+    "year": "2000",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "23685859",
+    "title": "The role of the cholinergic system in the signal attenuation rat model of obsessive-compulsive disorder.",
+    "abstract": "In comparison to studies of the involvement of the serotonergic, dopaminergic, and glutamatergic systems in the pathophysiology of obsessive-compulsive disorder (OCD), research on the involvement of the cholinergic system in this disorder has remained sparse. The aim of this study was to test the role of the cholinergic system in compulsive behavior using the signal attenuation rat model of OCD. In this model, \"compulsive\" behavior is induced by attenuating a signal indicating that a lever-press response was effective in producing food. The acetylcholinesterase inhibitor physostigmine (0.05, 0.10, and 0.15\u00a0mg/kg), the nicotinic agonist nicotine (0.03, 0.06, 0.10, 0.30, 0.60, and 1.00\u00a0mg/kg), the nicotinic antagonist mecamylamine (1, 3, 5, and 8\u00a0mg/kg), the muscarinic agonist oxotremorine (0.0075, 0.0150, and 0.0300\u00a0mg/kg), and the muscarinic antagonist scopolamine (0.15, 0.50, 1.00, and 1.50\u00a0mg/kg) were acutely administered to rats just before assessing their lever-press responding following signal attenuation (experiments 1, 3, 5, 7, and 9, respectively). Because the effects of signal attenuation are assessed under extinction conditions, drug doses that were effective in the above experiments were also tested in an extinction session of lever-press responding that was not preceded by signal attenuation (experiments 2, 4, 6, 8, and 10). Acute systemic administration of the cholinergic agents did not exert a selective anti- or pro-compulsive effect in the signal attenuation model. Acetylcholine does not seem to play a role in the signal attenuation rat model of OCD.",
+    "year": "2013",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "15610960",
+    "title": "Nicotine augmentation for refractory obsessive-compulsive disorder. A case report.",
+    "abstract": "The authors present a case of obsessive-compulsive disorder (OCD) resistant to conventional treatments, which improved following nicotine augmentation administered as 4 mg chewing gum. The role of acetylcholine in the pathophysiology of OCD is not clear. The authors discuss the effect of nicotine on memory for actions.",
+    "year": "2005",
+    "is_review": false,
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  }
 ]

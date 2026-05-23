@@ -1,0 +1,57 @@
+[
+  {
+    "pmid": "18410917",
+    "title": "Pharmacological manipulation of memory reconsolidation: towards a novel treatment of pathogenic memories.",
+    "abstract": "Well-consolidated memories, when retrieved, may return to a transiently fragile state, and need to be consolidated again in order to be maintained. This process has been referred to as memory reconsolidation and presumably serves to modify or strengthen memory traces. In recent years, our understanding of the neurobiological mechanisms underlying this phenomenon has increased rapidly. Here, we will briefly review some of the pharmacological evidence, stressing a crucial role for the brain's major neurotransmitter systems, such as glutamate and noradrenaline, in memory reconsolidation. Pharmacological intervention of reconsolidation processes may have clinical relevance, especially for the treatment of psychiatric disorders that are characterized by pathological memories, including post-traumatic stress disorder and addictive behaviour.",
+    "year": "2008",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "33883448",
+    "title": "Sodium butyrate enhances fear extinction and rescues hippocampal acetylcholinesterase activity in a rat model of posttraumatic stress disorder.",
+    "abstract": "It is believed that impaired extinction of fear memories is an underlying cause for the development of posttraumatic stress disorder (PTSD). Histone deacetylases (HDAC) are enzymes that modulate extinction by changing the chromatin structure and altering protein synthesis in the brain. Studies show that stress modifies both HDAC activity and cerebral cholinergic neurotransmission. The present work aims to evaluate the effect of sodium butyrate (NaBu), an HDAC inhibitor, on behavioral markers of extinction and biochemical changes in HDAC and acetylcholinesterase activity in the hippocampus. NaBu was administered for 7 days in a group of rats that were exposed to single prolonged stress (SPS), as a model for PTSD. Contextual fear conditioning was performed on the 8th day, and fear extinction was measured in the next 4 consecutive days. Other behavioral tests to measure anxiety, locomotor activity and working memory were performed for further interpretation of the results. Hippocampal acetylcholinesterase and HDAC activity were also measured through biochemical tests. Behavioral results showed that treatment with NaBu can reverse the SPS-induced extinction deficits. Biochemical data indicated that while SPS induced overactivity in hippocampal HDAC, it decreased acetylcholinesterase activity in the region. Both effects were reversed after NaBu treatment. It seems that at least part of extinction deficiency in SPS exposed rats is related to hypoacetylation of acetylcholinesterase in the hippocampus. Preemptive therapy with an HDAC inhibitor reverses this process and is worth further evaluation as a possible therapeutic approach in PTSD.",
+    "year": "2021",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "33389726",
+    "title": "Development and treatment of cognitive inflexibility in sub-chronic stress-re-stress (SRS) model of PTSD.",
+    "abstract": "Cognitive inflexibility is one of the major clinical symptoms of post-traumatic stress disorder (PTSD). Studies have examined the impact of traumatic events on anxiety. However, there were limited reports on the effect of traumatic episodes on cognitive flexibility. Therefore, animal models developing cognitive inflexibility would provide new insight of pathophysiology and pharmacotherapy of PTSD. Male Wistar rats were subjected to stress-re-stress (SRS) procedure by restraining them for 2\u00a0h followed by foot shock (FS) and halothane exposure on day 2 (D-2). Then, the rats were exposed every week to FS as re-stress cue up to D-32. Donepezil (3\u00a0mg/kg; po) and sertraline (10\u00a0mg/kg; po) dosing was started from D-8 and continued up to D-32. SRS exposure caused cognitive inflexibility by producing deficits in intra-dimension (ID) and extra-dimension (ED) set-shifting which was significantly attenuated by donepezil. However, sertraline mitigated only ID shift in SRS-subjected rats. SRS-induced PTSD-like symptoms such as fear response, anxiety-like behaviour and cognitive deficits were attenuated by both donepezil and sertraline. Donepezil did not modulate the SRS-induced hypothalamic-pituitary-adrenal (HPA) axis dysfunction and activation of serotonergic and nor-adrenergic system. Interestingly, exposure of SRS caused a decrease in acetylcholine level and increase in acetylcholine esterase activity in prefrontal cortex (PFC) and hippocampus (HIP) which was only mitigated by donepezil. Donepezil significantly attenuated SRS-induced down-regulation of choline-acetyl transferase and \u03b1-7 nicotinic acetylcholine receptor expressions in PFC and HIP. Cognitive inflexibility is developed in the SRS model along with other PTSD-like symptoms which were attenuated by donepezil.",
+    "year": "2021",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "22796599",
+    "title": "Stress-induced altered cholinergic-glutamatergic interactions in the mouse hippocampus.",
+    "abstract": "Psychological stress may lead to long-lasting brain dysfunction, specifically altered emotional and cognitive capabilities. Previous studies have demonstrated persistent changes in the expression of key cholinergic genes in the neocortex and hippocampus following stress with muscarinic receptor-mediated enhanced excitability. In the present study we examined cholinergic-mediated glutamatergic transmission in the hippocampus of mice after exposure to stress and its potential role in synaptic plasticity and altered behavior. Adult male mice were tested one month after repeated forced swimming test. Non-treated age-matched animals served as controls. Electrophysiological recordings were performed in the acute in-vitro slice preparation. CA1 pyramidal neurons were recorded using whole cell patch configuration. Extracellular recordings were done in response to Shaffer collaterals (SC) or stratum orien (SO) stimulation. Animal behavior in response to inhibition of acetylcholinesterase (AChE) was tested in open field paradigms. In whole cell patch recordings the frequency of excitatory post-synaptic currents (EPSCs) was significantly increased in response to muscarinic activation in stress-exposed animals. This enhanced cholinergic-modulated excitatory transmission is associated with facilitation of long-term potentiation (LTP) in response to tetanic stimulation at the SO but not at the SC. Stress-related behavioral modulation via central cholinergic pathways was enhanced by the central AChE inhibitor, physostigmine, thus further supporting the notion that stress is associated with long lasting hypersensitivity to acetylcholine. Our results revealed a pathway-specific enhancement of cholinergic-dependent glutamatergic transmission in the hippocampus after stress. These changes may underlie specific hippocampal malfunction, including cognitive and emotional disturbances, as observed in patients with post-traumatic stress disorder (PTSD).",
+    "year": "2012",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "9620801",
+    "title": "Acute stress facilitates long-lasting changes in cholinergic gene expression.",
+    "abstract": "Acute traumatic stress may lead to post-traumatic stress disorder (PTSD), which is characterized by delayed neuropsychiatric symptoms including depression, irritability, and impaired cognitive performance. Curiously, inhibitors of the acetylcholine-hydrolysing enzyme acetylcholinesterase may induce psychopathologies that are reminiscent of PTSD. It is unknown how a single stressful event mediates long-term neuronal plasticity. Moreover, no mechanism has been proposed to explain the convergent neuropsychological outcomes of stress and of acetylcholinesterase inhibition. However, acute stress elicits a transient increase in the amounts released of the neurotransmitter acetylcholine and a phase of enhanced neuronal excitability. Inhibitors of acetylcholinesterase also promote enhanced electrical brain activity, presumably by increasing the survival of acetylcholine at the synapse. Here we report that there is similar bidirectional modulation of genes that regulate acetylcholine availability after stress and blockade of acetylcholinesterase. These calcium-dependent changes in gene expression coincide with phases of rapid enhancement and delayed depression of neuronal excitability. Both of these phases are mediated by muscarinic acetylcholine receptors. Our results suggest a model in which robust cholinergic stimulation triggers rapid induction of the gene encoding the transcription factor c-Fos. This protein then mediates selective regulatory effects on the long-lasting activities of genes involved in acetylcholine metabolism.",
+    "year": "1998",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  }
+]

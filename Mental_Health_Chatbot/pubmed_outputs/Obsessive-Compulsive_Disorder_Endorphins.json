@@ -1,27 +1,70 @@
 [
-    {
-        "title": "Stereotypies and behavioural medicine: confusions in current thinking.",
-        "abstract": "Stereotypies are defined as being repetitive, unvarying behaviours that appear to have no goal or function. This group of behaviours presents itself commonly in clinical behavioural practice. In recent companion animal behaviour literature the nomenclature has been changed to obsessive-compulsive disorder without considering the confusion this may create. Theories about the role endorphins play as a cause of stereotypies and an assumption about stereotypies playing a 'coping' role have been presented as scientific fact with little evidence supporting them. A failure to consider changes associated with stereotypy maturation and a reliance on anecdotal treatment success has lead to confusion regarding certain aspects of the development, diagnosis and treatment of these conditions. In this paper I present the idea that much of our confusion surrounding stereotypies is created by attempts to oversimplify a complex phenomenon.",
-        "year": "2003"
-    },
-    {
-        "title": "Association of beta-endorphin with specific clinical symptoms of depression.",
-        "abstract": "Abnormalities in plasma concentrations of beta-endorphin-like immunoreactivity (beta-endorphin) have been reported in depressed patients. This study was done to test the hypothesis that specific clinical characteristics of depression are associated with plasma beta-endorphin concentration. Plasma beta-endorphin was evaluated in 20 depressed patients diagnosed according to DSM-III-R and in 23 age- and sex-matched comparison subjects, and each was evaluated with the structured Schedule for Affective Disorders and Schizophrenia (SADS). Twelve SADS items involving dysphoric mood and related symptoms were chosen for analysis. Within the group of all 43 subjects and within the depressed group, beta-endorphin level correlated significantly with psychic anxiety and with phobia. In the depressed group only, beta-endorphin also correlated significantly with obsessions/compulsions. Concentration of beta-endorphin was not significantly correlated with score on the Hamilton Rating Scale for Depression or Beck Depression Inventory or with scores on other SADS symptom items, including somatic anxiety, insomnia, subjective anger, overt anger, agitation, psychomotor retardation, panic attacks, appetite loss, or total weight loss. In the group of 23 comparison subjects, beta-endorphin did not correlate with Beck or Hamilton depression score or with any of the SADS clinical variables. High levels of plasma beta-endorphin may be associated with more severe anxiety, phobia, and obsessions/compulsions in depressed patients.",
-        "year": "1992"
-    },
-    {
-        "title": "Immunoreactive beta-endorphin, cortisol, and growth hormone plasma levels in obsessive-compulsive disorder.",
-        "abstract": "Basal morning plasma levels of immunoreactive-beta-endorphin (ir-beta-EP), cortisol, and growth hormone (GH) were assessed in 13 obsessive-compulsive disorder (OCD) patients in comparison to 20 healthy controls. All subjects were drug free for at least 1 year. The mean plasma level of ir-beta-EP was significantly lower (36%) in the OCD patients when compared with the control subjects. The decrease in ir-beta-EP was not accompanied by alteration in cortisol and GH plasma levels.",
-        "year": "1990"
-    },
-    {
-        "title": "[The nature of the neurohormonal reorganizations in patients with neuroses].",
-        "abstract": "Neurohormonal balance was studied in patients suffering from neurasthenic, hysteric of obsessive-phobic neuroses. The peculiarities of functional restructuring in sympathoadrenal, opioid and pituitary-adrenal cortex systems were considered as related to clinical form or stage of the disease. Irrespective of the neurosis clinical form, a considerable rise in the endorphin blood levels with increasing sympathoadrenal and adrenocortical activities were typical of its initial stages. With long-lasting neuroses, the neurohormonal shifts characteristic of chronic emotional stress were detected.",
-        "year": "1988"
-    },
-    {
-        "title": "Naloxone administration in obsessive-compulsive disorder: report of two cases.",
-        "abstract": "Two patients with obsessive-compulsive disorder experienced an exacerbation of chronic obsessional doubt after double-blind, placebo-controlled administration of naloxone. Endogenous opiates may be involved in the pathogenesis of this symptom.",
-        "year": "1983"
-    }
+  {
+    "pmid": "15080439",
+    "title": "Stereotypies and behavioural medicine: confusions in current thinking.",
+    "abstract": "Stereotypies are defined as being repetitive, unvarying behaviours that appear to have no goal or function. This group of behaviours presents itself commonly in clinical behavioural practice. In recent companion animal behaviour literature the nomenclature has been changed to obsessive-compulsive disorder without considering the confusion this may create. Theories about the role endorphins play as a cause of stereotypies and an assumption about stereotypies playing a 'coping' role have been presented as scientific fact with little evidence supporting them. A failure to consider changes associated with stereotypy maturation and a reliance on anecdotal treatment success has lead to confusion regarding certain aspects of the development, diagnosis and treatment of these conditions. In this paper I present the idea that much of our confusion surrounding stereotypies is created by attempts to oversimplify a complex phenomenon.",
+    "year": "2003",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "42019415",
+    "title": "Endogenous opioid peptides in trichotillomania: An exploratory analysis of focused and automatic hair-pulling subtypes.",
+    "abstract": "Trichotillomania (TTM) is a body-focused repetitive behavior disorder characterized by recurrent hair pulling and functional impairment. Emerging evidence suggests that reward- and stress-related neurobiological mechanisms may contribute to its pathophysiology. This study investigated peripheral endogenous opioid peptide levels in TTM and examined differences across hair-pulling subtypes. This cross-sectional, case-control study included 45 adults with DSM-5-diagnosed TTM and 45 age- and sex-matched healthy controls. TTM subtypes (focused vs. automatic) were determined through primarily clinical interviews, supported by the Milwaukee Inventory for Subtypes of Trichotillomania-Adult Version (MIST-A; focused n\u202f=\u202f27, automatic n\u202f=\u202f18). Plasma \u03b2-endorphin and met-enkephalin levels were measured by ELISA. Clinical severity was assessed using standardized scales. \u03b2-endorphin and met-enkephalin levels were significantly lower in the TTM group compared to healthy controls even after adjusting for depressive and anxiety symptoms. (both p\u202f<\u202f0.001). \u03b2-Endorphin levels differed across TTM subtypes, with the lowest levels observed in the focused subtype. Focused hair-pulling severity was negatively correlated with \u03b2-endorphin levels, whereas automatic hair-pulling severity showed a positive correlation. Exploratory ROC analyses suggested both peptides may have preliminary discriminative value. These findings provide the first evidence of reduced peripheral endogenous opioid levels in TTM and suggest subtype-specific differences in opioid system functioning. Alterations in endogenous opioids may be associated with reward- and stress-related mechanisms underlying hair-pulling behavior, particularly in the focused subtype. Further longitudinal and multimodal studies are warranted to clarify the role of opioid signaling in TTM.",
+    "year": "2026",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "1503128",
+    "title": "Association of beta-endorphin with specific clinical symptoms of depression.",
+    "abstract": "Abnormalities in plasma concentrations of beta-endorphin-like immunoreactivity (beta-endorphin) have been reported in depressed patients. This study was done to test the hypothesis that specific clinical characteristics of depression are associated with plasma beta-endorphin concentration. Plasma beta-endorphin was evaluated in 20 depressed patients diagnosed according to DSM-III-R and in 23 age- and sex-matched comparison subjects, and each was evaluated with the structured Schedule for Affective Disorders and Schizophrenia (SADS). Twelve SADS items involving dysphoric mood and related symptoms were chosen for analysis. Within the group of all 43 subjects and within the depressed group, beta-endorphin level correlated significantly with psychic anxiety and with phobia. In the depressed group only, beta-endorphin also correlated significantly with obsessions/compulsions. Concentration of beta-endorphin was not significantly correlated with score on the Hamilton Rating Scale for Depression or Beck Depression Inventory or with scores on other SADS symptom items, including somatic anxiety, insomnia, subjective anger, overt anger, agitation, psychomotor retardation, panic attacks, appetite loss, or total weight loss. In the group of 23 comparison subjects, beta-endorphin did not correlate with Beck or Hamilton depression score or with any of the SADS clinical variables. High levels of plasma beta-endorphin may be associated with more severe anxiety, phobia, and obsessions/compulsions in depressed patients.",
+    "year": "1992",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "2208181",
+    "title": "Immunoreactive beta-endorphin, cortisol, and growth hormone plasma levels in obsessive-compulsive disorder.",
+    "abstract": "Basal morning plasma levels of immunoreactive-beta-endorphin (ir-beta-EP), cortisol, and growth hormone (GH) were assessed in 13 obsessive-compulsive disorder (OCD) patients in comparison to 20 healthy controls. All subjects were drug free for at least 1 year. The mean plasma level of ir-beta-EP was significantly lower (36%) in the OCD patients when compared with the control subjects. The decrease in ir-beta-EP was not accompanied by alteration in cortisol and GH plasma levels.",
+    "year": "1990",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "3223168",
+    "title": "[The nature of the neurohormonal reorganizations in patients with neuroses].",
+    "abstract": "Neurohormonal balance was studied in patients suffering from neurasthenic, hysteric of obsessive-phobic neuroses. The peculiarities of functional restructuring in sympathoadrenal, opioid and pituitary-adrenal cortex systems were considered as related to clinical form or stage of the disease. Irrespective of the neurosis clinical form, a considerable rise in the endorphin blood levels with increasing sympathoadrenal and adrenocortical activities were typical of its initial stages. With long-lasting neuroses, the neurohormonal shifts characteristic of chronic emotional stress were detected.",
+    "year": "1988",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "6614234",
+    "title": "Naloxone administration in obsessive-compulsive disorder: report of two cases.",
+    "abstract": "Two patients with obsessive-compulsive disorder experienced an exacerbation of chronic obsessional doubt after double-blind, placebo-controlled administration of naloxone. Endogenous opiates may be involved in the pathogenesis of this symptom.",
+    "year": "1983",
+    "is_review": false,
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  }
 ]

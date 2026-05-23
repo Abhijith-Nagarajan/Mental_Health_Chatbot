@@ -1,127 +1,270 @@
 [
-    {
-        "title": "Association of polygenic score and the involvement of cholinergic and glutamatergic pathways with lithium treatment response in patients with bipolar disorder.",
-        "abstract": "Lithium is regarded as the first-line treatment for bipolar disorder (BD), a severe and disabling mental health\u00a0disorder that affects about 1% of the population worldwide. Nevertheless, lithium is not consistently effective, with only 30% of patients showing a favorable response to treatment. To provide personalized treatment options for bipolar patients, it is essential to identify prediction biomarkers such as polygenic scores. In this study, we developed a polygenic score for lithium treatment response (Li<sup>+</sup><sub>PGS</sub>) in patients with BD. To gain further insights into lithium's possible molecular mechanism of action, we performed a genome-wide gene-based analysis. Using polygenic score modeling, via methods incorporating Bayesian regression and continuous shrinkage priors, Li<sup>+</sup><sub>PGS</sub> was developed in the International Consortium of Lithium Genetics cohort (ConLi<sup>+</sup>Gen: N\u2009=\u20092367) and replicated in the combined PsyCourse (N\u2009=\u200989) and BipoLife (N\u2009=\u2009102) studies. The associations of Li<sup>+</sup><sub>PGS</sub> and lithium treatment response - defined in a continuous ALDA scale and a categorical outcome (good response vs. poor response) were tested using regression models, each adjusted for the covariates: age, sex, and the first four genetic principal components. Statistical significance was determined at P\u2009<\u20090.05. Li<sup>+</sup><sub>PGS</sub> was positively associated with lithium treatment response in the ConLi<sup>+</sup>Gen cohort, in both the categorical (P\u2009=\u20099.8\u2009\u00d7\u200910<sup>-</sup><sup>12</sup>, R<sup>2</sup>\u2009=\u20091.9%) and continuous (P\u2009=\u20096.4\u2009\u00d7\u200910<sup>-</sup><sup>9</sup>, R<sup>2</sup>\u2009=\u20092.6%) outcomes. Compared to bipolar patients in the 1<sup>st</sup> decile of the risk distribution, individuals in the 10<sup>th</sup> decile had 3.47-fold (95%CI: 2.22-5.47) higher odds of responding favorably to lithium. The results were replicated in the independent cohorts for the categorical treatment outcome (P\u2009=\u20093.9\u2009\u00d7\u200910<sup>-</sup><sup>4</sup>, R<sup>2</sup>\u2009=\u20090.9%), but not for the continuous outcome (P\u2009=\u20090.13). Gene-based analyses revealed 36 candidate genes that are enriched in biological pathways controlled by glutamate and acetylcholine. Li<sup>+</sup><sub>PGS</sub> may be useful in the development of pharmacogenomic testing strategies by enabling a classification of bipolar patients according to their response to treatment.",
-        "year": "2023"
-    },
-    {
-        "title": "Cholinergic regulation of mood: from basic and clinical studies to emerging therapeutics.",
-        "abstract": "Mood disorders are highly prevalent and are the leading cause of disability worldwide. The neurobiological mechanisms underlying depression remain poorly understood, although theories regarding dysfunction within various neurotransmitter systems have been postulated. Over 50 years ago, clinical studies suggested that increases in central acetylcholine could lead to depressed mood. Evidence has continued to accumulate suggesting that the cholinergic system has a important role in mood regulation. In particular, the finding that the antimuscarinic agent, scopolamine, exerts fast-onset and sustained antidepressant effects in depressed humans has led to a renewal of interest in the cholinergic system as an important player in the neurochemistry of major depression and bipolar disorder. Here, we synthesize current knowledge regarding the modulation of mood by the central cholinergic system, drawing upon studies from human postmortem brain, neuroimaging, and drug challenge investigations, as well as animal model studies. First, we describe an illustrative series of early discoveries which suggest a role for acetylcholine in the pathophysiology of mood disorders. Then, we discuss more recent studies conducted in humans and/or animals which have identified roles for both acetylcholinergic muscarinic and nicotinic receptors in different mood states, and as targets for novel therapies.",
-        "year": "2019"
-    },
-    {
-        "title": "Modeling bipolar disorder in mice by increasing acetylcholine or dopamine: chronic lithium treats most, but not all features.",
-        "abstract": "Bipolar disorder (BD) is a disabling and life-threatening disease characterized by states of depression and mania. New and efficacious treatments have not been forthcoming partly due to a lack of well-validated models representing both facets of BD. We hypothesized that cholinergic- and dopaminergic-pharmacological manipulations would model depression and mania respectively, each attenuated by lithium treatment. C57BL/6 J mice received the acetylcholinesterase inhibitor physostigmine or saline before testing for \"behavioral despair\" (immobility) in the tail suspension test (TST) and forced swim test (FST). Physostigmine effects on exploration and sensorimotor gating were assessed using the cross-species behavioral pattern monitor (BPM) and prepulse inhibition (PPI) paradigms. Other C57BL/6 J mice received chronic lithium drinking water (300, 600, or 1200 mg/l) before assessing their effects alone in the BPM or with physostigmine on FST performance. Another group was tested with acute GBR12909 (dopamine transporter inhibitor) and chronic lithium (1000 mg/l) in the BPM. Physostigmine (0.03 mg/kg) increased immobility in the TST and FST without affecting activity, exploration, or PPI. Lithium (600 mg/l) resulted in low therapeutic serum concentrations and normalized the physostigmine-increased immobility in the FST. GBR12909 induced mania-like behavior in the BPM of which hyper-exploration was attenuated, though not reversed, after chronic lithium (1000 mg/ml). Increased cholinergic levels induced depression-like behavior and hyperdopaminergia induced mania-like behavior in mice, while chronic lithium treated some, but not all, facets of these effects. These data support a cholinergic-monoaminergic mechanism for modeling BD aspects and provide a way to assess novel therapeutics.",
-        "year": "2015"
-    },
-    {
-        "title": "The catecholaminergic-cholinergic balance hypothesis of bipolar disorder revisited.",
-        "abstract": "Bipolar disorder is a unique illness characterized by fluctuations between mood states of depression and mania. Originally, an adrenergic-cholinergic balance hypothesis was postulated to underlie these different affective states. In this review, we update this hypothesis with recent findings from human and animal studies, suggesting that a catecholaminergic-cholinergic hypothesis may be more relevant. Evidence from neuroimaging studies, neuropharmacological interventions, and genetic associations support the notion that increased cholinergic functioning underlies depression, whereas increased activations of the catecholamines (dopamine and norepinephrine) underlie mania. Elevated functional acetylcholine during depression may affect both muscarinic and nicotinic acetylcholine receptors in a compensatory fashion. Increased functional dopamine and norepinephrine during mania on the other hand may affect receptor expression and functioning of dopamine reuptake transporters. Despite increasing evidence supporting this hypothesis, a relationship between these two neurotransmitter systems that could explain cycling between states of depression and mania is missing. Future studies should focus on the influence of environmental stimuli and genetic susceptibilities that may affect the catecholaminergic-cholinergic balance underlying cycling between the affective states. Overall, observations from recent studies add important data to this revised balance theory of bipolar disorder, renewing interest in this field of research.",
-        "year": "2015"
-    },
-    {
-        "title": "Neuromodulation by acetylcholine: examples from schizophrenia and depression.",
-        "abstract": "The contribution of acetylcholine to psychiatric illnesses remains an area of active research. For example, increased understanding of mechanisms underlying cholinergic modulation of cortical function has provided insight into attentional dysfunction in schizophrenia. Acetylcholine normally enhances cortical sensitivity to external stimuli and decreases corticocortical communication, increasing focused attention; however, increases in ACh signaling can lead to symptoms related to anxiety and depression. For example, while stress-induced ACh release can result in adaptive responses to environmental stimuli, chronic elevations in cholinergic signaling may produce maladaptive behaviors. Here, we review several innovations in human imaging, molecular genetics and physiological control of circuits that have begun to identify mechanisms linking altered cholinergic neuromodulation to schizophrenia and depression.",
-        "year": "2014"
-    },
-    {
-        "title": "The role of the aminergic systems in the pathophysiology of bipolar disorder.",
-        "abstract": "Bipolar disorder (BPD) is a major medical and social burden, but little is known about the specific pathophysiology of BPD. The key biogenic amines in the aminergic system include serotonin (5-HT), norepinephrine (NE), dopamine (DA), and acetylcholine (ACh). By analyzing these neurotransmitters, this chapter highlights three hypotheses in the pathophysiology of BPD: the biogenic amine hypothesis, the cholinergic-aminergic balance hypothesis, and the permissive hypothesis. Evidence from select studies of cerebrospinal fluid, postmortem subjects, neuroimaging, genetic factors, and pharmacological agents will be used to reconcile these hypotheses. Possible explanations for discrepancies in these hypotheses are given, and directions for future studies are suggested.",
-        "year": "2011"
-    },
-    {
-        "title": "Muscarinic receptors in psychiatric disorders - can we mimic 'health'?",
-        "abstract": "The concept that acetylcholine is involved in the pathophysiologies of psychiatric disorders has existed since the 1950s. There is very strong evidence implicating a dysfunctional muscarinic system in schizophrenia, +with less information available for bipolar disorder and major depressive disorder. The translation of this evidence into clinically viable treatments has been disappointing; hampered by problems associated with developing drugs that target the requisite members of the muscarinic family, rather than all of the receptors, which results in unacceptable side-effect profiles. The discovery of additional binding sites, other than the one occupied by acetylcholine, has revitalised research into this aspect of psychopharmacology. New compounds are now being developed that have the potential to selectively target individual muscarinic receptors in the central nervous system. The question that remains to be answered is whether stimulating central muscarinic receptors will result in the reestablishment of normal central muscarinic activity? The purpose of this review is to (i) summarise the data supporting a role of the muscarinic system in schizophrenia, bipolar disorder and major depressive disorder, and (ii) give an overview of some of the new selective muscarinic ligands that are currently in development and try to address the issue of re-establishing appropriate central muscarinic function.",
-        "year": "2009"
-    },
-    {
-        "title": "Differential effect of serum from bipolar versus schizophrenic patients on spontaneous acetylcholine release at mammalian neuromuscular junction.",
-        "abstract": "The diagnosis of bipolar disease frequently requires a long time since the age of onset, especially because the disease is misdiagnosed with schizophrenia. The aim of the present work was to investigate whether sera from bipolar patients have an active substance that allows making a fast identification of the disease. Sera from healthy volunteers, euthymic and non-stabilized bipolar patients, and schizophrenic patients were passively transferred into CF1 mice and after 2 day injections, MEPP frequency from diaphragm muscles was recorded. The same procedure was performed with sera fraction of high and low MW (cut-off 3000). Sera from non-stabilized bipolar patients induced a decreased MEPP frequency and occluded the presynaptic inhibitory effect of the specific adenosine A(1) receptor agonist 2-chloro-N(6)-cyclopentyl-adenosine (CCPA) in the recipient mice, while in the euthymic bipolar group spontaneous secretion reached control values although the action of CCPA was still prevented. Similar results were obtained with low MW sera fraction from euthymic and non-stabilized bipolar patients. The addition of adenosine deaminase to the sera fraction prevented the modification of spontaneous ACh release. In mice injected with sera from schizophrenic patients, MEPP frequency was within control values and CCPA induced its typical inhibitory action. These results indicate that bipolar patients contain in their blood an active substance compatible with adenosine, which was able to modify spontaneous ACh release in the recipient mice. This effect was not observed with sera from healthy volunteers and schizophrenic patients. The increase of adenosine concentration may result from synaptic hyperactivity that presumably plays a role in the symptoms of bipolar disorder and/or may derive from peripheral cells through a more general mechanism. The different results obtained with bipolar and schizophrenic sera raise the possibility that the passive transfer model could be used as a diagnostic test in the future.",
-        "year": "2006"
-    },
-    {
-        "title": "Reduced muscarinic type 2 receptor binding in subjects with bipolar disorder.",
-        "abstract": "A variety of indirect evidence has implicated the central muscarinic-cholinergic system, and more specifically the type 2 muscarinic (M2) receptor, in the pathogenesis of depressive symptoms arising in major depressive disorder and bipolar disorder. To assess the binding potential of muscarinic2 receptors in vivo during depression in subjects with major depressive disorder or bipolar disorder. The M2 receptor binding was compared between unmedicated subjects with major depressive disorder or bipolar disorder during depression vs healthy controls, using positron emission tomography and [18F]FP-TZTP (fluorodopa F 18 [3-(3-[3-fluoroproply]thio)-1,2,5-thiadiazol-4-yl]-1,2,5,6-tetrahydro-1-methylpyridine), a selective M2 receptor radioligand. Outpatients at the National Institutes of Health. Unmedicated subjects with current depression meeting DSM-IV criteria for either major depressive disorder (n = 17) or bipolar disorder (n = 16) and 23 healthy control subjects. The primary outcome parameter was [(18)F]FP-TZTP distribution volume, which is proportional to the product of receptor density and affinity and, in the case of [(18)F]FP-TZTP, is known to be sensitive to endogenous acetylcholine concentrations. The relationship between illness severity, as rated using the Montgomery-Asberg Depression and Hamilton Anxiety Rating scales, and distribution volume also was assessed. The mean anterior cingulate cortex distribution volume differed across groups (F55 = 3.4; P = .04), and this difference was accounted for by significantly lower binding in bipolar disorder compared with both major depressive disorder and control groups. The mean M2 receptor binding in subjects with bipolar disorder was reduced relative to both healthy controls and subjects with major depressive disorder, to an extent that correlated with depressive symptoms. The reduction in the bipolar disorder group could be accounted for either by a reduction in M2 receptor density or affinity or an elevation in endogenous acetylcholine levels. To our knowledge, these data provide the first direct evidence that altered M2 receptor function contributes to mood dysregulation in bipolar disorder.",
-        "year": "2006"
-    },
-    {
-        "title": "Kindling and second messengers: an approach to the neurobiology of recurrence in bipolar disorder.",
-        "abstract": "Since bipolar disorder is inherently a longitudinal illness characterized by recurrence and cycling of mood episodes, neurobiological theories involving kindlinglike phenomena appear to possess a certain explanatory power. An approach to understanding kindlinglike phenomena at the molecular level has been made possible by advances in research on second-messenger systems in the brain. The time frame of interest has shifted from the microseconds of presynaptic events to hours, days, months, and even years in the longer duration of events beyond the synapse--through second messengers, gene regulation, and synthesis of long-acting trophic factors. These complex interlocking systems may explain how environmental stress could interact over time with genetic vulnerability to produce illness. In its two sections, this paper will review an approach to understanding two major aspects of the neurobiology of bipolar disorder: kindling phenomena and second-messenger mechanisms. We will suggest that these two fields of research together help explain the biology of recurrence.",
-        "year": "1999"
-    },
-    {
-        "title": "The neurochemistry of mania: a hypothesis of etiology and rationale for treatment.",
-        "abstract": "1. The author delineates the emergence of an important concept in the Neurochemistry of mental illness, that of a Cholinergic Factor in Mania. This concept which evolved steadily over a period of 22 years from 1950-1972, the author believes has given us our first significant insight into the etiology and treatment of the Manic state. 2. In addition, the author examines the Adrenergic-Cholinergic hypothesis of Mania and Depression and the Brain Cholinergic-Adrenergic Balance hypothesis for Mania and Schizophrenia. 3. Also described in this article are some successful preliminary attempts by others, to treat Mania with Phosphatidyl Choline and the author will present, for the first time, data relating to success with the use of Phosphatidyl Choline in bringing about permanent remission of mania in 10 treatment subjects since 1983. 4. In conclusion the author proposes a Cholinergic Insufficiency Hypothesis as a primary factor in the causation of Mania and comments on a presumptive role in the modulation and balance of Adrenergic Dominance by Presynaptic Receptors positioned on the Nerve Terminals of Adrenergic Neurons.",
-        "year": "1990"
-    },
-    {
-        "title": "Is there a common denominator for the antimanic effect of lithium and anticonvulsants?",
-        "abstract": "Starting from the idea that different primary actions of carbamazepine, valproate and lithium might converge into a similar secondary mechanism of action, e.g. a modulation of the functioning of certain transmitter systems, a review of the literature was made on the effects of these and related substances on GABAergic, dopaminergic, cholinergic, noradrenergic and serotonergic transmission, in an attempt to find a common denominator. It was concluded that similarities of the effects of these drugs are most evident with respect to a reduction of dopaminergic transmission. Some similarities also exist with respect to GABAergic and, to a lesser degree, cholinergic transmission. The effects on noradrenergic and serotonergic transmission seem too disparate to be considered as a potential basis for the antimanic effects of these drugs.",
-        "year": "1987"
-    },
-    {
-        "title": "[Current hypotheses on the mechanism of action of lithium. I. Lithium and neuromediators].",
-        "abstract": "This paper intends to survey, clarify and organize the recent advances of research on the central action mechanism of lithium. A brief introduction relates the cation's \"medical history\" and analyses the evolution of what is known and hypothesized about various categories of psychotropics. In this article the metabolism of neuromediators and its disturbances are the subject of a detailed study. First reviewed is recent work concerning the aminergic theories of depression. Most of the other neuromediator systems are the subject of specific research projects and of these, the GABAergic hypothesis seems the most promising to date.",
-        "year": "1987"
-    },
-    {
-        "title": "GABA and circadian timekeeping: implications for manic-depression and sleep disorders.",
-        "abstract": "Circadian rhythms, evident in a wide variety of physiological and behavioural parameters, are under the control of central neural pacemakers, the best characterized of which is the suprachiasmatic nucleus of the hypothalamus. The neurophysiological mechanisms involved in central pacemaker function are unknown. Recent biochemical, pharmacological and behavioural evidence suggests that the inhibitory transmitter gamma-aminobutyric acid (GABA), present in the small interneurones of the suprachiasmatic nucleus, plays an important role in circadian timekeeping. This has enabled the formulation of strategies for treatment of patients with manic depressive illness and certain sleep disorders in which disorders of circadian timekeeping may be fundamental.",
-        "year": "1986"
-    },
-    {
-        "title": "[Clinico-biochemical and electromyographic studies of the anti-depressive effect of cyclodol].",
-        "abstract": "",
-        "year": "1985"
-    },
-    {
-        "title": "Manic depression: a multiple hormone disorder?",
-        "abstract": "",
-        "year": "1985"
-    },
-    {
-        "title": "Dopamine in manic depressive illness. A pharmacological synthesis.",
-        "abstract": "If the clinical symptoms of mania are a consequence of increased activity in central dopaminergic (DA) pathways in predisposed individuals, then drugs increasing DA neurotransmission should precipitate or exacerbate mania in such people, whereas drugs which reduce DA neurotransmission should ameliorate manic symptoms. Of the drugs which enhance DA neurotransmission, those which increase synthesis of DA (levodopa), those which promote DA release (amphetamine), and those which act directly as agonists or DA receptors (bromocriptine) have all been shown to precipitate mania. Conversely, drugs which reduce DA neurotransmission by inhibiting synthesis (alpha-methylparatyrosine) or by blocking DA receptors (pimozide) are effective in reducing manic symptoms. DA systems are not working in isolation; evidence is presented showing an influence on manic illness of central cholinergic and GABA-ergic processes. It is suggested that there is an interacting set of neurotransmitter pathways linking the limbic system and the ventral tegmental (A10) area involving DA, acetylcholine and GABA upon which drugs can act to influence the course of a manic illness.",
-        "year": "1985"
-    },
-    {
-        "title": "Adrenergic-cholinergic balance and the treatment of affective disorders.",
-        "abstract": "Centrally acting cholinomimetic drugs cause anergia, behavioral inhibition and depression. Centrally acting cholinomimetic drugs have antimanic properties. Combinations of acetylcholine precursors and centrally active cholinomimetic agents may cause augmented muscarinic effects, as may a combination of an antiadrenergic and cholinomimetic drugs. Centrally active anticholinergic agents may exert antidepressant effects. Affective disorder patients may show hyperreactivity to cholinomimetic agents, a phenomena which may have diagnostic significance.",
-        "year": "1983"
-    },
-    {
-        "title": "The use of cholinergic precursors in neuropsychiatric diseases.",
-        "abstract": "Preclinical data suggest that cholinergic precursors such as choline or lecithin, increase levels of acetylcholine in specific brain structures, and under certain conditions may enhance cholinergic neurotransmission. A variety of neuropsychiatric diseases including tardive dyskinesia. Huntington's chorea, ataxias, Tourette's syndrome, schizophrenia, affective illness, and senile dementia of the Alzheimer type, has been implicated with a general underactivity of central cholinergic mechanisms. Recent studies have investigated the possibility that cholinergic precursor loading strategies may provide viable treatments for these disorders of presumed cholinergic underactivity. Extensive data demonstrate that the symptoms of tardive dyskinesia can be reduced by choline or lecithin, whereas investigations in other disorders have met with mild success, at best, or are still in preliminary stages. Further controlled studies with choline or lecithin using broader dose ranges, longer durations of treatment, and concomitant administration of agents which may increase the release of acetylcholine are warranted.",
-        "year": "1982"
-    },
-    {
-        "title": "Cholinergic regulation of mood and REM sleep: potential model and marker of vulnerability to affective disorder.",
-        "abstract": "To test the hypothesis that depression and REM sleep share common cholinergic mechanisms the authors administered arecoline 25 min after completion of the first REM period to 14 patients with remitted bipolar affective disorder, 15 normal controls, and 5 subjects with a personal or family history of affective disorder. The second REM period occurred significantly sooner in the remitted patients than in the normal controls. The patients also had a significantly higher density of eye movements during the first REM period and a higher percentage of REM sleep. The authors believe that increased cholinergic sensitivity and REM density may be biological markers of increased vulnerability to bipolar affective illness.",
-        "year": "1982"
-    },
-    {
-        "title": "Manic depression--a disorder of central dopaminergic rhythm.",
-        "abstract": "Starting from the fact that there are abnormal sweat K+ /Na+ ratios in both manics and depressives an attempt has been made to explain manic depression in terms of a disorder of the circadian rhythm of the adrenal glands. This, in turn, it is suggested, is caused by a defective circadian rhythm of central dopamine brought about by its having an abnormal response to ambient temperature change.",
-        "year": "1981"
-    },
-    {
-        "title": "Pharmacological investigations of the cholinergic imbalance hypotheses of movement disorders and psychosis.",
-        "abstract": "The hypotheses of relative cholinergic underactivity in Huntington's disease, tardive dyskinesia, mania, and schizophrenia were pharmacologically investigated, using physostigmine and choline chloride. Intravenous physostigmine improved the involuntary movements of all of four patients with tardive dyskinesia and three of six patients with Huntington's disease. Physostigmine infusion also decreased manic symptoms in six of nine patients with mania, but had no beneficial effects in three patients with schizophrenia. Precursorloading with choline chloride may increase brain acetylcholine levels and central cholinergic activity. In patients with movement disorders a transient improvement during physostigmine infusion predicted a positive response to a trial of oral choline chloride. One manic patient may have been improved by choline chloride, however choline chloride did not improve symptoms in four of six schizophrenix patients. Chronic treatment with oral choline chloride increases plasma levels of choline during administration and for approximately 48 hr after discontinuation of treatment. A single 5-g dose of choline chloride also transiently raises plasma choline levels. These results with physostigmine support the hypotheses of cholinergic underactivity in Huntington's disease, tardive dyskinesia, and mania. Agents which might chronically increase cholinergic activity such as choline chloride should be further tested in these disorders.",
-        "year": "1978"
-    },
-    {
-        "title": "Treatment approaches to mania.",
-        "abstract": "Treatment of manic episodes is an urgency because of the lack of insight and excessive psychomotor activity. Over the past two decades various new modes of pharmacological treatment of this condition has been reported. Along with them, biochemical findings in manic patients have been exhaustively investigated. Etiologically based pharmacological treatment of manic episodes will help us therapeutically in improving the condition of the patient and scientifically, to confirm or explore biochemical basis of manic episodes. The new innovative approaches for the treatment of manic episodes need to be applied in treating therapy-resistant patients. Included in this paper are treatment approaches based on norepinephrine, dopamine, acetylcholine, serotonin, gamma-aminobutyric acid and permissive hypothesis, peripheral autonomic imbalance, endocrine abnormalities, electrolyte disturbances, paradoxical response, and cyclic AMP. In addition, use of antidepressants and pyrotherapy is described.",
-        "year": "1976"
-    },
-    {
-        "title": "[Mechanism of action of lithium in manic-depressive psychoses: current research results].",
-        "abstract": "The mechanism of action lithium in the treatment of manic-depressive illness is far from being known. A great progress will be achieved when it is known wherther lithium has an actual anti-depressive action, which implies to determine whether all the \"endogenous\" depressive states belong to the same pathogenic group. Lithium salts have a real therapeutic action on manic states which may be put together with the decrease of available Norepinephrine that lithium salts bring about on cerebral receptors. This decrease concords with the aminergic theory of affective disorders. Many actions of lithium salts on the physiologic systems have been brought to evidence but the uncertainties that remain concerning their interactions prevent us to formulate any coherent assumption.",
-        "year": "1976"
-    },
-    {
-        "title": "Drugs, diagnosis, and disease.",
-        "abstract": "",
-        "year": "1975"
-    }
+  {
+    "pmid": "40531190",
+    "title": "Acetylcholine and muscarinic receptor targeting in bipolar disorder: does xanomeline-trospium chloride and other investigational muscarinic agonists hold promise as mechanistically informed treatments for manic episodes, mixed features and cognitive deficits in bipolar disorder?",
+    "abstract": "Xanomeline-trospium chloride (Cobenfy, KarXT) received FDA approval on September 26, 2024, for the treatment of adults with schizophrenia. Xanomeline-trospium chloride is the first muscarinic M1, M4 acetylcholine receptor partial agonist approved to treat schizophrenia. Preliminary evidence also indicates that xanomeline-trospium chloride improves measures of cognition in Alzheimer's disease and schizophrenia. Acetylcholine's physiology as well as evidence implicating disturbance in acetylcholine availability and/or its canonical receptors in mania and cognitive impairment in bipolar disorder is synthesized. Extant efficacy, safety and tolerability data for xanomeline-trospium chloride in adults with schizophrenia are reviewed. Xanomeline-trospium chloride's clinical and pharmacological profile provides rationale for investigating its efficacy, safety and tolerability in the treatment of manic episodes, mixed features and cognitive impairment associated with bipolar disorder. Xanomeline-trospium chloride is a mechanistically novel treatment for schizophrenia targeting cholinergic receptors as opposed to dopamine receptors and may have transdiagnostic efficacy in mania, mixed features and/or cognitive impairment in bipolar disorder. Xanomeline-trospium chloride is safe and generally well tolerated and does not have depressogenic effects and/or increased suicidality in adults with schizophrenia. Whether other investigational muscarinic agonists (e.g. positive allosteric modulator [PAM] or orthosteric agonism of M4) are potentially efficacious in mania and/or cognitive impairment in bipolar disorder is a priority future research avenue.",
+    "year": "2025",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "30120418",
+    "title": "Cholinergic regulation of mood: from basic and clinical studies to emerging therapeutics.",
+    "abstract": "Mood disorders are highly prevalent and are the leading cause of disability worldwide. The neurobiological mechanisms underlying depression remain poorly understood, although theories regarding dysfunction within various neurotransmitter systems have been postulated. Over 50 years ago, clinical studies suggested that increases in central acetylcholine could lead to depressed mood. Evidence has continued to accumulate suggesting that the cholinergic system has a important role in mood regulation. In particular, the finding that the antimuscarinic agent, scopolamine, exerts fast-onset and sustained antidepressant effects in depressed humans has led to a renewal of interest in the cholinergic system as an important player in the neurochemistry of major depression and bipolar disorder. Here, we synthesize current knowledge regarding the modulation of mood by the central cholinergic system, drawing upon studies from human postmortem brain, neuroimaging, and drug challenge investigations, as well as animal model studies. First, we describe an illustrative series of early discoveries which suggest a role for acetylcholine in the pathophysiology of mood disorders. Then, we discuss more recent studies conducted in humans and/or animals which have identified roles for both acetylcholinergic muscarinic and nicotinic receptors in different mood states, and as targets for novel therapies.",
+    "year": "2019",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "25107282",
+    "title": "The catecholaminergic-cholinergic balance hypothesis of bipolar disorder revisited.",
+    "abstract": "Bipolar disorder is a unique illness characterized by fluctuations between mood states of depression and mania. Originally, an adrenergic-cholinergic balance hypothesis was postulated to underlie these different affective states. In this review, we update this hypothesis with recent findings from human and animal studies, suggesting that a catecholaminergic-cholinergic hypothesis may be more relevant. Evidence from neuroimaging studies, neuropharmacological interventions, and genetic associations support the notion that increased cholinergic functioning underlies depression, whereas increased activations of the catecholamines (dopamine and norepinephrine) underlie mania. Elevated functional acetylcholine during depression may affect both muscarinic and nicotinic acetylcholine receptors in a compensatory fashion. Increased functional dopamine and norepinephrine during mania on the other hand may affect receptor expression and functioning of dopamine reuptake transporters. Despite increasing evidence supporting this hypothesis, a relationship between these two neurotransmitter systems that could explain cycling between states of depression and mania is missing. Future studies should focus on the influence of environmental stimuli and genetic susceptibilities that may affect the catecholaminergic-cholinergic balance underlying cycling between the affective states. Overall, observations from recent studies add important data to this revised balance theory of bipolar disorder, renewing interest in this field of research.",
+    "year": "2015",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "24983212",
+    "title": "Neuromodulation by acetylcholine: examples from schizophrenia and depression.",
+    "abstract": "The contribution of acetylcholine to psychiatric illnesses remains an area of active research. For example, increased understanding of mechanisms underlying cholinergic modulation of cortical function has provided insight into attentional dysfunction in schizophrenia. Acetylcholine normally enhances cortical sensitivity to external stimuli and decreases corticocortical communication, increasing focused attention; however, increases in ACh signaling can lead to symptoms related to anxiety and depression. For example, while stress-induced ACh release can result in adaptive responses to environmental stimuli, chronic elevations in cholinergic signaling may produce maladaptive behaviors. Here, we review several innovations in human imaging, molecular genetics and physiological control of circuits that have begun to identify mechanisms linking altered cholinergic neuromodulation to schizophrenia and depression.",
+    "year": "2014",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "19816066",
+    "title": "Muscarinic receptors in psychiatric disorders - can we mimic 'health'?",
+    "abstract": "The concept that acetylcholine is involved in the pathophysiologies of psychiatric disorders has existed since the 1950s. There is very strong evidence implicating a dysfunctional muscarinic system in schizophrenia, +with less information available for bipolar disorder and major depressive disorder. The translation of this evidence into clinically viable treatments has been disappointing; hampered by problems associated with developing drugs that target the requisite members of the muscarinic family, rather than all of the receptors, which results in unacceptable side-effect profiles. The discovery of additional binding sites, other than the one occupied by acetylcholine, has revitalised research into this aspect of psychopharmacology. New compounds are now being developed that have the potential to selectively target individual muscarinic receptors in the central nervous system. The question that remains to be answered is whether stimulating central muscarinic receptors will result in the reestablishment of normal central muscarinic activity? The purpose of this review is to (i) summarise the data supporting a role of the muscarinic system in schizophrenia, bipolar disorder and major depressive disorder, and (ii) give an overview of some of the new selective muscarinic ligands that are currently in development and try to address the issue of re-establishing appropriate central muscarinic function.",
+    "year": "2009",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "9951560",
+    "title": "Kindling and second messengers: an approach to the neurobiology of recurrence in bipolar disorder.",
+    "abstract": "Since bipolar disorder is inherently a longitudinal illness characterized by recurrence and cycling of mood episodes, neurobiological theories involving kindlinglike phenomena appear to possess a certain explanatory power. An approach to understanding kindlinglike phenomena at the molecular level has been made possible by advances in research on second-messenger systems in the brain. The time frame of interest has shifted from the microseconds of presynaptic events to hours, days, months, and even years in the longer duration of events beyond the synapse--through second messengers, gene regulation, and synthesis of long-acting trophic factors. These complex interlocking systems may explain how environmental stress could interact over time with genetic vulnerability to produce illness. In its two sections, this paper will review an approach to understanding two major aspects of the neurobiology of bipolar disorder: kindling phenomena and second-messenger mechanisms. We will suggest that these two fields of research together help explain the biology of recurrence.",
+    "year": "1999",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "2193316",
+    "title": "The neurochemistry of mania: a hypothesis of etiology and rationale for treatment.",
+    "abstract": "1. The author delineates the emergence of an important concept in the Neurochemistry of mental illness, that of a Cholinergic Factor in Mania. This concept which evolved steadily over a period of 22 years from 1950-1972, the author believes has given us our first significant insight into the etiology and treatment of the Manic state. 2. In addition, the author examines the Adrenergic-Cholinergic hypothesis of Mania and Depression and the Brain Cholinergic-Adrenergic Balance hypothesis for Mania and Schizophrenia. 3. Also described in this article are some successful preliminary attempts by others, to treat Mania with Phosphatidyl Choline and the author will present, for the first time, data relating to success with the use of Phosphatidyl Choline in bringing about permanent remission of mania in 10 treatment subjects since 1983. 4. In conclusion the author proposes a Cholinergic Insufficiency Hypothesis as a primary factor in the causation of Mania and comments on a presumptive role in the modulation and balance of Adrenergic Dominance by Presynaptic Receptors positioned on the Nerve Terminals of Adrenergic Neurons.",
+    "year": "1990",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "2438125",
+    "title": "[Current hypotheses on the mechanism of action of lithium. I. Lithium and neuromediators].",
+    "abstract": "This paper intends to survey, clarify and organize the recent advances of research on the central action mechanism of lithium. A brief introduction relates the cation's \"medical history\" and analyses the evolution of what is known and hypothesized about various categories of psychotropics. In this article the metabolism of neuromediators and its disturbances are the subject of a detailed study. First reviewed is recent work concerning the aminergic theories of depression. Most of the other neuromediator systems are the subject of specific research projects and of these, the GABAergic hypothesis seems the most promising to date.",
+    "year": "1987",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "6214943",
+    "title": "The use of cholinergic precursors in neuropsychiatric diseases.",
+    "abstract": "Preclinical data suggest that cholinergic precursors such as choline or lecithin, increase levels of acetylcholine in specific brain structures, and under certain conditions may enhance cholinergic neurotransmission. A variety of neuropsychiatric diseases including tardive dyskinesia. Huntington's chorea, ataxias, Tourette's syndrome, schizophrenia, affective illness, and senile dementia of the Alzheimer type, has been implicated with a general underactivity of central cholinergic mechanisms. Recent studies have investigated the possibility that cholinergic precursor loading strategies may provide viable treatments for these disorders of presumed cholinergic underactivity. Extensive data demonstrate that the symptoms of tardive dyskinesia can be reduced by choline or lecithin, whereas investigations in other disorders have met with mild success, at best, or are still in preliminary stages. Further controlled studies with choline or lecithin using broader dose ranges, longer durations of treatment, and concomitant administration of agents which may increase the release of acetylcholine are warranted.",
+    "year": "1982",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "188775",
+    "title": "Treatment approaches to mania.",
+    "abstract": "Treatment of manic episodes is an urgency because of the lack of insight and excessive psychomotor activity. Over the past two decades various new modes of pharmacological treatment of this condition has been reported. Along with them, biochemical findings in manic patients have been exhaustively investigated. Etiologically based pharmacological treatment of manic episodes will help us therapeutically in improving the condition of the patient and scientifically, to confirm or explore biochemical basis of manic episodes. The new innovative approaches for the treatment of manic episodes need to be applied in treating therapy-resistant patients. Included in this paper are treatment approaches based on norepinephrine, dopamine, acetylcholine, serotonin, gamma-aminobutyric acid and permissive hypothesis, peripheral autonomic imbalance, endocrine abnormalities, electrolyte disturbances, paradoxical response, and cyclic AMP. In addition, use of antidepressants and pyrotherapy is described.",
+    "year": "1976",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "37433967",
+    "title": "Association of polygenic score and the involvement of cholinergic and glutamatergic pathways with lithium treatment response in patients with bipolar disorder.",
+    "abstract": "Lithium is regarded as the first-line treatment for bipolar disorder (BD), a severe and disabling mental health\u00a0disorder that affects about 1% of the population worldwide. Nevertheless, lithium is not consistently effective, with only 30% of patients showing a favorable response to treatment. To provide personalized treatment options for bipolar patients, it is essential to identify prediction biomarkers such as polygenic scores. In this study, we developed a polygenic score for lithium treatment response (Li<sup>+</sup><sub>PGS</sub>) in patients with BD. To gain further insights into lithium's possible molecular mechanism of action, we performed a genome-wide gene-based analysis. Using polygenic score modeling, via methods incorporating Bayesian regression and continuous shrinkage priors, Li<sup>+</sup><sub>PGS</sub> was developed in the International Consortium of Lithium Genetics cohort (ConLi<sup>+</sup>Gen: N\u2009=\u20092367) and replicated in the combined PsyCourse (N\u2009=\u200989) and BipoLife (N\u2009=\u2009102) studies. The associations of Li<sup>+</sup><sub>PGS</sub> and lithium treatment response - defined in a continuous ALDA scale and a categorical outcome (good response vs. poor response) were tested using regression models, each adjusted for the covariates: age, sex, and the first four genetic principal components. Statistical significance was determined at P\u2009<\u20090.05. Li<sup>+</sup><sub>PGS</sub> was positively associated with lithium treatment response in the ConLi<sup>+</sup>Gen cohort, in both the categorical (P\u2009=\u20099.8\u2009\u00d7\u200910<sup>-</sup><sup>12</sup>, R<sup>2</sup>\u2009=\u20091.9%) and continuous (P\u2009=\u20096.4\u2009\u00d7\u200910<sup>-</sup><sup>9</sup>, R<sup>2</sup>\u2009=\u20092.6%) outcomes. Compared to bipolar patients in the 1<sup>st</sup> decile of the risk distribution, individuals in the 10<sup>th</sup> decile had 3.47-fold (95%CI: 2.22-5.47) higher odds of responding favorably to lithium. The results were replicated in the independent cohorts for the categorical treatment outcome (P\u2009=\u20093.9\u2009\u00d7\u200910<sup>-</sup><sup>4</sup>, R<sup>2</sup>\u2009=\u20090.9%), but not for the continuous outcome (P\u2009=\u20090.13). Gene-based analyses revealed 36 candidate genes that are enriched in biological pathways controlled by glutamate and acetylcholine. Li<sup>+</sup><sub>PGS</sub> may be useful in the development of pharmacogenomic testing strategies by enabling a classification of bipolar patients according to their response to treatment.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  {
+    "pmid": "26141192",
+    "title": "Modeling bipolar disorder in mice by increasing acetylcholine or dopamine: chronic lithium treats most, but not all features.",
+    "abstract": "Bipolar disorder (BD) is a disabling and life-threatening disease characterized by states of depression and mania. New and efficacious treatments have not been forthcoming partly due to a lack of well-validated models representing both facets of BD. We hypothesized that cholinergic- and dopaminergic-pharmacological manipulations would model depression and mania respectively, each attenuated by lithium treatment. C57BL/6 J mice received the acetylcholinesterase inhibitor physostigmine or saline before testing for \"behavioral despair\" (immobility) in the tail suspension test (TST) and forced swim test (FST). Physostigmine effects on exploration and sensorimotor gating were assessed using the cross-species behavioral pattern monitor (BPM) and prepulse inhibition (PPI) paradigms. Other C57BL/6 J mice received chronic lithium drinking water (300, 600, or 1200 mg/l) before assessing their effects alone in the BPM or with physostigmine on FST performance. Another group was tested with acute GBR12909 (dopamine transporter inhibitor) and chronic lithium (1000 mg/l) in the BPM. Physostigmine (0.03 mg/kg) increased immobility in the TST and FST without affecting activity, exploration, or PPI. Lithium (600 mg/l) resulted in low therapeutic serum concentrations and normalized the physostigmine-increased immobility in the FST. GBR12909 induced mania-like behavior in the BPM of which hyper-exploration was attenuated, though not reversed, after chronic lithium (1000 mg/ml). Increased cholinergic levels induced depression-like behavior and hyperdopaminergia induced mania-like behavior in mice, while chronic lithium treated some, but not all, facets of these effects. These data support a cholinergic-monoaminergic mechanism for modeling BD aspects and provide a way to assess novel therapeutics.",
+    "year": "2015",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  {
+    "pmid": "25236552",
+    "title": "The role of the aminergic systems in the pathophysiology of bipolar disorder.",
+    "abstract": "Bipolar disorder (BPD) is a major medical and social burden, but little is known about the specific pathophysiology of BPD. The key biogenic amines in the aminergic system include serotonin (5-HT), norepinephrine (NE), dopamine (DA), and acetylcholine (ACh). By analyzing these neurotransmitters, this chapter highlights three hypotheses in the pathophysiology of BPD: the biogenic amine hypothesis, the cholinergic-aminergic balance hypothesis, and the permissive hypothesis. Evidence from select studies of cerebrospinal fluid, postmortem subjects, neuroimaging, genetic factors, and pharmacological agents will be used to reconcile these hypotheses. Possible explanations for discrepancies in these hypotheses are given, and directions for future studies are suggested.",
+    "year": "2011",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "17011822",
+    "title": "Differential effect of serum from bipolar versus schizophrenic patients on spontaneous acetylcholine release at mammalian neuromuscular junction.",
+    "abstract": "The diagnosis of bipolar disease frequently requires a long time since the age of onset, especially because the disease is misdiagnosed with schizophrenia. The aim of the present work was to investigate whether sera from bipolar patients have an active substance that allows making a fast identification of the disease. Sera from healthy volunteers, euthymic and non-stabilized bipolar patients, and schizophrenic patients were passively transferred into CF1 mice and after 2 day injections, MEPP frequency from diaphragm muscles was recorded. The same procedure was performed with sera fraction of high and low MW (cut-off 3000). Sera from non-stabilized bipolar patients induced a decreased MEPP frequency and occluded the presynaptic inhibitory effect of the specific adenosine A(1) receptor agonist 2-chloro-N(6)-cyclopentyl-adenosine (CCPA) in the recipient mice, while in the euthymic bipolar group spontaneous secretion reached control values although the action of CCPA was still prevented. Similar results were obtained with low MW sera fraction from euthymic and non-stabilized bipolar patients. The addition of adenosine deaminase to the sera fraction prevented the modification of spontaneous ACh release. In mice injected with sera from schizophrenic patients, MEPP frequency was within control values and CCPA induced its typical inhibitory action. These results indicate that bipolar patients contain in their blood an active substance compatible with adenosine, which was able to modify spontaneous ACh release in the recipient mice. This effect was not observed with sera from healthy volunteers and schizophrenic patients. The increase of adenosine concentration may result from synaptic hyperactivity that presumably plays a role in the symptoms of bipolar disorder and/or may derive from peripheral cells through a more general mechanism. The different results obtained with bipolar and schizophrenic sera raise the possibility that the passive transfer model could be used as a diagnostic test in the future.",
+    "year": "2006",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "16818863",
+    "title": "Reduced muscarinic type 2 receptor binding in subjects with bipolar disorder.",
+    "abstract": "A variety of indirect evidence has implicated the central muscarinic-cholinergic system, and more specifically the type 2 muscarinic (M2) receptor, in the pathogenesis of depressive symptoms arising in major depressive disorder and bipolar disorder. To assess the binding potential of muscarinic2 receptors in vivo during depression in subjects with major depressive disorder or bipolar disorder. The M2 receptor binding was compared between unmedicated subjects with major depressive disorder or bipolar disorder during depression vs healthy controls, using positron emission tomography and [18F]FP-TZTP (fluorodopa F 18 [3-(3-[3-fluoroproply]thio)-1,2,5-thiadiazol-4-yl]-1,2,5,6-tetrahydro-1-methylpyridine), a selective M2 receptor radioligand. Outpatients at the National Institutes of Health. Unmedicated subjects with current depression meeting DSM-IV criteria for either major depressive disorder (n = 17) or bipolar disorder (n = 16) and 23 healthy control subjects. The primary outcome parameter was [(18)F]FP-TZTP distribution volume, which is proportional to the product of receptor density and affinity and, in the case of [(18)F]FP-TZTP, is known to be sensitive to endogenous acetylcholine concentrations. The relationship between illness severity, as rated using the Montgomery-Asberg Depression and Hamilton Anxiety Rating scales, and distribution volume also was assessed. The mean anterior cingulate cortex distribution volume differed across groups (F55 = 3.4; P = .04), and this difference was accounted for by significantly lower binding in bipolar disorder compared with both major depressive disorder and control groups. The mean M2 receptor binding in subjects with bipolar disorder was reduced relative to both healthy controls and subjects with major depressive disorder, to an extent that correlated with depressive symptoms. The reduction in the bipolar disorder group could be accounted for either by a reduction in M2 receptor density or affinity or an elevation in endogenous acetylcholine levels. To our knowledge, these data provide the first direct evidence that altered M2 receptor function contributes to mood dysregulation in bipolar disorder.",
+    "year": "2006",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "3035590",
+    "title": "Is there a common denominator for the antimanic effect of lithium and anticonvulsants?",
+    "abstract": "Starting from the idea that different primary actions of carbamazepine, valproate and lithium might converge into a similar secondary mechanism of action, e.g. a modulation of the functioning of certain transmitter systems, a review of the literature was made on the effects of these and related substances on GABAergic, dopaminergic, cholinergic, noradrenergic and serotonergic transmission, in an attempt to find a common denominator. It was concluded that similarities of the effects of these drugs are most evident with respect to a reduction of dopaminergic transmission. Some similarities also exist with respect to GABAergic and, to a lesser degree, cholinergic transmission. The effects on noradrenergic and serotonergic transmission seem too disparate to be considered as a potential basis for the antimanic effects of these drugs.",
+    "year": "1987",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "3010063",
+    "title": "GABA and circadian timekeeping: implications for manic-depression and sleep disorders.",
+    "abstract": "Circadian rhythms, evident in a wide variety of physiological and behavioural parameters, are under the control of central neural pacemakers, the best characterized of which is the suprachiasmatic nucleus of the hypothalamus. The neurophysiological mechanisms involved in central pacemaker function are unknown. Recent biochemical, pharmacological and behavioural evidence suggests that the inhibitory transmitter gamma-aminobutyric acid (GABA), present in the small interneurones of the suprachiasmatic nucleus, plays an important role in circadian timekeeping. This has enabled the formulation of strategies for treatment of patients with manic depressive illness and certain sleep disorders in which disorders of circadian timekeeping may be fundamental.",
+    "year": "1986",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "2862169",
+    "title": "Dopamine in manic depressive illness. A pharmacological synthesis.",
+    "abstract": "If the clinical symptoms of mania are a consequence of increased activity in central dopaminergic (DA) pathways in predisposed individuals, then drugs increasing DA neurotransmission should precipitate or exacerbate mania in such people, whereas drugs which reduce DA neurotransmission should ameliorate manic symptoms. Of the drugs which enhance DA neurotransmission, those which increase synthesis of DA (levodopa), those which promote DA release (amphetamine), and those which act directly as agonists or DA receptors (bromocriptine) have all been shown to precipitate mania. Conversely, drugs which reduce DA neurotransmission by inhibiting synthesis (alpha-methylparatyrosine) or by blocking DA receptors (pimozide) are effective in reducing manic symptoms. DA systems are not working in isolation; evidence is presented showing an influence on manic illness of central cholinergic and GABA-ergic processes. It is suggested that there is an interacting set of neurotransmitter pathways linking the limbic system and the ventral tegmental (A10) area involving DA, acetylcholine and GABA upon which drugs can act to influence the course of a manic illness.",
+    "year": "1985",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "6684317",
+    "title": "Adrenergic-cholinergic balance and the treatment of affective disorders.",
+    "abstract": "Centrally acting cholinomimetic drugs cause anergia, behavioral inhibition and depression. Centrally acting cholinomimetic drugs have antimanic properties. Combinations of acetylcholine precursors and centrally active cholinomimetic agents may cause augmented muscarinic effects, as may a combination of an antiadrenergic and cholinomimetic drugs. Centrally active anticholinergic agents may exert antidepressant effects. Affective disorder patients may show hyperreactivity to cholinomimetic agents, a phenomena which may have diagnostic significance.",
+    "year": "1983",
+    "is_review": false,
+    "publication_types": [
+      "Case Reports",
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "7072840",
+    "title": "Cholinergic regulation of mood and REM sleep: potential model and marker of vulnerability to affective disorder.",
+    "abstract": "To test the hypothesis that depression and REM sleep share common cholinergic mechanisms the authors administered arecoline 25 min after completion of the first REM period to 14 patients with remitted bipolar affective disorder, 15 normal controls, and 5 subjects with a personal or family history of affective disorder. The second REM period occurred significantly sooner in the remitted patients than in the normal controls. The patients also had a significantly higher density of eye movements during the first REM period and a higher percentage of REM sleep. The authors believe that increased cholinergic sensitivity and REM density may be biological markers of increased vulnerability to bipolar affective illness.",
+    "year": "1982",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "7278735",
+    "title": "Manic depression--a disorder of central dopaminergic rhythm.",
+    "abstract": "Starting from the fact that there are abnormal sweat K+ /Na+ ratios in both manics and depressives an attempt has been made to explain manic depression in terms of a disorder of the circadian rhythm of the adrenal glands. This, in turn, it is suggested, is caused by a defective circadian rhythm of central dopamine brought about by its having an abnormal response to ambient temperature change.",
+    "year": "1981",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "146524",
+    "title": "Pharmacological investigations of the cholinergic imbalance hypotheses of movement disorders and psychosis.",
+    "abstract": "The hypotheses of relative cholinergic underactivity in Huntington's disease, tardive dyskinesia, mania, and schizophrenia were pharmacologically investigated, using physostigmine and choline chloride. Intravenous physostigmine improved the involuntary movements of all of four patients with tardive dyskinesia and three of six patients with Huntington's disease. Physostigmine infusion also decreased manic symptoms in six of nine patients with mania, but had no beneficial effects in three patients with schizophrenia. Precursorloading with choline chloride may increase brain acetylcholine levels and central cholinergic activity. In patients with movement disorders a transient improvement during physostigmine infusion predicted a positive response to a trial of oral choline chloride. One manic patient may have been improved by choline chloride, however choline chloride did not improve symptoms in four of six schizophrenix patients. Chronic treatment with oral choline chloride increases plasma levels of choline during administration and for approximately 48 hr after discontinuation of treatment. A single 5-g dose of choline chloride also transiently raises plasma choline levels. These results with physostigmine support the hypotheses of cholinergic underactivity in Huntington's disease, tardive dyskinesia, and mania. Agents which might chronically increase cholinergic activity such as choline chloride should be further tested in these disorders.",
+    "year": "1978",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Comparative Study",
+      "Controlled Clinical Trial",
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  {
+    "pmid": "179776",
+    "title": "[Mechanism of action of lithium in manic-depressive psychoses: current research results].",
+    "abstract": "The mechanism of action lithium in the treatment of manic-depressive illness is far from being known. A great progress will be achieved when it is known wherther lithium has an actual anti-depressive action, which implies to determine whether all the \"endogenous\" depressive states belong to the same pathogenic group. Lithium salts have a real therapeutic action on manic states which may be put together with the decrease of available Norepinephrine that lithium salts bring about on cerebral receptors. This decrease concords with the aminergic theory of affective disorders. Many actions of lithium salts on the physiologic systems have been brought to evidence but the uncertainties that remain concerning their interactions prevent us to formulate any coherent assumption.",
+    "year": "1976",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "English Abstract",
+      "Journal Article"
+    ]
+  }
 ]

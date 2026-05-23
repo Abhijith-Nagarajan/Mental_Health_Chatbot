@@ -1,127 +1,294 @@
 [
-    {
-        "title": "Altered glutamate concentration in the subcortical nuclei and its correlation with resting-state functional connectivity in unmedicated obsessive-compulsive disorder.",
-        "abstract": "The imbalance of glutamate (Glu) and gamma-aminobutyric acid (GABA) in the cortico-striatal-thalamo-cortical (CSTC) circuit is closely related to the onset of obsessive-compulsive disorder (OCD). The caudate nucleus and thalamus are the critical hubs of the CSTC circuit; however, few studies have explored the correlation between the neurochemical changes of subcortical nuclei and the resting-state functional connectivity (rsFC) within the CSTC circuit in OCD patients. In this study, 24 OCD patients and 17 healthy controls (HCs) underwent resting-state functional MRI (rs-fMRI) scans and proton magnetic resonance spectroscopy (<sup>1</sup>H-MRS) acquisition. The bilateral caudate nucleus and thalamus were used as the regions of interest (ROIs) for ROI-to-ROI rsFC analysis within CSTC circuit and Glu/GABA calculation to explore altered metabolite concentration in the subcortical nuclei and its correlation with rsFC. A significant increase of Glu in the left thalamus (Thalamus_L), an increase of Glu/GABA in the right thalamus (Thalamus_R), and a decrease of GABA in Thalamus_R were observed in the OCD patients compared to HCs. The rsFC showed widespread reductions among CSTC core nodes (caudate-thalamus-orbitofrontal cortex (OFC)). Furthermore, correlation analysis revealed a significant positive correlation between left caudate Glu levels and left caudate-right OFC rsFC. These findings provided the new evidence of glutamatergic modulation in this pathway's functional integration.",
-        "year": "2025"
-    },
-    {
-        "title": "The relationship between oxidative stress markers and 1H-Magnetic resonance spectroscopy findings in obsessive compulsive disorder.",
-        "abstract": "The purpose of this study was to examine N-acetyl aspartate (NAA)/creatine (Cr) and glutamate, glutamine, and gamma-aminobutyric acid complex (Glx)/Cr levels in patients with obsessive compulsive disorder (OCD) and healthy controls' orbitofrontal cortex (OFC) and caudate nucleus (CN) by proton magnetic resonance spectroscopy (1H-MRS) method and to investigate their relationship with oxidative stress markers glutathione peroxidase (GPx) and superoxide dismutase (SOD). This study included patients with OCD (n\u00a0=\u00a025) and healthy controls (n\u00a0=\u00a025) ranging in age from 18 to 65. We used the ELISA method to evaluate serum SOD and GPx levels. Levels of NAA/Cr and Glx/Cr in the orbitofrontal cortex and caudate nucleus were measured using the 1H-MRS method. Our study did not detect statistically significant differences in the orbitofrontal cortex Glx/Cr and NAA/Cr levels between the OCD patients and the control group. OCD patients exhibited a decrease in NAA/Cr levels, consistent with impaired neuronal integration, and an increase in Glx/Cr levels, consistent with hyperactivation, in the caudate nucleus compared to the control group. We observed a negative correlation between NAA/Cr levels in the caudate nucleus and the levels of SOD and GPx. Our study is the first to assess CN and OFC together in OCD patients using 3\u00a0T MR, investigating the relationship between neurometabolite concentrations and oxidative stress parameters. The negative correlation we observed between NAA/Cr levels and SOD and GPx in the caudate nucleus suggests that increased oxidative stress in this brain region in OCD patients may contribute to impaired neuronal integration and functionality.",
-        "year": "2024"
-    },
-    {
-        "title": "Glutamatergic abnormalities in the pregenual anterior cingulate cortex in obsessive-compulsive disorder using magnetic resonance spectroscopy: A controlled study.",
-        "abstract": "In this study, we utilized proton magnetic resonance spectroscopy (MRS) to understand the role of glutamate (Glu), glutamine (Gln), and gamma-aminobutyric acid (GABA) of OCD patients in the pregenual anterior cingulate cortex (pgACC). In total, 54 patients with OCD and 54 healthy controls (HC) matched for age and sex were included in the study. They underwent MRS in the pgACC region to calculate the concentrations of Glu, Gln, GABA, and Glu + Gln (Glx). After quality control of the MRS data, 21 OCD and 21 HC were statistically analyzed. The severity of symptoms were evaluated using the Yale-Brown Obsessive-Compulsive Scale (YBOCS). In the statistical analysis, we compared differences between groups for the metabolites; in the OCD we analyzed the correlations with symptom severity, medication status, age, and duration of illness. A significant decrease in Glx, in Glu, and in Gln in the pgACC were observed in the OCD compared to HC. The correlation statistics showed a significant positive correlation between Glu levels and the YBOCS compulsions subscale. The results indicate that patients with OCD present a disturbance in glutamatergic metabolism in the pgACC. The results also demonstrate that these changes correlate with the severity of compulsions.",
-        "year": "2023"
-    },
-    {
-        "title": "Cortical glutamate and GABA are related to compulsive behaviour in individuals with obsessive compulsive disorder and healthy controls.",
-        "abstract": "There has been little analysis of neurochemical correlates of compulsive behaviour to illuminate its underlying neural mechanisms. We use 7-Tesla proton magnetic resonance spectroscopy (<sup>1</sup>H-MRS) to assess the balance of excitatory and inhibitory neurotransmission by measuring glutamate and GABA levels in anterior cingulate cortex (ACC) and supplementary motor area (SMA) of healthy volunteers and participants with Obsessive-Compulsive Disorder (OCD). Within the SMA, trait and clinical measures of compulsive behaviour are related to glutamate levels, whereas a behavioural index of habitual control correlates with the glutamate:GABA ratio. Participants with OCD also show the latter relationship in the ACC while exhibiting elevated glutamate and lower GABA levels in that region. This study highlights SMA mechanisms of habitual control relevant to compulsive behaviour, common to the healthy sub-clinical and OCD populations. The results also demonstrate additional involvement of anterior cingulate in the balance between goal-directed and habitual responding in OCD.",
-        "year": "2023"
-    },
-    {
-        "title": "Cerebellar gamma-aminobutyric acid: Investigation of group effects in neurodevelopmental disorders.",
-        "abstract": "Neurodevelopmental disorders (NDDs) including autism spectrum disorder (ASD), attention-deficit hyperactivity disorder (ADHD) and obsessive-compulsive disorder (OCD) are thought to arise in part from the disruption in the excitatory/inhibitory balance of gamma-aminobutyric acid (GABA) and glutamate in the brain. Recent evidence has shown the involvement of the cerebellum in cognition and affect regulation, and cerebellar atypical function or damage is reported frequently in NDDs. Magnetic resonance spectroscopy studies have reported decreases in GABA in cortical brain areas in the NDDs, however, GABA levels in the cerebellum have not been examined. To determine possible group effects, we used a MEGA-PRESS acquisition to investigate GABA+ levels in a cerebellar voxel in 343 individuals (aged 2.5-22\u2009years) with ASD, ADHD, OCD and controls. Using a mixed effects model, we found no significant differences between groups in GABA+ concentration. Our findings suggest that cerebellar GABA+ levels do not differentiate NDD groups.",
-        "year": "2023"
-    },
-    {
-        "title": "Effects of Gaba Derivatives on Anxious and Compulsive Behavior in Offspring of Rats with Experimental Preeclampsia.",
-        "abstract": "We studied the effects of GABA derivatives on anxious and compulsive behavior of progeny of rats with experimental preeclampsia provoked by replacement of drinking water for 1.8% NaCl solution from the first day of pregnancy to delivery. In comparison with progeny of health rats, the offspring of dams with complicated pregnancy demonstrated high level of anxiety and the development of obsessive-compulsive disorder both at the early (40 and 70 days) and late (6 and 12 months) stages of ontogeny. GABA derivatives succicard, salifen, and phenibut reduced symptoms of experimental preeclampsia in offspring of various age by decreasing the level of anxiety and reducing compulsive behavior. The efficacy of the examined derivatives was similar to that of the reference drug Pantogam.",
-        "year": "2020"
-    },
-    {
-        "title": "Pregabalin augmentation for resistant obsessive-compulsive disorder: a double-blind placebo-controlled clinical trial.",
-        "abstract": "Glutamate dysfunction has been shown to be associated with pathophysiology of obsessive-compulsive disorder (OCD). Our objective is to survey the effects of pregabalin (a glutamate-modulating agent) as an augmenting treatment for resistant OCD. In this 12-week double-blind placebo-controlled clinical trial, 56 patients with resistant OCD were randomly allocated to receive either pregabalin or placebo plus their current medication (sertraline). Yale-Brown Obsessive Compulsive Scale (Y-BOCS) was used to evaluate the outcomes. Adverse effects were also registered. Of the 56 patients with resistant OCD who were randomly allocated in 2 groups of pregabalin (n\u00a0=\u00a028) and placebo group (n\u00a0=\u00a028), 42 patients (22 in pregabalin group and 20 in placebo group) completed the trial. Throughout the trial, the mean score decreased from 26.13\u00b1 7.03 to 8.81\u00a0\u00b1\u00a03.47 in the pregabalin group (p\u00a0<\u00a00) and from 26.85\u00a0\u00b1\u00a04.34 to 17.63\u00a0\u00b1\u00a04.22 in the placebo group (p\u00a0<\u00a00). At the end of trial, 16 (57.14%) patients in the pregabalin group and 2 (7.14%) patients in the placebo group showed more than 35% decline in YBOCS (p\u00a0<\u00a0.01). The pregabalin group showed good tolerability and safety. Our study revealed that pregabalin, as an augmenting medication, is more effective than placebo in the treatment of patients with resistant OCD.",
-        "year": "2020"
-    },
-    {
-        "title": "Investigation of anterior cingulate cortex gamma-aminobutyric acid and glutamate-glutamine levels in obsessive-compulsive disorder using magnetic resonance spectroscopy.",
-        "abstract": "Obsessive-compulsive disorder (OCD) is a relatively common and disabling psychiatric disorder whose pathophysiology is incompletely understood. In this study, we utilized magnetic resonance spectroscopy (MRS) in an effort to provide a better understanding of the role of brain gamma-aminobutyric acid (GABA) and glutamate in the pathophysiology of OCD. We hypothesized that beyond the separate effects of these neurotransmitter systems, a disruption in the balance between GABA and glutamate could be particularly relevant to OCD. We obtained MRS measures of GABA and glutamate concentrations in the anterior cingulate cortex from 23 adult patients with OCD and 20 sex- and age-matched healthy community volunteers. Established clinical rating scales were used to assess the severities of OCD, anxiety, and depression symptoms. Statistical analysis involved the assessment of patient-control group differences in the individual measures of GABA and glutamate, as well as in the ratio of the GABA to glutamate measures. Additionally, we explored whether differences in the MRS measures existed between two subgroups of patients formed according to the severity of their OCD symptoms. Finally, we assessed the relations of demographic and clinical variables to the MRS measures. Patients with OCD displayed a higher estimated GABA level and a higher GABA to glutamate ratio than healthy participants, but no significant group differences were observed in the measure of glutamate. The MRS measures did not vary by subgroup and showed no correlations with demographic and clinical variables. These results indicate that GABA abnormalities within the anterior cingulate cortex contribute to the pathophysiology of OCD. The results fail to provide evidence that glutamate abnormalities alone are involved in adult OCD. Yet, it seems that a disruption in the balance between glutamate and GABA neurotransmission may have a particularly important role to play in OCD pathophysiology.",
-        "year": "2019"
-    },
-    {
-        "title": "Special Issue on Disease: New Advances in Psychiatry.",
-        "abstract": "",
-        "year": "2019"
-    },
-    {
-        "title": "Use of antiepileptic mood stabilizers in dermatology.",
-        "abstract": "Several antiepileptic drugs (AEDs) are approved by the US Food and Drug Administration for the treatment of bipolar disorder (valproic acid, divalproex, lamotrigine, carbamazepine) and some cutaneous neuropathic pain syndromes (carbamazepine, gabapentin, pregabalin). The AEDs may be effective in the management of (1) chronic pruritus, including pruritus due systemic disease, including uremia, neuropathic pain, neuropathic pruritus, and complex cutaneous sensory syndromes, especially where central nervous system (CNS) sensitization plays a role; (2) management of emotional dysregulation and the resultant repetitive self-excoriation or other cutaneous self-injury in patients who repetitively stimulate or manipulate their integument to regulate emotions (prurigo nodularis, lichen simplex chronicus, skin picking disorder, trichotillomania); (3) management of dermatologic clinical manifestations associated with autonomic nervous system activation (hyperhidrosis, urticaria, flushing; these often occur in conjunction with psychiatric disorders with prominent autonomic activation and dysregulation, eg, social anxiety disorder, posttraumatic stress disorder); and (4) when certain anticonvulsants have a direct therapeutic effect (eg, in psoriasis); currently the use of AEDs for such cases is largely experimental. Gabapentin (dosage range 300-3600 mg daily) is the most widely studied AED mood stabilizer in dermatology and is especially effective in situations where CNS sensitization is a mediating factor. Further larger-scale controlled studies of AEDs in dermatology are necessary.",
-        "year": "2018"
-    },
-    {
-        "title": "Efficacy and tolerability of adjunctive gabapentin and memantine in obsessive compulsive disorder: Double-blind, randomized, placebo-controlled trial.",
-        "abstract": "In the search for additional pharmacologic treatments of patients with obsessive-compulsive disorders (OCD), the glutamatergic system is attracting growing interest. While adjuvant memantine to a standard medication with a selective serotonin-reuptake inhibitor (SSRI) appears to reduce OCD symptoms, the adjuvant effect of gabapentin is less certain. The aim of the present randomized, double-blind and three-arm clinical trial was therefore to assess whether, compared to placebo, gabapentin (GAB) or memantine (MEM) adjuvant to a standard medication with an SSRI (fluoxetine; FLU) might lead to further improvements. A total of 99 outpatients (mean age: 29.59 years; 49.5% females) diagnosed with OCD were randomly assigned to one of the following three conditions: FLU\u00a0+\u00a0gabapentin (FLU\u00a0+\u00a0GAB); FLU\u00a0+\u00a0memantine (FLU\u00a0+\u00a0MEM); FLU\u00a0+\u00a0placebo (FLU\u00a0+\u00a0PLA). Experts rated patients' symptoms of OCD with the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) at baseline, and 4 and 8 weeks later. YBOCS scores did not decrease over time. No group differences were observed. However, the significant Time by Group interaction showed that Y-BOCS scores decreased significantly over time in the FLU\u00a0+\u00a0PLA group. Response rates did not differ between the three study conditions. Typical side-effects were rash (FLU\u00a0+\u00a0MEM), drowsiness (FLU\u00a0+\u00a0GAB), anxiety (FLU\u00a0+\u00a0GAB; FLU\u00a0+\u00a0PLA), and drowsiness plus anxiety (FLU\u00a0+\u00a0GAB). The present pattern of results suggests that glutamatergic medications such as gabapentin and memantine adjuvant to a standard treatment with an SSRI have no additional positive impact on patients with OCD, as measured with the Y-BOCS. Additionally, side-effects were reported. Future studies should use more fine-grained tools to assess, for example, patients' sleep and cognitive functioning, and patients' view of symptoms.",
-        "year": "2018"
-    },
-    {
-        "title": "Altered serotonergic and GABAergic neurotransmission in a mice model of obsessive-compulsive disorder.",
-        "abstract": "There is ample evidence that obsessive-compulsive disorder (OCD) is based on reduced serotonergic function. Replicated bidirectional selection for thermoregulatory nest-building behavior in the laboratory house mouse (Mus musculus) resulted in compulsive-like, non-compulsive-like and randomly bred control mice that represent a non-induced animal model of OCD. The present study aimed at investigating the neurochemical patterns in specific brain regions of compulsive-like (HA) versus non-compulsive-like (LA) and normal (CA) mice. The neurochemical investigation of several brain regions of the corticostriato-thalamocortical circuity, i.e., nucleus caudatus (CPU), nucleus accumbens (NAc), globus pallidus (GP), hippocampus (HPC), amygdala (AM), ventral tegmental area (VTA) and substantia nigra (SN) was performed by electrochemical (serotonin and dopamine) and fluorescence (glutamate and GABA) HPLC detection. HA mice displayed significantly decreased 5-HT concentrations in the mPFC and LA mice displayed a significant increase in GABA concentrations in the mPFC. This supports the pathophysiological relevance of serotonin in the manifestation of OCD and adding to the construct validity of the non-induced mouse model of OCD.",
-        "year": "2018"
-    },
-    {
-        "title": "In vivo effects of ketamine on glutamate-glutamine and gamma-aminobutyric acid in obsessive-compulsive disorder: Proof of concept.",
-        "abstract": "We previously reported the rapid and robust clinical effects of ketamine versus saline infusions in a proof-of-concept crossover trial in unmedicated adults with obsessive-compulsive disorder (OCD). This study examined the concurrent neurochemical effects of ketamine versus saline infusions using proton magnetic resonance spectroscopy ((1)H MRS) during the clinical proof-of-concept crossover trial. Levels of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA) and the excitatory neurochemicals glutamate+glutamine (Glx) were acquired in the medial prefrontal cortex (MPFC), a region implicated in OCD pathology. Seventeen unmedicated OCD adults received two intravenous infusions at least 1 week apart, one of saline and one of ketamine, while lying supine in a 3.0 T GE MR scanner. The order of each infusion pair was randomized. Levels of GABA and Glx were measured in the MPFC before, during, and after each infusion and normalized to water (W). A mixed effects model found that MPFC GABA/W significantly increased over time in the ketamine compared with the saline infusion. In contrast, there were no significant differences in Glx/W between the ketamine and saline infusions. Together with earlier evidence of low cortical GABA in OCD, our findings suggest that models of OCD pathology should consider the role of GABAergic abnormalities in OCD symptomatology.",
-        "year": "2015"
-    },
-    {
-        "title": "Animal behavior case of the month. Tail chasing in a dog diagnosed as compulsive disorder.",
-        "abstract": "",
-        "year": "2015"
-    },
-    {
-        "title": "Assessment of glutamate in striatal subregions in obsessive-compulsive disorder with proton magnetic resonance spectroscopy.",
-        "abstract": "Glutamatergic signaling abnormalities in cortico-striatal circuits are hypothesized to lead to the repetitive thoughts and behaviors of obsessive-compulsive disorder (OCD). To test this hypothesis, studies have used proton magnetic resonance spectroscopy (1H MRS) to measure glutamatergic compounds in the striatum of individuals with OCD. However, no studies have used methods that could measure glutamate minimally contaminated by glutamine and \u03b3-aminobutyric acid (GABA) in striatal subregions. Therefore, in this study, a proton MRS imaging (1H MRSI) technique with relatively high spatial resolution at 3.0 T was used to measure minimally contaminated glutamate levels in three striatal subregions (i.e., dorsal caudate, dorsal putamen, and ventral striatum) in 15 unmedicated adults with OCD and 16 matched healthy control subjects. No significant group differences in glutamate levels were found in any of the three striatal subregions. In contrast, a study in unmedicated pediatric OCD patients that measured glutamatergic compounds in the dorsal caudate by MRS at 1.5 T found significant elevations. Further studies are warranted to assess whether these discrepant MRS findings are due to differences in subject age or MRS methodology, or potentially are associated with glutamatergic gene variants implicated in OCD.",
-        "year": "2015"
-    },
-    {
-        "title": "Effects of mood stabilizers on marble-burying behavior in mice: involvement of GABAergic system.",
-        "abstract": "Obsessive-compulsive disorder (OCD) is characterized by recurrent unwanted thoughts (obsessions), usually accompanied by repetitive behaviors (compulsions) intended to alleviate anxiety. Marble-burying behavior is a pharmacological model for study of OCD. In the present study, we examined the effects of mood stabilizers on marble-burying behavior in mice, as well as the role of GABA receptors in this behavior. The effects of treatment with valproate, carbamazepine, lithium carbonate, lamotrigine, muscimol and baclofen on marble-burying behavior in mice were evaluated. Valproate (10, 30 and 100\u00a0mg/kg, i.p.) and carbamazepine (30 and 100\u00a0mg/kg, p.o.) significantly reduced marble-burying behavior without affecting total locomotor activity in ICR mice. Lamotrigine (30\u00a0mg/kg, i.p.) also significantly reduced marble-burying behavior in ddY mice. On the other hand, lithium carbonate (10, 30 and 100\u00a0mg/kg, i.p.) reduced total locomotor activity without affecting marble-burying behavior in ddY mice. The selective GABA(A) receptor agonist muscimol (1\u00a0mg/kg) significantly reduced marble-burying behavior without affecting total locomotor activity, whereas the selective GABA(B) receptor agonist baclofen (3\u00a0mg/kg) reduced total locomotor activity without affecting marble-burying behavior. Moreover, the selective GABA(A) receptor antagonist bicuculline (3\u00a0mg/kg) significantly counteracted the decrease in marble-burying induced by the administration of muscimol (1\u00a0mg/kg) and valproate (100\u00a0mg/kg). These results suggest that GABAergic mechanism is involved in marble-burying behavior, and that valproate, carbamazepine and lamotrigine reduce marble-burying behavior. Moreover, valproate reduces marble-burying behavior via a GABA(A) receptor-dependent mechanism.",
-        "year": "2013"
-    },
-    {
-        "title": "Investigation of cortical glutamate-glutamine and \u03b3-aminobutyric acid in obsessive-compulsive disorder by proton magnetic resonance spectroscopy.",
-        "abstract": "Glutamatergic abnormalities in corticostriatal brain circuits are thought to underlie obsessive-compulsive disorder (OCD). Whether these abnormalities exist in adults with OCD is not clear. We used proton magnetic resonance spectroscopy (\u00b9H MRS) to test our hypothesis that unmedicated adults with OCD have reduced glutamate plus glutamine (Glx) levels in the medial prefrontal cortex (MPFC) compared with healthy controls. Levels of \u03b3-aminobutyric acid (GABA) were also explored. Twenty-four unmedicated adults with OCD and 22 matched healthy control subjects underwent \u00b9H MRS scans at 3.0\u2009T. Resonances of both Glx and GABA were obtained using the standard J-editing technique and assessed as ratios relative to voxel tissue water (W) in the MPFC (the region of interest) and the dorsolateral prefrontal cortex (DLPFC) to explore the regional specificity of any finding. In the MPFC, Glx/W did not differ by diagnostic group (p=0.98) or sex (p=0.57). However, GABA/W was decreased in OCD (2.16\u00b10.46 \u00d7 10\u207b\u00b3) compared with healthy controls (2.43\u00b10.45 \u00d7 10\u207b\u00b3, p=0.045); moreover, age of OCD onset was inversely correlated with MPFC GABA/W (r=-0.50, p=0.015). MPFC GABA/W was higher in females than in males. In the DLPFC, there were no main effects of diagnosis or gender on Glx/W or GABA/W. These data indicate that unmedicated adults with OCD do not have Glx abnormalities in a MPFC voxel that includes the pregenual anterior cingulate cortex. However, they may have decreased MPFC GABA levels. How GABA abnormalities might contribute to corticostriatal dysfunction in OCD deserves further study.",
-        "year": "2012"
-    },
-    {
-        "title": "Guidelines for the pharmacological treatment of anxiety disorders, obsessive-compulsive disorder and posttraumatic stress disorder in primary care.",
-        "abstract": "Anxiety disorders are frequently under-diagnosed conditions in primary care, although they can be managed effectively by general practitioners. This paper is a short and practical summary of the World Federation of Biological Psychiatry (WFSBP) guidelines for the pharmacological treatment of anxiety disorders, obsessive-compulsive disorder (OCD) and posttraumatic stress disorder (PTSD) for the treatment in primary care. The recommendations were developed by a task force of 30 international experts in the field and are based on randomized controlled studies. First-line pharmacological treatments for these disorders are selective serotonin reuptake inhibitors (for all disorders), serotonin-norepinephrine reuptake inhibitors (for some) and pregabalin (for generalized anxiety disorder only). A combination of medication and cognitive behavior/exposure therapy was shown to be a clinically desired treatment strategy. This short version of an evidence-based guideline may improve treatment of anxiety disorders, OCD, and PTSD in primary care.",
-        "year": "2012"
-    },
-    {
-        "title": "Pregabalin augmentation in treatment-resistant obsessive-compulsive disorder: a 16-week case series.",
-        "abstract": "",
-        "year": "2011"
-    },
-    {
-        "title": "Pregabalin augmentation in treatment-resistant obsessive-compulsive disorder.",
-        "abstract": "The therapeutic limitations of mainstay psychopharmacological treatments of obsessive-compulsive disorder (OCD) warrant the clinical testing of further add-on agents to improve patients' clinical symptoms. One such agent might be pregabalin, which has been found efficacious in other anxiety disorders. We report on the findings of a small, 8-week open-label trial of adjunctive pregabalin with a 4-week follow-up in 10 OCD patients resistant or only partial responders to a combination of serotonin reuptake inhibitors with atypical antipsychotics. Adjunctive pregabalin at 225-675 mg/d was well tolerated and led to patients' substantial improvement in their OCD symptoms, as reflected in their scores on the Yale-Brown Obsessive Compulsive Scale. Despite the several limitations of the study, its results suggest that adjunctive pregabalin might be a safe and efficacious new augmentation agent in the treatment of drug-resistant OCD. We hypothesize that pregabalin's mechanism of action in OCD might consist in its inhibition of glutamatergic neurotransmission.",
-        "year": "2011"
-    },
-    {
-        "title": "Cortical GABA, striatal dopamine and midbrain serotonin as the key players in compulsive and anxiety disorders--results from in vivo imaging studies.",
-        "abstract": "Various factors are discussed in the pathophysiology of anxiety disorders, including dysfunctions of the (DA)ergic, serotonin (5-HT)ergic and GABAergic system. We assessed the contribution of the individual synaptic constituents by subjecting all available in vivo imaging studies on patients with anxiety disorders to a retrospective analysis. On a total of 504 patients with obsessive-compulsive disorder (OCD), generalized anxiety disorder (GAD), panic disorder (PD), phobia, or posttraumatic stress-disorder (PTSD) and 593 controls, investigations of VMAT2, DAT, SERT, D1, D2, 5-HTIA, 5-HT2A, GABA(A), and NK1 receptor binding in neostriatum, ventral striatum, thalamus, neocortex, limbic system, cingulate, midbrain/ pons or cerebellum were performed using either PET or SPECT. Separate analyses of the individual disorders showed significant decreases of striatal D2 receptors in OCD (-18%), mesencephalic SERT in OCD (-13%), frontocortical GABAA receptors in PD (-13%) and temporocortical GABAA receptors in GAD (-16%). Pooling of all disorders yielded a significant reduction of mesencephalic SERT (-13%), mesencephalic (-27%) as well as cingulate 5-HT1A receptors (-18%), striatal D2 receptors (-21%) and frontal (-14%), temporal (-14%), occipital (-13%) and cingulate GABAA receptors (-15%). The results show that DA, 5-HT, and GABA play a major role in all subtypes of anxiety disorders. In particular, the findings imply that the regulation state of DA as modulated by GABA and 5-HT may be crucial for the development of anxiety- and compulsion-related disorders. As GABA and 5-HT inhibit DAergic neurotransmission, the reductions of GABAA, 5-HT1A and SERT can be assumed to result in an enhanced activity of the mesolimbic DAergic system. This notion is also reflected by the decrease of striatal D2 receptor binding, which is indicative of an increased availability of synaptic DA.",
-        "year": "2010"
-    },
-    {
-        "title": "[Physiopathology of obsessive-compulsive disorder--special reference to aspects of the neurochemistry].",
-        "abstract": "",
-        "year": "2009"
-    },
-    {
-        "title": "Anti-brain autoantibodies and altered excitatory neurotransmitters in obsessive-compulsive disorder.",
-        "abstract": "Although serum autoantibodies directed against basal ganglia (BG) implicate autoimmunity in the pathogenesis of obsessive-compulsive disorder (OCD), it is unclear whether these antibodies can cross the blood-brain barrier to bind against BG or other components of the OCD circuit. It is also unclear how they might lead to hyperactivity in the OCD circuit. We examined this by investigating the presence of autoantibodies directed against the BG or thalamus in the serum as well as CSF of 23 OCD patients compared with 23 matched psychiatrically normal controls using western blot. We further investigated CSF amino acid (glutamate, GABA, taurine, and glycine) levels and also examined the extent to which these levels were related to the presence of autoantibodies. There was evidence of significantly more binding of CSF autoantibodies to homogenate of BG as well as to homogenate of thalamus among OCD patients compared with controls. There was no significant difference in binding between patient and control sera except for a trend toward more bands to BG and thalamic protein corresponding to 43 kD among OCD patients compared with controls. CSF glutamate and glycine levels were also significantly higher in OCD patients compared with controls, and further multivariate analysis of variance showed that CSF glycine levels were higher in those OCD patients who had autoantibodies compared with those without. The results of our study implicate autoimmune mechanisms in the pathogenesis of OCD and also provide preliminary evidence that autoantibodies against BG and thalamus may cause OCD by modulating excitatory neurotransmission.",
-        "year": "2009"
-    },
-    {
-        "title": "Pregabalin versus naltrexone in alcohol dependence: a randomised, double-blind, comparison trial.",
-        "abstract": "Pregabalin (PRE) acts as a presynaptic inhibitor of the release of excessive levels of excitatory neurotransmitters by selectively binding to the alpha(2)-delta subunit of voltage-gated calcium channels. In this randomised, double-blind comparison trial with naltrexone (NAL), we aimed to investigate the efficacy of PRE on alcohol drinking indices. Craving reduction and improvement of psychiatric symptoms were the secondary endpoints. Seventy-one alcohol-dependent subjects were detoxified and subsequently randomised into two groups, receiving 50 mg of NAL or 150-450 mg of PRE. Craving (VAS; OCDS), withdrawal (CIWA-Ar) and psychiatric symptoms (SCL-90-R) rating scales were applied. Alcohol drinking indices and craving scores were not significantly different between groups. Compared with NAL, PRE resulted in greater improvement of specific symptoms in the areas of anxiety, hostility and psychoticism, and survival function (duration of abstinence from alcohol). PRE also resulted in better outcome in patients reporting a comorbid psychiatric disorder. Results from this study globally place PRE within the same range of efficacy as that of NAL. The mechanism involved in the efficacy of PRE in relapse prevention could be less related to alcohol craving and more associated with the treatment of the comorbid psychiatric symptomatology.",
-        "year": "2010"
-    },
-    {
-        "title": "Usher syndrome and psychiatric symptoms: a challenge in psychiatric management.",
-        "abstract": "Usher syndrome, the most common case of deaf - blindness, may be associated with various psychiatric disorders. Inability of communication through spoken language in association with progressive visual impairment affects diagnostics and management in case of co-morbidity with mental disorder. A patient with Usher syndrome and psychiatric symptoms is described and the difficulties in psychiatric assessment in her case are discussed. A 28 years old woman with hearing impairment diagnosed at the age of 3 months and progressive pigmentary retinopathy diagnosed at the age of 19 years, has been treated for ADHD in childhood, eating disorder in adolescence and psychosis-like disorder in adult life. Direct observation of patient behavior and the effects of pharmacotherapy were the main diagnostic procedures, since the use of sign language and handwriting was very limited. The limitations of management are discussed.",
-        "year": "2009"
-    }
+  {
+    "pmid": "30446200",
+    "title": "Use of antiepileptic mood stabilizers in dermatology.",
+    "abstract": "Several antiepileptic drugs (AEDs) are approved by the US Food and Drug Administration for the treatment of bipolar disorder (valproic acid, divalproex, lamotrigine, carbamazepine) and some cutaneous neuropathic pain syndromes (carbamazepine, gabapentin, pregabalin). The AEDs may be effective in the management of (1) chronic pruritus, including pruritus due systemic disease, including uremia, neuropathic pain, neuropathic pruritus, and complex cutaneous sensory syndromes, especially where central nervous system (CNS) sensitization plays a role; (2) management of emotional dysregulation and the resultant repetitive self-excoriation or other cutaneous self-injury in patients who repetitively stimulate or manipulate their integument to regulate emotions (prurigo nodularis, lichen simplex chronicus, skin picking disorder, trichotillomania); (3) management of dermatologic clinical manifestations associated with autonomic nervous system activation (hyperhidrosis, urticaria, flushing; these often occur in conjunction with psychiatric disorders with prominent autonomic activation and dysregulation, eg, social anxiety disorder, posttraumatic stress disorder); and (4) when certain anticonvulsants have a direct therapeutic effect (eg, in psoriasis); currently the use of AEDs for such cases is largely experimental. Gabapentin (dosage range 300-3600 mg daily) is the most widely studied AED mood stabilizer in dermatology and is especially effective in situations where CNS sensitization is a mediating factor. Further larger-scale controlled studies of AEDs in dermatology are necessary.",
+    "year": "2018",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "22540422",
+    "title": "Guidelines for the pharmacological treatment of anxiety disorders, obsessive-compulsive disorder and posttraumatic stress disorder in primary care.",
+    "abstract": "Anxiety disorders are frequently under-diagnosed conditions in primary care, although they can be managed effectively by general practitioners. This paper is a short and practical summary of the World Federation of Biological Psychiatry (WFSBP) guidelines for the pharmacological treatment of anxiety disorders, obsessive-compulsive disorder (OCD) and posttraumatic stress disorder (PTSD) for the treatment in primary care. The recommendations were developed by a task force of 30 international experts in the field and are based on randomized controlled studies. First-line pharmacological treatments for these disorders are selective serotonin reuptake inhibitors (for all disorders), serotonin-norepinephrine reuptake inhibitors (for some) and pregabalin (for generalized anxiety disorder only). A combination of medication and cognitive behavior/exposure therapy was shown to be a clinically desired treatment strategy. This short version of an evidence-based guideline may improve treatment of anxiety disorders, OCD, and PTSD in primary care.",
+    "year": "2012",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Practice Guideline",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "20614802",
+    "title": "Cortical GABA, striatal dopamine and midbrain serotonin as the key players in compulsive and anxiety disorders--results from in vivo imaging studies.",
+    "abstract": "Various factors are discussed in the pathophysiology of anxiety disorders, including dysfunctions of the (DA)ergic, serotonin (5-HT)ergic and GABAergic system. We assessed the contribution of the individual synaptic constituents by subjecting all available in vivo imaging studies on patients with anxiety disorders to a retrospective analysis. On a total of 504 patients with obsessive-compulsive disorder (OCD), generalized anxiety disorder (GAD), panic disorder (PD), phobia, or posttraumatic stress-disorder (PTSD) and 593 controls, investigations of VMAT2, DAT, SERT, D1, D2, 5-HTIA, 5-HT2A, GABA(A), and NK1 receptor binding in neostriatum, ventral striatum, thalamus, neocortex, limbic system, cingulate, midbrain/ pons or cerebellum were performed using either PET or SPECT. Separate analyses of the individual disorders showed significant decreases of striatal D2 receptors in OCD (-18%), mesencephalic SERT in OCD (-13%), frontocortical GABAA receptors in PD (-13%) and temporocortical GABAA receptors in GAD (-16%). Pooling of all disorders yielded a significant reduction of mesencephalic SERT (-13%), mesencephalic (-27%) as well as cingulate 5-HT1A receptors (-18%), striatal D2 receptors (-21%) and frontal (-14%), temporal (-14%), occipital (-13%) and cingulate GABAA receptors (-15%). The results show that DA, 5-HT, and GABA play a major role in all subtypes of anxiety disorders. In particular, the findings imply that the regulation state of DA as modulated by GABA and 5-HT may be crucial for the development of anxiety- and compulsion-related disorders. As GABA and 5-HT inhibit DAergic neurotransmission, the reductions of GABAA, 5-HT1A and SERT can be assumed to result in an enhanced activity of the mesolimbic DAergic system. This notion is also reflected by the decrease of striatal D2 receptor binding, which is indicative of an increased availability of synaptic DA.",
+    "year": "2010",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "18405845",
+    "title": "Serotoninergic mechanisms in the treatment of obsessive-compulsive disorder.",
+    "abstract": "Obsessive-compulsive disorder (OCD) is a disabling psychiatric condition affecting 1-2% of the community. Although modern drug, behavioral and psychosurgical therapies have improved the prognosis of OCD considerably, approximately 30% of patients remain treatment-refractory. Currently, selective serotonin (5-HT) reuptake inhibitors (SSRIs) are the drug treatments of choice for OCD. Accordingly, this review evaluates the evidence for a role of the serotonin (5-HT) neurochemical system in the treatment and pathophysiology of OCD. However, drug treatment approaches that modify function of interrelated neurochemical systems, such as the dopamine and glutamate systems, are also briefly discussed as they promise to complement and enhance SSRI treatment effects.",
+    "year": "2008",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "16650715",
+    "title": "Common and distinct neural correlates of obsessive-compulsive and related disorders.",
+    "abstract": "Obsessive-compulsive disorder (OCD) often co-occurs with other anxiety disorders and a number of other disorders of similar phenomenology known as the \"OCD spectrum\" disorders. Neurobiologically, it is unclear how all these disorders relate to each other. The picture is further complicated by the clinical heterogeneity of OCD itself. This article reviews the literature on the common and distinct neural correlates of OCD, its symptom dimensions, and other anxiety and OCD spectrum disorders with the hope of providing a conceptual and heuristic framework to help understand the relationship between these phenomena.",
+    "year": "2006",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "8698675",
+    "title": "Serotonin dysfunction disorders: a behavioral neurochemistry perspective.",
+    "abstract": "The spectrum of efficacy of the serotonin selective reuptake inhibitor (SSRI) antidepressant drugs continues to expand. In fact, no psychiatric syndrome seems to worsen with these agents, and few studies fail to demonstrate clinical improvement in some patients, regardless of any nosologic nicety, such as precise DSM diagnosis. This suggests that the biological rubric of psychopathology is dimensional rather than categorical. New research using in vivo microdialysis shows differences in neurochemistry among SSRIs, wherein fluoxetine blocks reuptake of dopamine and norepinephrine, as well as serotonin, in medial prefrontal cortex, and fluvoxamine has a relatively more selective neurochemical profile. In the animal model of learned helplessness, which is a biobehavioral model for stress-induced anxiety causing depression, the SSRIs including fluvoxamine prevent helplessness. From these and other data, a neurotransmitter balance theory of biopsychopathology is formulated. In this hypothetical construct, dopamine, norepinephrine, and GABA modulate thought, anxiety, and mood, respectively. Serotonin is a stabilizing agent, which assists in returning the mind to its homeostatic setpoint.",
+    "year": "1996",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "2535426",
+    "title": "Neurophysiologic dysfunction in basal ganglia/limbic striatal and thalamocortical circuits as a pathogenetic mechanism of obsessive-compulsive disorder.",
+    "abstract": "This article is intended to elucidate some of the neuropathogenetic mechanisms possibly operative in obsessive-compulsive disorder (OCD). Relevant literature is reviewed, with attention to psychologic, and pathologic considerations. Anatomy, neurochemistry, and known functional associations with neuropathological and behavioral abnormalities of implicated brain regions are discussed. The authors propose that dysfunction of neuronal circuits interconnecting the orbitofrontal cortex, basal ganglia/limbic striatum, and thalamus serves a critical role in the pathogenesis of OCD and that obsessive-compulsive symptoms occur when an aberrant positive feedback loop develops in the reciprocally excitatory frontothalamic neuronal interchange, which is inadequately integrated or inhibited by the ventromedial (limbic) portions of the striatum; the ventromedial striatum may serve to modulate activity in the frontothalamic circuit through a negative feedback loop.",
+    "year": "1989",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "2859581",
+    "title": "Generalized anxiety disorder.",
+    "abstract": "This article discusses generalized anxiety disorder in terms of its defining characteristics, its relationship to other psychiatric disorders, its psychobiology, and its treatment. Although generalized anxiety disorder is frequently encountered in general practice, it has been less systematically investigated than the more dramatic forms of anxiety disorders such as panic disorder and phobias. It is concluded that although not as sharply defined as implied by DSM-III, generalized anxiety disorder appears to be a useful diagnostic category.",
+    "year": "1985",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "40306005",
+    "title": "Altered glutamate concentration in the subcortical nuclei and its correlation with resting-state functional connectivity in unmedicated obsessive-compulsive disorder.",
+    "abstract": "The imbalance of glutamate (Glu) and gamma-aminobutyric acid (GABA) in the cortico-striatal-thalamo-cortical (CSTC) circuit is closely related to the onset of obsessive-compulsive disorder (OCD). The caudate nucleus and thalamus are the critical hubs of the CSTC circuit; however, few studies have explored the correlation between the neurochemical changes of subcortical nuclei and the resting-state functional connectivity (rsFC) within the CSTC circuit in OCD patients. In this study, 24 OCD patients and 17 healthy controls (HCs) underwent resting-state functional MRI (rs-fMRI) scans and proton magnetic resonance spectroscopy (<sup>1</sup>H-MRS) acquisition. The bilateral caudate nucleus and thalamus were used as the regions of interest (ROIs) for ROI-to-ROI rsFC analysis within CSTC circuit and Glu/GABA calculation to explore altered metabolite concentration in the subcortical nuclei and its correlation with rsFC. A significant increase of Glu in the left thalamus (Thalamus_L), an increase of Glu/GABA in the right thalamus (Thalamus_R), and a decrease of GABA in Thalamus_R were observed in the OCD patients compared to HCs. The rsFC showed widespread reductions among CSTC core nodes (caudate-thalamus-orbitofrontal cortex (OFC)). Furthermore, correlation analysis revealed a significant positive correlation between left caudate Glu levels and left caudate-right OFC rsFC. These findings provided the new evidence of glutamatergic modulation in this pathway's functional integration.",
+    "year": "2025",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "38494099",
+    "title": "The relationship between oxidative stress markers and 1H-Magnetic resonance spectroscopy findings in obsessive compulsive disorder.",
+    "abstract": "The purpose of this study was to examine N-acetyl aspartate (NAA)/creatine (Cr) and glutamate, glutamine, and gamma-aminobutyric acid complex (Glx)/Cr levels in patients with obsessive compulsive disorder (OCD) and healthy controls' orbitofrontal cortex (OFC) and caudate nucleus (CN) by proton magnetic resonance spectroscopy (1H-MRS) method and to investigate their relationship with oxidative stress markers glutathione peroxidase (GPx) and superoxide dismutase (SOD). This study included patients with OCD (n\u00a0=\u00a025) and healthy controls (n\u00a0=\u00a025) ranging in age from 18 to 65. We used the ELISA method to evaluate serum SOD and GPx levels. Levels of NAA/Cr and Glx/Cr in the orbitofrontal cortex and caudate nucleus were measured using the 1H-MRS method. Our study did not detect statistically significant differences in the orbitofrontal cortex Glx/Cr and NAA/Cr levels between the OCD patients and the control group. OCD patients exhibited a decrease in NAA/Cr levels, consistent with impaired neuronal integration, and an increase in Glx/Cr levels, consistent with hyperactivation, in the caudate nucleus compared to the control group. We observed a negative correlation between NAA/Cr levels in the caudate nucleus and the levels of SOD and GPx. Our study is the first to assess CN and OFC together in OCD patients using 3\u00a0T MR, investigating the relationship between neurometabolite concentrations and oxidative stress parameters. The negative correlation we observed between NAA/Cr levels and SOD and GPx in the caudate nucleus suggests that increased oxidative stress in this brain region in OCD patients may contribute to impaired neuronal integration and functionality.",
+    "year": "2024",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "37832259",
+    "title": "Glutamatergic abnormalities in the pregenual anterior cingulate cortex in obsessive-compulsive disorder using magnetic resonance spectroscopy: A controlled study.",
+    "abstract": "In this study, we utilized proton magnetic resonance spectroscopy (MRS) to understand the role of glutamate (Glu), glutamine (Gln), and gamma-aminobutyric acid (GABA) of OCD patients in the pregenual anterior cingulate cortex (pgACC). In total, 54 patients with OCD and 54 healthy controls (HC) matched for age and sex were included in the study. They underwent MRS in the pgACC region to calculate the concentrations of Glu, Gln, GABA, and Glu + Gln (Glx). After quality control of the MRS data, 21 OCD and 21 HC were statistically analyzed. The severity of symptoms were evaluated using the Yale-Brown Obsessive-Compulsive Scale (YBOCS). In the statistical analysis, we compared differences between groups for the metabolites; in the OCD we analyzed the correlations with symptom severity, medication status, age, and duration of illness. A significant decrease in Glx, in Glu, and in Gln in the pgACC were observed in the OCD compared to HC. The correlation statistics showed a significant positive correlation between Glu levels and the YBOCS compulsions subscale. The results indicate that patients with OCD present a disturbance in glutamatergic metabolism in the pgACC. The results also demonstrate that these changes correlate with the severity of compulsions.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "37369695",
+    "title": "Cortical glutamate and GABA are related to compulsive behaviour in individuals with obsessive compulsive disorder and healthy controls.",
+    "abstract": "There has been little analysis of neurochemical correlates of compulsive behaviour to illuminate its underlying neural mechanisms. We use 7-Tesla proton magnetic resonance spectroscopy (<sup>1</sup>H-MRS) to assess the balance of excitatory and inhibitory neurotransmission by measuring glutamate and GABA levels in anterior cingulate cortex (ACC) and supplementary motor area (SMA) of healthy volunteers and participants with Obsessive-Compulsive Disorder (OCD). Within the SMA, trait and clinical measures of compulsive behaviour are related to glutamate levels, whereas a behavioural index of habitual control correlates with the glutamate:GABA ratio. Participants with OCD also show the latter relationship in the ACC while exhibiting elevated glutamate and lower GABA levels in that region. This study highlights SMA mechanisms of habitual control relevant to compulsive behaviour, common to the healthy sub-clinical and OCD populations. The results also demonstrate additional involvement of anterior cingulate in the balance between goal-directed and habitual responding in OCD.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "36626308",
+    "title": "Cerebellar gamma-aminobutyric acid: Investigation of group effects in neurodevelopmental disorders.",
+    "abstract": "Neurodevelopmental disorders (NDDs) including autism spectrum disorder (ASD), attention-deficit hyperactivity disorder (ADHD) and obsessive-compulsive disorder (OCD) are thought to arise in part from the disruption in the excitatory/inhibitory balance of gamma-aminobutyric acid (GABA) and glutamate in the brain. Recent evidence has shown the involvement of the cerebellum in cognition and affect regulation, and cerebellar atypical function or damage is reported frequently in NDDs. Magnetic resonance spectroscopy studies have reported decreases in GABA in cortical brain areas in the NDDs, however, GABA levels in the cerebellum have not been examined. To determine possible group effects, we used a MEGA-PRESS acquisition to investigate GABA+ levels in a cerebellar voxel in 343 individuals (aged 2.5-22\u2009years) with ASD, ADHD, OCD and controls. Using a mixed effects model, we found no significant differences between groups in GABA+ concentration. Our findings suggest that cerebellar GABA+ levels do not differentiate NDD groups.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "31648655",
+    "title": "Pregabalin augmentation for resistant obsessive-compulsive disorder: a double-blind placebo-controlled clinical trial.",
+    "abstract": "Glutamate dysfunction has been shown to be associated with pathophysiology of obsessive-compulsive disorder (OCD). Our objective is to survey the effects of pregabalin (a glutamate-modulating agent) as an augmenting treatment for resistant OCD. In this 12-week double-blind placebo-controlled clinical trial, 56 patients with resistant OCD were randomly allocated to receive either pregabalin or placebo plus their current medication (sertraline). Yale-Brown Obsessive Compulsive Scale (Y-BOCS) was used to evaluate the outcomes. Adverse effects were also registered. Of the 56 patients with resistant OCD who were randomly allocated in 2 groups of pregabalin (n\u00a0=\u00a028) and placebo group (n\u00a0=\u00a028), 42 patients (22 in pregabalin group and 20 in placebo group) completed the trial. Throughout the trial, the mean score decreased from 26.13\u00b1 7.03 to 8.81\u00a0\u00b1\u00a03.47 in the pregabalin group (p\u00a0<\u00a00) and from 26.85\u00a0\u00b1\u00a04.34 to 17.63\u00a0\u00b1\u00a04.22 in the placebo group (p\u00a0<\u00a00). At the end of trial, 16 (57.14%) patients in the pregabalin group and 2 (7.14%) patients in the placebo group showed more than 35% decline in YBOCS (p\u00a0<\u00a0.01). The pregabalin group showed good tolerability and safety. Our study revealed that pregabalin, as an augmenting medication, is more effective than placebo in the treatment of patients with resistant OCD.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "32146627",
+    "title": "Effects of Gaba Derivatives on Anxious and Compulsive Behavior in Offspring of Rats with Experimental Preeclampsia.",
+    "abstract": "We studied the effects of GABA derivatives on anxious and compulsive behavior of progeny of rats with experimental preeclampsia provoked by replacement of drinking water for 1.8% NaCl solution from the first day of pregnancy to delivery. In comparison with progeny of health rats, the offspring of dams with complicated pregnancy demonstrated high level of anxiety and the development of obsessive-compulsive disorder both at the early (40 and 70 days) and late (6 and 12 months) stages of ontogeny. GABA derivatives succicard, salifen, and phenibut reduced symptoms of experimental preeclampsia in offspring of various age by decreasing the level of anxiety and reducing compulsive behavior. The efficacy of the examined derivatives was similar to that of the reference drug Pantogam.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "31146727",
+    "title": "Investigation of anterior cingulate cortex gamma-aminobutyric acid and glutamate-glutamine levels in obsessive-compulsive disorder using magnetic resonance spectroscopy.",
+    "abstract": "Obsessive-compulsive disorder (OCD) is a relatively common and disabling psychiatric disorder whose pathophysiology is incompletely understood. In this study, we utilized magnetic resonance spectroscopy (MRS) in an effort to provide a better understanding of the role of brain gamma-aminobutyric acid (GABA) and glutamate in the pathophysiology of OCD. We hypothesized that beyond the separate effects of these neurotransmitter systems, a disruption in the balance between GABA and glutamate could be particularly relevant to OCD. We obtained MRS measures of GABA and glutamate concentrations in the anterior cingulate cortex from 23 adult patients with OCD and 20 sex- and age-matched healthy community volunteers. Established clinical rating scales were used to assess the severities of OCD, anxiety, and depression symptoms. Statistical analysis involved the assessment of patient-control group differences in the individual measures of GABA and glutamate, as well as in the ratio of the GABA to glutamate measures. Additionally, we explored whether differences in the MRS measures existed between two subgroups of patients formed according to the severity of their OCD symptoms. Finally, we assessed the relations of demographic and clinical variables to the MRS measures. Patients with OCD displayed a higher estimated GABA level and a higher GABA to glutamate ratio than healthy participants, but no significant group differences were observed in the measure of glutamate. The MRS measures did not vary by subgroup and showed no correlations with demographic and clinical variables. These results indicate that GABA abnormalities within the anterior cingulate cortex contribute to the pathophysiology of OCD. The results fail to provide evidence that glutamate abnormalities alone are involved in adult OCD. Yet, it seems that a disruption in the balance between glutamate and GABA neurotransmission may have a particularly important role to play in OCD pathophysiology.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "30044966",
+    "title": "Efficacy and tolerability of adjunctive gabapentin and memantine in obsessive compulsive disorder: Double-blind, randomized, placebo-controlled trial.",
+    "abstract": "In the search for additional pharmacologic treatments of patients with obsessive-compulsive disorders (OCD), the glutamatergic system is attracting growing interest. While adjuvant memantine to a standard medication with a selective serotonin-reuptake inhibitor (SSRI) appears to reduce OCD symptoms, the adjuvant effect of gabapentin is less certain. The aim of the present randomized, double-blind and three-arm clinical trial was therefore to assess whether, compared to placebo, gabapentin (GAB) or memantine (MEM) adjuvant to a standard medication with an SSRI (fluoxetine; FLU) might lead to further improvements. A total of 99 outpatients (mean age: 29.59 years; 49.5% females) diagnosed with OCD were randomly assigned to one of the following three conditions: FLU\u00a0+\u00a0gabapentin (FLU\u00a0+\u00a0GAB); FLU\u00a0+\u00a0memantine (FLU\u00a0+\u00a0MEM); FLU\u00a0+\u00a0placebo (FLU\u00a0+\u00a0PLA). Experts rated patients' symptoms of OCD with the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) at baseline, and 4 and 8 weeks later. YBOCS scores did not decrease over time. No group differences were observed. However, the significant Time by Group interaction showed that Y-BOCS scores decreased significantly over time in the FLU\u00a0+\u00a0PLA group. Response rates did not differ between the three study conditions. Typical side-effects were rash (FLU\u00a0+\u00a0MEM), drowsiness (FLU\u00a0+\u00a0GAB), anxiety (FLU\u00a0+\u00a0GAB; FLU\u00a0+\u00a0PLA), and drowsiness plus anxiety (FLU\u00a0+\u00a0GAB). The present pattern of results suggests that glutamatergic medications such as gabapentin and memantine adjuvant to a standard treatment with an SSRI have no additional positive impact on patients with OCD, as measured with the Y-BOCS. Additionally, side-effects were reported. Future studies should use more fine-grained tools to assess, for example, patients' sleep and cognitive functioning, and patients' view of symptoms.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "28916503",
+    "title": "Altered serotonergic and GABAergic neurotransmission in a mice model of obsessive-compulsive disorder.",
+    "abstract": "There is ample evidence that obsessive-compulsive disorder (OCD) is based on reduced serotonergic function. Replicated bidirectional selection for thermoregulatory nest-building behavior in the laboratory house mouse (Mus musculus) resulted in compulsive-like, non-compulsive-like and randomly bred control mice that represent a non-induced animal model of OCD. The present study aimed at investigating the neurochemical patterns in specific brain regions of compulsive-like (HA) versus non-compulsive-like (LA) and normal (CA) mice. The neurochemical investigation of several brain regions of the corticostriato-thalamocortical circuity, i.e., nucleus caudatus (CPU), nucleus accumbens (NAc), globus pallidus (GP), hippocampus (HPC), amygdala (AM), ventral tegmental area (VTA) and substantia nigra (SN) was performed by electrochemical (serotonin and dopamine) and fluorescence (glutamate and GABA) HPLC detection. HA mice displayed significantly decreased 5-HT concentrations in the mPFC and LA mice displayed a significant increase in GABA concentrations in the mPFC. This supports the pathophysiological relevance of serotonin in the manifestation of OCD and adding to the construct validity of the non-induced mouse model of OCD.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "26104826",
+    "title": "In vivo effects of ketamine on glutamate-glutamine and gamma-aminobutyric acid in obsessive-compulsive disorder: Proof of concept.",
+    "abstract": "We previously reported the rapid and robust clinical effects of ketamine versus saline infusions in a proof-of-concept crossover trial in unmedicated adults with obsessive-compulsive disorder (OCD). This study examined the concurrent neurochemical effects of ketamine versus saline infusions using proton magnetic resonance spectroscopy ((1)H MRS) during the clinical proof-of-concept crossover trial. Levels of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA) and the excitatory neurochemicals glutamate+glutamine (Glx) were acquired in the medial prefrontal cortex (MPFC), a region implicated in OCD pathology. Seventeen unmedicated OCD adults received two intravenous infusions at least 1 week apart, one of saline and one of ketamine, while lying supine in a 3.0 T GE MR scanner. The order of each infusion pair was randomized. Levels of GABA and Glx were measured in the MPFC before, during, and after each infusion and normalized to water (W). A mixed effects model found that MPFC GABA/W significantly increased over time in the ketamine compared with the saline infusion. In contrast, there were no significant differences in Glx/W between the ketamine and saline infusions. Together with earlier evidence of low cortical GABA in OCD, our findings suggest that models of OCD pathology should consider the role of GABAergic abnormalities in OCD symptomatology.",
+    "year": "2015",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "25715904",
+    "title": "Assessment of glutamate in striatal subregions in obsessive-compulsive disorder with proton magnetic resonance spectroscopy.",
+    "abstract": "Glutamatergic signaling abnormalities in cortico-striatal circuits are hypothesized to lead to the repetitive thoughts and behaviors of obsessive-compulsive disorder (OCD). To test this hypothesis, studies have used proton magnetic resonance spectroscopy (1H MRS) to measure glutamatergic compounds in the striatum of individuals with OCD. However, no studies have used methods that could measure glutamate minimally contaminated by glutamine and \u03b3-aminobutyric acid (GABA) in striatal subregions. Therefore, in this study, a proton MRS imaging (1H MRSI) technique with relatively high spatial resolution at 3.0 T was used to measure minimally contaminated glutamate levels in three striatal subregions (i.e., dorsal caudate, dorsal putamen, and ventral striatum) in 15 unmedicated adults with OCD and 16 matched healthy control subjects. No significant group differences in glutamate levels were found in any of the three striatal subregions. In contrast, a study in unmedicated pediatric OCD patients that measured glutamatergic compounds in the dorsal caudate by MRS at 1.5 T found significant elevations. Further studies are warranted to assess whether these discrepant MRS findings are due to differences in subject age or MRS methodology, or potentially are associated with glutamatergic gene variants implicated in OCD.",
+    "year": "2015",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "23086022",
+    "title": "Effects of mood stabilizers on marble-burying behavior in mice: involvement of GABAergic system.",
+    "abstract": "Obsessive-compulsive disorder (OCD) is characterized by recurrent unwanted thoughts (obsessions), usually accompanied by repetitive behaviors (compulsions) intended to alleviate anxiety. Marble-burying behavior is a pharmacological model for study of OCD. In the present study, we examined the effects of mood stabilizers on marble-burying behavior in mice, as well as the role of GABA receptors in this behavior. The effects of treatment with valproate, carbamazepine, lithium carbonate, lamotrigine, muscimol and baclofen on marble-burying behavior in mice were evaluated. Valproate (10, 30 and 100\u00a0mg/kg, i.p.) and carbamazepine (30 and 100\u00a0mg/kg, p.o.) significantly reduced marble-burying behavior without affecting total locomotor activity in ICR mice. Lamotrigine (30\u00a0mg/kg, i.p.) also significantly reduced marble-burying behavior in ddY mice. On the other hand, lithium carbonate (10, 30 and 100\u00a0mg/kg, i.p.) reduced total locomotor activity without affecting marble-burying behavior in ddY mice. The selective GABA(A) receptor agonist muscimol (1\u00a0mg/kg) significantly reduced marble-burying behavior without affecting total locomotor activity, whereas the selective GABA(B) receptor agonist baclofen (3\u00a0mg/kg) reduced total locomotor activity without affecting marble-burying behavior. Moreover, the selective GABA(A) receptor antagonist bicuculline (3\u00a0mg/kg) significantly counteracted the decrease in marble-burying induced by the administration of muscimol (1\u00a0mg/kg) and valproate (100\u00a0mg/kg). These results suggest that GABAergic mechanism is involved in marble-burying behavior, and that valproate, carbamazepine and lamotrigine reduce marble-burying behavior. Moreover, valproate reduces marble-burying behavior via a GABA(A) receptor-dependent mechanism.",
+    "year": "2013",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "22850733",
+    "title": "Investigation of cortical glutamate-glutamine and \u03b3-aminobutyric acid in obsessive-compulsive disorder by proton magnetic resonance spectroscopy.",
+    "abstract": "Glutamatergic abnormalities in corticostriatal brain circuits are thought to underlie obsessive-compulsive disorder (OCD). Whether these abnormalities exist in adults with OCD is not clear. We used proton magnetic resonance spectroscopy (\u00b9H MRS) to test our hypothesis that unmedicated adults with OCD have reduced glutamate plus glutamine (Glx) levels in the medial prefrontal cortex (MPFC) compared with healthy controls. Levels of \u03b3-aminobutyric acid (GABA) were also explored. Twenty-four unmedicated adults with OCD and 22 matched healthy control subjects underwent \u00b9H MRS scans at 3.0\u2009T. Resonances of both Glx and GABA were obtained using the standard J-editing technique and assessed as ratios relative to voxel tissue water (W) in the MPFC (the region of interest) and the dorsolateral prefrontal cortex (DLPFC) to explore the regional specificity of any finding. In the MPFC, Glx/W did not differ by diagnostic group (p=0.98) or sex (p=0.57). However, GABA/W was decreased in OCD (2.16\u00b10.46 \u00d7 10\u207b\u00b3) compared with healthy controls (2.43\u00b10.45 \u00d7 10\u207b\u00b3, p=0.045); moreover, age of OCD onset was inversely correlated with MPFC GABA/W (r=-0.50, p=0.015). MPFC GABA/W was higher in females than in males. In the DLPFC, there were no main effects of diagnosis or gender on Glx/W or GABA/W. These data indicate that unmedicated adults with OCD do not have Glx abnormalities in a MPFC voxel that includes the pregenual anterior cingulate cortex. However, they may have decreased MPFC GABA levels. How GABA abnormalities might contribute to corticostriatal dysfunction in OCD deserves further study.",
+    "year": "2012",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "21460732",
+    "title": "Pregabalin augmentation in treatment-resistant obsessive-compulsive disorder.",
+    "abstract": "The therapeutic limitations of mainstay psychopharmacological treatments of obsessive-compulsive disorder (OCD) warrant the clinical testing of further add-on agents to improve patients' clinical symptoms. One such agent might be pregabalin, which has been found efficacious in other anxiety disorders. We report on the findings of a small, 8-week open-label trial of adjunctive pregabalin with a 4-week follow-up in 10 OCD patients resistant or only partial responders to a combination of serotonin reuptake inhibitors with atypical antipsychotics. Adjunctive pregabalin at 225-675 mg/d was well tolerated and led to patients' substantial improvement in their OCD symptoms, as reflected in their scores on the Yale-Brown Obsessive Compulsive Scale. Despite the several limitations of the study, its results suggest that adjunctive pregabalin might be a safe and efficacious new augmentation agent in the treatment of drug-resistant OCD. We hypothesize that pregabalin's mechanism of action in OCD might consist in its inhibition of glutamatergic neurotransmission.",
+    "year": "2011",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "19346279",
+    "title": "Pregabalin versus naltrexone in alcohol dependence: a randomised, double-blind, comparison trial.",
+    "abstract": "Pregabalin (PRE) acts as a presynaptic inhibitor of the release of excessive levels of excitatory neurotransmitters by selectively binding to the alpha(2)-delta subunit of voltage-gated calcium channels. In this randomised, double-blind comparison trial with naltrexone (NAL), we aimed to investigate the efficacy of PRE on alcohol drinking indices. Craving reduction and improvement of psychiatric symptoms were the secondary endpoints. Seventy-one alcohol-dependent subjects were detoxified and subsequently randomised into two groups, receiving 50 mg of NAL or 150-450 mg of PRE. Craving (VAS; OCDS), withdrawal (CIWA-Ar) and psychiatric symptoms (SCL-90-R) rating scales were applied. Alcohol drinking indices and craving scores were not significantly different between groups. Compared with NAL, PRE resulted in greater improvement of specific symptoms in the areas of anxiety, hostility and psychoticism, and survival function (duration of abstinence from alcohol). PRE also resulted in better outcome in patients reporting a comorbid psychiatric disorder. Results from this study globally place PRE within the same range of efficacy as that of NAL. The mechanism involved in the efficacy of PRE in relapse prevention could be less related to alcohol craving and more associated with the treatment of the comorbid psychiatric symptomatology.",
+    "year": "2010",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ]
+  },
+  {
+    "pmid": "19675532",
+    "title": "Anti-brain autoantibodies and altered excitatory neurotransmitters in obsessive-compulsive disorder.",
+    "abstract": "Although serum autoantibodies directed against basal ganglia (BG) implicate autoimmunity in the pathogenesis of obsessive-compulsive disorder (OCD), it is unclear whether these antibodies can cross the blood-brain barrier to bind against BG or other components of the OCD circuit. It is also unclear how they might lead to hyperactivity in the OCD circuit. We examined this by investigating the presence of autoantibodies directed against the BG or thalamus in the serum as well as CSF of 23 OCD patients compared with 23 matched psychiatrically normal controls using western blot. We further investigated CSF amino acid (glutamate, GABA, taurine, and glycine) levels and also examined the extent to which these levels were related to the presence of autoantibodies. There was evidence of significantly more binding of CSF autoantibodies to homogenate of BG as well as to homogenate of thalamus among OCD patients compared with controls. There was no significant difference in binding between patient and control sera except for a trend toward more bands to BG and thalamic protein corresponding to 43 kD among OCD patients compared with controls. CSF glutamate and glycine levels were also significantly higher in OCD patients compared with controls, and further multivariate analysis of variance showed that CSF glycine levels were higher in those OCD patients who had autoantibodies compared with those without. The results of our study implicate autoimmune mechanisms in the pathogenesis of OCD and also provide preliminary evidence that autoantibodies against BG and thalamus may cause OCD by modulating excitatory neurotransmission.",
+    "year": "2009",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "19270624",
+    "title": "Usher syndrome and psychiatric symptoms: a challenge in psychiatric management.",
+    "abstract": "Usher syndrome, the most common case of deaf - blindness, may be associated with various psychiatric disorders. Inability of communication through spoken language in association with progressive visual impairment affects diagnostics and management in case of co-morbidity with mental disorder. A patient with Usher syndrome and psychiatric symptoms is described and the difficulties in psychiatric assessment in her case are discussed. A 28 years old woman with hearing impairment diagnosed at the age of 3 months and progressive pigmentary retinopathy diagnosed at the age of 19 years, has been treated for ADHD in childhood, eating disorder in adolescence and psychosis-like disorder in adult life. Direct observation of patient behavior and the effects of pharmacotherapy were the main diagnostic procedures, since the use of sign language and handwriting was very limited. The limitations of management are discussed.",
+    "year": "2009",
+    "is_review": false,
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  }
 ]

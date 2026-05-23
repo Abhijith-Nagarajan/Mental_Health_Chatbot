@@ -1,127 +1,261 @@
 [
-    {
-        "title": "Large nesting expression in deer mice remains stable under conditions of visual deprivation despite heightened limbic involvement: Perspectives on compulsive-like behavior.",
-        "abstract": "Visual stimuli and limbic activation varyingly influence obsessive-compulsive symptom expression and so impact treatment outcomes. Some symptom phenotypes, for example, covert repugnant thoughts, are likely less sensitive to sensory stimuli compared to symptoms with an extrinsic focus, that is, symptoms related to contamination, safety, and \"just-right-perceptions.\" Toward an improved understanding of the neurocognitive underpinnings of obsessive-compulsive psychobiology, work in naturalistic animal model systems is useful. Here, we explored the impact of visual feedback and limbic processes on 24 normal (NNB) and large (LNB) nesting deer mice, respectively (as far as possible, equally distributed between sexes). Briefly, after behavioral classification into either the NNB or LNB cohorts, mice of each cohort were separated into two groups each and assessed for nesting expression under either standard light conditions or conditions of complete visual deprivation (VD). Nesting outcomes were assessed in terms of size and neatness. After nesting assessment completion, mice were euthanized, and samples of frontal-cortical and hippocampal tissues were collected to determine serotonin and noradrenaline concentrations. Our results show that LNB, as opposed to NNB, represents an inflexible and excessive behavioral phenotype that is not dependent on visually guided action-outcome processing, and that it associates with increased frontal-cortical and hippocampal noradrenaline concentrations, irrespective of lighting condition. Collectively, the current results are informing of the neurocognitive underpinnings of nesting behavior. It also provides a valuable foundation for continued investigations into the noradrenergic mechanisms that may influence the development and promulgation of excessive, rigid, and inflexible behaviors.",
-        "year": "2024"
-    },
-    {
-        "title": "Cerebrospinal fluid findings in patients with obsessive-compulsive disorder, Tourette syndrome, and PANDAS: A systematic literature review.",
-        "abstract": "Obsessive-compulsive disorder (OCD) and Tourette syndrome (TS) are related mental disorders that share genetic, neurobiological, and phenomenological features. Pediatric autoimmune neuropsychiatric disorder associated with streptococcal infections (PANDAS) is a neuropsychiatric autoimmune disorder with symptoms of OCD and/or TS associated with streptococcal infections. Therefore, PANDAS represents a strong link between OCD, TS, and autoimmunity. Notably, cerebrospinal fluid (CSF) analyses can provide insight into the central nervous processes in OCD, TS, and PANDAS. A systematic literature search according to the PRISMA criteria was conducted to collect all CSF studies in patients with OCD, TS, and PANDAS. The total number of cases and the heterogeneity of the low number of studies were not sufficient for a meta-analysis to provide a high level of evidence. Nevertheless, meta-analytical statistics could be performed for glutamate, 5-hydroxyindoleacetic acid (degradation product of serotonin), homovanillic acid (degradation product of dopamine), 3-methoxy-4-hydroxyphenylglycol (major metabolite of noradrenaline), and corticotropin-releasing hormone (CRH) in OCD. A risk-of-bias assessment was implemented using the Cochrane ROBINS-E tool. Meta-analytical testing identified elevated glutamate levels in the CSF of OCD patients compared with healthy controls, while no significant differences were found in other neurotransmitters or CRH. Single studies detected novel neuronal antibodies in OCD patients and elevated oligoclonal bands in TS patients. For TS and PANDAS groups, there was a dearth of data. Risk of bias assessment indicated a substantial risk of bias in most of the included studies. This systematic review of available CSF data shows that too few studies are currently available for conclusions with good evidence. The existing data indicates glutamate alterations in OCD and possible immunological abnormalities in OCD and TS. More CSF studies avoiding sources of bias are needed.",
-        "year": "2024"
-    },
-    {
-        "title": "Incidence of adverse events and comparative tolerability of selective serotonin reuptake inhibitors, and serotonin and norepinephrine reuptake inhibitors for the treatment of anxiety, obsessive-compulsive, and stress disorders: a systematic review and network meta-analysis.",
-        "abstract": "Selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs) show similar efficacy as treatments for anxiety, obsessive-compulsive, and stress-related disorders. Hence, comparisons of adverse event rates across medications are an essential component of clinical decision-making. We aimed to compare patterns of adverse events associated with SSRIs and SNRIs in the treatment of children and adults diagnosed with these disorders through a network meta-analysis. We searched MEDLINE, PsycINFO, Embase, Cochrane, websites of regulatory agencies, and international registers from inception to 09 September 2022, for randomized controlled trials assessing the efficacy of SSRIs or SNRIs. We analyzed the proportion of participants experiencing at least one adverse event and incidence rates of 17 specific adverse events. We estimated incidence rates and odds ratios through network meta-analysis with random effects and three-level models. We analyzed 799 outcome measures from 80 studies (<i>n</i> = 21 338). Participants in medication groups presented higher rates of adverse events (80.22%, 95% CI 76.13-83.76) when compared to placebo groups (71.21%, 67.00-75.09). Nausea was the most common adverse event (25.71%, CI 23.96-27.54), while weight change was the least common (3.56%, 1.68-7.37). We found higher rates of adverse events of medications over placebo for most medications, except sertraline and fluoxetine. We found significant differences between medications for overall tolerability and for autonomic, gastrointestinal, and sleep-related symptoms. Adverse events are a common reason that patients discontinue SSRIs and SNRIs. Results presented here guide clinical decision-making when clinicians weigh one medication over another. This might improve treatment acceptability and compliance.",
-        "year": "2023"
-    },
-    {
-        "title": "Central norepinephrine transmission is required for stress-induced repetitive behavior in two rodent models of obsessive-compulsive disorder.",
-        "abstract": "Obsessive-compulsive disorder (OCD) is characterized by repetitive behaviors exacerbated by stress. Many OCD patients do not respond to available pharmacotherapies, but neurosurgical ablation of the anterior cingulate cortex (ACC) can provide symptomatic relief. Although the ACC receives noradrenergic innervation and expresses adrenergic receptors (ARs), the involvement of norepinephrine (NE) in OCD has not been investigated. To determine the effects of genetic or pharmacological disruption of NE neurotransmission on marble burying (MB) and nestlet shredding (NS),\u00a0two animal models of OCD. We assessed NE-deficient (Dbh -/-) mice and NE-competent (Dbh +/-) controls in MB and NS tasks. We also measured the effects of anti-adrenergic drugs on NS and MB in control mice and the effects of pharmacological restoration of central NE in Dbh -/- mice. Finally, we compared c-fos induction in the locus coeruleus (LC) and ACC of Dbh -/- and control mice following both tasks. Dbh -/- mice virtually lacked MB and NS behaviors seen in control mice but did not differ in the elevated zero maze (EZM) model of general anxiety-like behavior. Pharmacological restoration of central NE synthesis in Dbh -/- mice completely rescued NS behavior, while NS and MB were suppressed in control mice by anti-adrenergic drugs. Expression of c-fos in the ACC was attenuated in Dbh -/- mice after MB and NS. These findings support a role for NE transmission to the ACC in the expression of stress-induced compulsive behaviors and suggest further evaluation of anti-adrenergic drugs for OCD is warranted.",
-        "year": "2020"
-    },
-    {
-        "title": "[Treatment-resistant anxiety disorders: A literature review of drug therapy strategies].",
-        "abstract": "Anxiety disorders are widespread psychiatric conditions with significant social and professional disability, poor quality of life, an increased risk of suicide, and frequent attendance of medical services. Serotonin reuptake inhibitors (SRI) and serotonin and norepinephrine reuptake inhibitors (SNRI) have demonstrated a rather robust efficacy for the treatment of most of anxiety disorders. Nevertheless a substantial number of patients are resistant or still suffer from residual symptoms despite this first line treatment. The objective of our paper is to review relevant studies for the pharmacologic management of anxiety disorders resistant to the first line treatment. For this purpose, we conducted a pubmed/medline search for double-blind placebo-controlled trials of treatment-resistant anxiety disorders. An adequate trial for a SRI in the treatment of obsessive-compulsive disorder (OCD) should continue for at least 12 weeks. Special considerations of the comorbidities and symptom profile could help in the choice of an appropriate pharmacotherapy. Several trials have highlighted the efficacy of antipsychotics as an add-on to SRI in treatment-resistant OCD such as haloperidol more so when comorbid with a tic disorder, or risperidone that can reduce OCD as well as depressive symptoms. Aripiprazole has been shown efficacious in two placebo-controlled double-blind trials, while the efficacy of quetiapine and olanzapine remains controversial. Other trials showed some efficacy of anticonvulsants (lamotrigine, topiramate), pindolol, memantin and N-acetylcystein as an adjunctive treatment to SRI for resistant OCD. Few trials have investigated selective serotonin reuptake inhibitors (SSRI) or SNRI resistant generalized anxiety disorder showing a failure of adjunctive therapy with olanzapine, quetiapine, ziprasidone and risperidone. These studies were underpowered and very limited in number. Adjunctive risperidone for resistant post-traumatic stress disorder (PTSD) showed benefit in some but not all trials. Olanzapine was beneficial for the reduction of the CAPS score in addition to the improvement of sleep disturbances. Furthermore, prazosin was efficacious by reducing PTSD symptoms, sleep disturbances, nightmares, and psychological distress. One double-blind placebo-controlled study was conducted to investigate treatment-resistant social phobia showing no benefit of pindolol add-on paroxetine. Our results demonstrate that the pharmacological management of treatment-resistant anxiety disorders is not sufficiently investigated in double-blind placebo-controlled trials, despite a growing evidence in favor of antipsychotics and some other pharmacological agents in resistant OCD and, to a lesser extent, PTSD. Hence, there is a crucial need for larger double-blind placebo-controlled trials for resistant anxiety disorders. Finally, being out of the scope of our review, we omitted studies of non-pharmacologic therapies.",
-        "year": "2015"
-    },
-    {
-        "title": "Deep brain stimulation for obsessive-compulsive disorder is associated with cortisol changes.",
-        "abstract": "Deep brain stimulation (DBS) is an effective treatment for obsessive-compulsive disorder (OCD), but its mechanism of action is largely unknown. Since DBS may induce rapid symptomatic changes and the pathophysiology of OCD has been linked to the hypothalamic-pituitary-adrenal (HPA) axis, we set out to study whether DBS affects the HPA axis in OCD patients. We compared a stimulation ON and OFF condition with a one-week interval in 16 therapy-refractory OCD patients, treated with DBS for at least one year, targeted at the nucleus accumbens (NAc). We measured changes in 24-h urinary excretion of free cortisol (UFC), adrenaline and noradrenaline and changes in obsessive-compulsive (Y-BOCS), depressive (HAM-D) and anxiety (HAM-A) symptom scores. Median UFC levels increased with 53% in the OFF condition (from 93 to 143nmol/24h, p=0.12). There were no changes in urinary adrenaline or noradrenaline excretion. The increase in Y-BOCS (39%), and HAM-D (78%) scores correlated strongly with increased UFC levels in the OFF condition. Our findings indicate that symptom changes following DBS for OCD patients are associated with changes in UFC levels.",
-        "year": "2013"
-    },
-    {
-        "title": "Disgust affects TNF-alpha, IL-6 and noradrenalin levels in patients with obsessive-compulsive disorder.",
-        "abstract": "Neurobiological research of obsessive-compulsive disorder (OCD) has rarely taken in account the context dependent evocation of obsessive-compulsive symptoms. To bypass this obstacle, this study investigated neurobiological parameters during a standardized disgust provocation paradigm in patients with OCD and healthy controls. Ten OCD patients and 10 healthy controls were exposed to 9 disgust related items using a standardized provocation paradigm. Catecholamines and cortisol in plasma and lipopolysaccharide (LPS) stimulated levels of TNF-alpha and IL-6 by peripheral leucocytes were assessed along with severity of obsessive-compulsive symptoms, disgust, and anxiety levels using Visual Analogue Scales prior, during and after a provocation paradigm. Noradrenalin levels increased, while LPS stimulated TNF-alpha and IL-6 by peripheral leucocytes decreased during exposure to disgust related objects in OCD patients but not in healthy controls. Cortisol levels were not affected by exposure neither in patients nor in controls, but overall cortisol levels of OCD patients were increased compared to controls. In conclusion, our data suggests that symptom provocation in OCD patients with contamination fear is accompanied by alterations in the immune and neuroendocrine systems but does not affect cortisol levels.",
-        "year": "2010"
-    },
-    {
-        "title": "CSF neurotransmitter metabolites and neuropsychiatric symptomatology in patients with normal pressure hydrocephalus.",
-        "abstract": "Patients with normal pressure hydrocephalus (NPH) may exhibit certain neuropsychiatric symptomatology, possibly related to alterations in central neurotransmitter activity. The aim of this study was to relate psychiatric distress, as expressed by the scores in the SCL-90 subscales, to CSF levels of the main metabolites of noradrenaline (MHPG), serotonin (5-HIAA), and dopamine (HVA) in NPH patients. The metabolite levels were estimated in CSF samples taken during the tap test in 19 patients with probable NPH, and compared to 19 sex- and age-matched controls. Cognitive impairment was evaluated by the MMSE. Compared to controls, NPH patients had similar MHPG and 5-HIAA levels, and significantly elevated HVA levels, a notable difference from patients with dementias. There were no significant correlations of metabolite levels to the scores in the nine SCL-90 subscales. MMSE score was not related either to metabolite levels, or to the SCL-90 subscale scores. Patients scored higher than controls in most SCL-90 subscales, more pronounced being the difference in obsessive-compulsive symptomatology. Serotonergic neurotransmitter activity seems not to be altered in NPH patients, and this may explain the reported lack of beneficial effect of serotonergic drugs for obsessive-compulsive symptoms in NPH patients.",
-        "year": "2009"
-    },
-    {
-        "title": "[Tourette syndrome. Genetics, neuroanatomy and neurotransmitters].",
-        "abstract": "The etiology and pathophysiology of Tourette syndrome (TS) have not yet been clarified. Despite inconsistencies in the literature, some conclusions can be drawn on genetics, neuroanatomy and neurotransmitters. The inheritance of TS is unknown; the etiology seems to be polygenic. The basal ganglia are probably smaller in patients with TS. A dysfunction in the dopaminergic pathway causes tics. ADHD results from a decreased concentration of dopamine and an increased concentration of noradrenaline. OCD is caused by a dysfunction in serotonin and probably dopamine.",
-        "year": "2008"
-    },
-    {
-        "title": "Norepinephrine in the treatment of olanzapine overdose.",
-        "abstract": "",
-        "year": "2002"
-    },
-    {
-        "title": "SSRIs and SNRIs: broad spectrum of efficacy beyond major depression.",
-        "abstract": "Originally studied and introduced for the treatment of depression, the selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs) have proven effective for a broad range of psychiatric illnesses, including several anxiety disorders, bulimia, and dysthymia. These drugs have in common important effects on the serotonergic (5-HT) neurotransmission system, which is involved in mediating a substantial number of important functions, including mood, aggression, sexual behavior, and pain. In addition, some of the new antidepressants, like venlafaxine/venlafaxine XR, also have effects on the noradrenergic neurotransmission system, which also appears important in mood and anxiety disorders. These new drugs, because of their specificity for the serotonin and norepinephrine reuptake proteins, lack most of the adverse side effects of tricyclic antidepressants and monoamine oxidase inhibitors. Consequently, in addition to being the usual first-line treatments for major depression, they are also first-line for panic disorder, obsessive-compulsive disorder, social phobia, posttraumatic stress disorder, and bulimia. They may also be the best medication treatments for dysthymia and generalized anxiety disorder. Further advances in psychopharmacology will be driven by discoveries from brain imaging and molecular biological research.",
-        "year": "1999"
-    },
-    {
-        "title": "Cardiovascular and catecholamine response to orthostasis in panic and obsessive-compulsive disorder and normal controls: effects of anxiety and novelty.",
-        "abstract": "Studies of the cardiovascular and catecholamine response to orthostatic challenge in panic disorder patients have yielded conflicting results. Failure to control for the effects of both anxiety and novelty, which contribute to subjects' response to orthostatic challenge in control patients, could possibly account for this. The blood pressure, pulse, plasma norepinephrine and epinephrine responses to orthostasis were examined in patients with panic disorder, obsessive-compulsive disorder (to control for nonspecific anxiety effects), and controls, on two separate days a week apart (to control for novelty). All measures showed robust and significant increases with orthostatic challenge that were generally similar across groups. Pressure responses were greater on average on the first compared with the second day and panic disorder patients had higher plasma norepinephrine levels throughout the study and a diminished diastolic blood pressure response on the first day. These findings in general support the absence of consistent peripheral autonomic nervous system differences in response to orthostatic challenge in panic disorder patients.",
-        "year": "1997"
-    },
-    {
-        "title": "Elevated cerebrospinal fluid corticotropin-releasing factor in Tourette's syndrome: comparison to obsessive compulsive disorder and normal controls.",
-        "abstract": "Stress- and anxiety-related fluctuations in tic severity are cardinal features of Tourette's syndrome (TS), and there is evidence for involvement of noradrenergic mechanisms in the pathophysiology and treatment of the disorder. To examine further the pathobiology of this enhanced vulnerability to stress and anxiety, we measured central activity of corticotropin-releasing factor (CRF) in patients with TS and the related condition, obsessive compulsive disorder (OCD). Lumbar cerebrospinal fluid (CSF) was obtained in a standardized fashion for measurement of CRF from 21 medication-free outpatients with TS, 20 with OCD, and 29 healthy controls. The TS patients had significantly higher levels of CSF CRF than both the normal controls and the OCD patients. However, there was no difference in CSF CRF between the OCD patients and the normal controls. Group differences in CSF CRF were unrelated to current clinical ratings of depression, anxiety, tics, and obsessive compulsive behaviors. Although the functional significance of this finding remains to be elucidated, these results are consistent with the hypothesis that stress-related neurobiological mechanisms may play a role in the pathobiology of TS.",
-        "year": "1996"
-    },
-    {
-        "title": "Serotonin dysfunction disorders: a behavioral neurochemistry perspective.",
-        "abstract": "The spectrum of efficacy of the serotonin selective reuptake inhibitor (SSRI) antidepressant drugs continues to expand. In fact, no psychiatric syndrome seems to worsen with these agents, and few studies fail to demonstrate clinical improvement in some patients, regardless of any nosologic nicety, such as precise DSM diagnosis. This suggests that the biological rubric of psychopathology is dimensional rather than categorical. New research using in vivo microdialysis shows differences in neurochemistry among SSRIs, wherein fluoxetine blocks reuptake of dopamine and norepinephrine, as well as serotonin, in medial prefrontal cortex, and fluvoxamine has a relatively more selective neurochemical profile. In the animal model of learned helplessness, which is a biobehavioral model for stress-induced anxiety causing depression, the SSRIs including fluvoxamine prevent helplessness. From these and other data, a neurotransmitter balance theory of biopsychopathology is formulated. In this hypothetical construct, dopamine, norepinephrine, and GABA modulate thought, anxiety, and mood, respectively. Serotonin is a stabilizing agent, which assists in returning the mind to its homeostatic setpoint.",
-        "year": "1996"
-    },
-    {
-        "title": "[Selected issues of biological aspects of eating disorders].",
-        "abstract": "This paper reviews the recent progress in the understanding of the neurobiology of the eating disorders. The analysis of the biochemical abnormalities present in the patients with bulimia nervosa indicates the decrease of central serotonin and noradrenalin activity, elevation of the levels of cerebrospinal fluid peptide YY, alterations of the endogenous opioids and also reduction of peripheral cholecystokinin levels. As these studies were performed on patients who were actively binging and purging it is conceivable that the above abnormalities can results from a pathological feeding pattern. It is also suggested that the reduction of central serotoninergic activity is the stable, trait-related dysregulation of neurotransmitter system activity. In patients with anorexia nervosa the endocrine disturbances of the hypothalamic-pituitary-ovarian and hypothalamic-pituitary-adrenal axes were thoroughly studied. Underweight anorectic patients have been found to have elevations of cerebrospinal fluid level of neuropeptide Y, corticotropin releasing hormone and vasopressin as well as reductions of beta-endorphin and oxytocin level. However, most of the neuropeptide alterations normalize following weight recovery. The only exception is a persistent increase of central serotonin activity postulated to be responsible for the obsessive-compulsive personality traits and disturbed eating behaviors found in these patients.",
-        "year": "1994"
-    },
-    {
-        "title": "Antidepressant-induced mania in obsessive-compulsive disorder.",
-        "abstract": "",
-        "year": "1992"
-    },
-    {
-        "title": "Plasma catecholamines and their metabolites in obsessive-compulsive disorder.",
-        "abstract": "Plasma catecholamines and their metabolites were sampled in 13 medication-free patients with obsessive-compulsive disorder (OCD) and 29 normal controls. In addition to severe OCD symptoms, the patients had significantly higher anxiety, tension, and resting pulse rates than the controls. Nonetheless, mean plasma concentrations of norepinephrine (NE) and epinephrine (E), the catecholamine metabolites 3-methoxy-4-hydroxyphenylglycol (MHPG) and homovanillic acid (HVA), and the stress-related hormone cortisol did not differ between OCD patients and normal controls. When the patients and control populations were combined and average plasma NE and E levels calculated over 35 min, subjects with a higher mean NE output (greater than 1.1 pm/ml) had higher Profile of Mood States depression scores than subjects with a low NE output (less than 1.1 pm/ml). Altogether, these results indicate that elevated plasma catecholamine measures are not likely to be associated with the pathophysiology of OCD.",
-        "year": "1991"
-    },
-    {
-        "title": "Noradrenergic function in obsessive-compulsive disorder: behavioral and neuroendocrine responses to clonidine and comparison to healthy controls.",
-        "abstract": "To evaluate noradrenergic (NE) function in obsessive-compulsive disorder (OCD), behavioral, physiological, and neuroendocrine responses to the alpha 2-adrenergic agonist clonidine were examined in 18 patients with OCD and 10 healthy subjects. Subjects received single i.v. doses of 2 micrograms/kg of clonidine administered under double-blind, placebo-controlled, random-assignment conditions. Following clonidine, but not following placebo, patients transiently experienced a significant reduction of obsessions and compulsions. Significant drowsiness and a reduction in anxiety were also noted, but the antiobsessional effect appeared independent of the soporific and antianxiety effects. Growth hormone (GH), cortisol, and 3-methoxy-4-hydroxyphenylglycol responses to clonidine did not differentiate patients from healthy controls. Blood pressure and pulse in response to clonidine did not differ between groups. Improvement in OCD symptoms after clonidine significantly correlated with GH response to clonidine, suggesting specific noradrenergic mediation. This finding lends only partial support for a primary defect of noradrenergic function in OCD.",
-        "year": "1991"
-    },
-    {
-        "title": "[The L-DOPA test in patients with obsessive fear neurosis].",
-        "abstract": "Three groups of patients with morbid fear neurosis, dissimilar in prevailing of either adrenaline or noradrenaline excretion, were identified using the complex method of sympathoadrenal system (SAS) examination. The test with 0.1 g L-DOPA loading demonstrated the high rate of synthesis and high reactivity of SAS in the first two groups with the adrenal type of SAS functioning as well as an increased hydroxylation in the course of synthesis of catecholamines. These anomalies were accompanied by impairments of adrenaline metabolism in the second group. A decreased reactivity of SAS in morning crises and elevated reactivity--during day and evening crises were observed in the third group of patients, characterized by the noradrenaline type of the system functioning as well as by presence of noradrenaline crises.",
-        "year": "1988"
-    },
-    {
-        "title": "Biochemical changes during clomipramine treatment of childhood obsessive-compulsive disorder.",
-        "abstract": "Peripheral measures of serotonergic and noradrenergic function were obtained in 29 obsessive-compulsive adolescents and 31 age- and sex-matched controls, as well as in a subsample of 22 patients after five weeks of treatment with clomipramine hydrochloride (134 +/- 33 mg/d) (mean +/- SD) given in a double-blind placebo-controlled trial. Drug-free obsessive-compulsive subjects did not differ from controls on measures of platelet serotonin and monoamine oxidase (MAO) activity, nor on plasma epinephrine or norepinephrine concentrations at rest and after a standard orthostatic challenge procedure. Compared with placebo, treatment with clomipramine was clinically effective and produced a marked decrease in platelet serotonin concentration, a trend toward a reduction in platelet MAO activity, and a rise in standing plasma norepinephrine. Clinical improvement during drug therapy was closely correlated with pretreatment platelet serotonin concentration and MAO activity, as well as with the decrease in both measures during clomipramine administration. This suggests that the effects of clomipramine on serotonin uptake may be essential to the antiobsessional action observed.",
-        "year": "1987"
-    },
-    {
-        "title": "Biological alterations in the primary affective disorders and other tricyclic-responsive disorders.",
-        "abstract": "Noradrenergic function was studied in patients with primary affective disorder and other tricyclic-responsive disorders including obsessive-compulsive disorder, anorexia nervosa and panic attack/agoraphobia in medication-free states. Pre-synaptic noradrenergic activity was assessed by assaying plasma concentrations of norepinephrine (NE) and its metabolite 3-methoxy,4-hydroxyphenylglycol (MHPG). Noradrenergic receptor responsiveness was evaluated by measuring plasma growth hormone (GH), MHPG, and NE responses to clonidine. Binding of tritiated dihydroergocriptine (3H-DHE) and biochemical responsiveness of alpha 2-adrenergic receptors were measured in platelet preparations. These studies suggest that noradrenergic activity may be altered in several tricyclic-responsive disorders and are consistent with the possibility that tricyclic antidepressants may serve to stabilize a dysregulated noradrenergic system in patients from several diagnostic categories.",
-        "year": "1985"
-    },
-    {
-        "title": "Growth hormone response to clonidine in obsessive-compulsive patients.",
-        "abstract": "We have observed a lesser growth hormone response to intravenous clonidine administration in nine obsessive-compulsive disorder patients meeting research diagnostic criteria than in nine matched controls. The obsessive-compulsive disorder patients had higher plasma free 3-methoxy-4-hydroxyphenylglycol and plasma norepinephrine levels before clonidine than the controls. As blunted growth hormone responses to clonidine are also characteristic of affective disorder patients, these results support other observations of a psychobiologic affinity between these two groups and are also compatible with an association between increased presynaptic noradrenergic activity and decreased post-synaptic receptor responsiveness.",
-        "year": "1983"
-    },
-    {
-        "title": "[Types of adrenograms in neuroses].",
-        "abstract": "A total of 714 adrenograms (graphic depiction of adrenalin and noradrenalin excretion in relation to the circadian rhythm) obtained from neurotic patients were analyzed. The authors succeeded in ascertaining the differences of their types in patients suffering from hysterical neurosis, neurasthenia and obsessive neurosis. The adrenographic method is believed to be capable of serving as an additional diagnostic criterion in the differential diagnosis of these pathological forms.",
-        "year": "1983"
-    },
-    {
-        "title": "Abnormalities in the primary affective disorders compared to other tricyclic-responsive disorders.",
-        "abstract": "",
-        "year": "1983"
-    },
-    {
-        "title": "[A rapid polarographic microanalytic method for the determination of catecholamines and acetylcholine and their clinical use in borderline forms of neuropsychiatric disorders].",
-        "abstract": "",
-        "year": "1982"
-    }
+  {
+    "pmid": "37748568",
+    "title": "Cerebrospinal fluid findings in patients with obsessive-compulsive disorder, Tourette syndrome, and PANDAS: A systematic literature review.",
+    "abstract": "Obsessive-compulsive disorder (OCD) and Tourette syndrome (TS) are related mental disorders that share genetic, neurobiological, and phenomenological features. Pediatric autoimmune neuropsychiatric disorder associated with streptococcal infections (PANDAS) is a neuropsychiatric autoimmune disorder with symptoms of OCD and/or TS associated with streptococcal infections. Therefore, PANDAS represents a strong link between OCD, TS, and autoimmunity. Notably, cerebrospinal fluid (CSF) analyses can provide insight into the central nervous processes in OCD, TS, and PANDAS. A systematic literature search according to the PRISMA criteria was conducted to collect all CSF studies in patients with OCD, TS, and PANDAS. The total number of cases and the heterogeneity of the low number of studies were not sufficient for a meta-analysis to provide a high level of evidence. Nevertheless, meta-analytical statistics could be performed for glutamate, 5-hydroxyindoleacetic acid (degradation product of serotonin), homovanillic acid (degradation product of dopamine), 3-methoxy-4-hydroxyphenylglycol (major metabolite of noradrenaline), and corticotropin-releasing hormone (CRH) in OCD. A risk-of-bias assessment was implemented using the Cochrane ROBINS-E tool. Meta-analytical testing identified elevated glutamate levels in the CSF of OCD patients compared with healthy controls, while no significant differences were found in other neurotransmitters or CRH. Single studies detected novel neuronal antibodies in OCD patients and elevated oligoclonal bands in TS patients. For TS and PANDAS groups, there was a dearth of data. Risk of bias assessment indicated a substantial risk of bias in most of the included studies. This systematic review of available CSF data shows that too few studies are currently available for conclusions with good evidence. The existing data indicates glutamate alterations in OCD and possible immunological abnormalities in OCD and TS. More CSF studies avoiding sources of bias are needed.",
+    "year": "2024",
+    "is_review": false,
+    "publication_types": [
+      "Systematic Review",
+      "Meta-Analysis",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "37278215",
+    "title": "Incidence of adverse events and comparative tolerability of selective serotonin reuptake inhibitors, and serotonin and norepinephrine reuptake inhibitors for the treatment of anxiety, obsessive-compulsive, and stress disorders: a systematic review and network meta-analysis.",
+    "abstract": "Selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs) show similar efficacy as treatments for anxiety, obsessive-compulsive, and stress-related disorders. Hence, comparisons of adverse event rates across medications are an essential component of clinical decision-making. We aimed to compare patterns of adverse events associated with SSRIs and SNRIs in the treatment of children and adults diagnosed with these disorders through a network meta-analysis. We searched MEDLINE, PsycINFO, Embase, Cochrane, websites of regulatory agencies, and international registers from inception to 09 September 2022, for randomized controlled trials assessing the efficacy of SSRIs or SNRIs. We analyzed the proportion of participants experiencing at least one adverse event and incidence rates of 17 specific adverse events. We estimated incidence rates and odds ratios through network meta-analysis with random effects and three-level models. We analyzed 799 outcome measures from 80 studies (<i>n</i> = 21 338). Participants in medication groups presented higher rates of adverse events (80.22%, 95% CI 76.13-83.76) when compared to placebo groups (71.21%, 67.00-75.09). Nausea was the most common adverse event (25.71%, CI 23.96-27.54), while weight change was the least common (3.56%, 1.68-7.37). We found higher rates of adverse events of medications over placebo for most medications, except sertraline and fluoxetine. We found significant differences between medications for overall tolerability and for autonomic, gastrointestinal, and sleep-related symptoms. Adverse events are a common reason that patients discontinue SSRIs and SNRIs. Results presented here guide clinical decision-making when clinicians weigh one medication over another. This might improve treatment acceptability and compliance.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Systematic Review",
+      "Journal Article",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, Non-U.S. Gov't",
+      "Network Meta-Analysis"
+    ]
+  },
+  {
+    "pmid": "25439852",
+    "title": "[Treatment-resistant anxiety disorders: A literature review of drug therapy strategies].",
+    "abstract": "Anxiety disorders are widespread psychiatric conditions with significant social and professional disability, poor quality of life, an increased risk of suicide, and frequent attendance of medical services. Serotonin reuptake inhibitors (SRI) and serotonin and norepinephrine reuptake inhibitors (SNRI) have demonstrated a rather robust efficacy for the treatment of most of anxiety disorders. Nevertheless a substantial number of patients are resistant or still suffer from residual symptoms despite this first line treatment. The objective of our paper is to review relevant studies for the pharmacologic management of anxiety disorders resistant to the first line treatment. For this purpose, we conducted a pubmed/medline search for double-blind placebo-controlled trials of treatment-resistant anxiety disorders. An adequate trial for a SRI in the treatment of obsessive-compulsive disorder (OCD) should continue for at least 12 weeks. Special considerations of the comorbidities and symptom profile could help in the choice of an appropriate pharmacotherapy. Several trials have highlighted the efficacy of antipsychotics as an add-on to SRI in treatment-resistant OCD such as haloperidol more so when comorbid with a tic disorder, or risperidone that can reduce OCD as well as depressive symptoms. Aripiprazole has been shown efficacious in two placebo-controlled double-blind trials, while the efficacy of quetiapine and olanzapine remains controversial. Other trials showed some efficacy of anticonvulsants (lamotrigine, topiramate), pindolol, memantin and N-acetylcystein as an adjunctive treatment to SRI for resistant OCD. Few trials have investigated selective serotonin reuptake inhibitors (SSRI) or SNRI resistant generalized anxiety disorder showing a failure of adjunctive therapy with olanzapine, quetiapine, ziprasidone and risperidone. These studies were underpowered and very limited in number. Adjunctive risperidone for resistant post-traumatic stress disorder (PTSD) showed benefit in some but not all trials. Olanzapine was beneficial for the reduction of the CAPS score in addition to the improvement of sleep disturbances. Furthermore, prazosin was efficacious by reducing PTSD symptoms, sleep disturbances, nightmares, and psychological distress. One double-blind placebo-controlled study was conducted to investigate treatment-resistant social phobia showing no benefit of pindolol add-on paroxetine. Our results demonstrate that the pharmacological management of treatment-resistant anxiety disorders is not sufficiently investigated in double-blind placebo-controlled trials, despite a growing evidence in favor of antipsychotics and some other pharmacological agents in resistant OCD and, to a lesser extent, PTSD. Hence, there is a crucial need for larger double-blind placebo-controlled trials for resistant anxiety disorders. Finally, being out of the scope of our review, we omitted studies of non-pharmacologic therapies.",
+    "year": "2015",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "18761860",
+    "title": "[Tourette syndrome. Genetics, neuroanatomy and neurotransmitters].",
+    "abstract": "The etiology and pathophysiology of Tourette syndrome (TS) have not yet been clarified. Despite inconsistencies in the literature, some conclusions can be drawn on genetics, neuroanatomy and neurotransmitters. The inheritance of TS is unknown; the etiology seems to be polygenic. The basal ganglia are probably smaller in patients with TS. A dysfunction in the dopaminergic pathway causes tics. ADHD results from a decreased concentration of dopamine and an increased concentration of noradrenaline. OCD is caused by a dysfunction in serotonin and probably dopamine.",
+    "year": "2008",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "10086481",
+    "title": "SSRIs and SNRIs: broad spectrum of efficacy beyond major depression.",
+    "abstract": "Originally studied and introduced for the treatment of depression, the selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs) have proven effective for a broad range of psychiatric illnesses, including several anxiety disorders, bulimia, and dysthymia. These drugs have in common important effects on the serotonergic (5-HT) neurotransmission system, which is involved in mediating a substantial number of important functions, including mood, aggression, sexual behavior, and pain. In addition, some of the new antidepressants, like venlafaxine/venlafaxine XR, also have effects on the noradrenergic neurotransmission system, which also appears important in mood and anxiety disorders. These new drugs, because of their specificity for the serotonin and norepinephrine reuptake proteins, lack most of the adverse side effects of tricyclic antidepressants and monoamine oxidase inhibitors. Consequently, in addition to being the usual first-line treatments for major depression, they are also first-line for panic disorder, obsessive-compulsive disorder, social phobia, posttraumatic stress disorder, and bulimia. They may also be the best medication treatments for dysthymia and generalized anxiety disorder. Further advances in psychopharmacology will be driven by discoveries from brain imaging and molecular biological research.",
+    "year": "1999",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "8698675",
+    "title": "Serotonin dysfunction disorders: a behavioral neurochemistry perspective.",
+    "abstract": "The spectrum of efficacy of the serotonin selective reuptake inhibitor (SSRI) antidepressant drugs continues to expand. In fact, no psychiatric syndrome seems to worsen with these agents, and few studies fail to demonstrate clinical improvement in some patients, regardless of any nosologic nicety, such as precise DSM diagnosis. This suggests that the biological rubric of psychopathology is dimensional rather than categorical. New research using in vivo microdialysis shows differences in neurochemistry among SSRIs, wherein fluoxetine blocks reuptake of dopamine and norepinephrine, as well as serotonin, in medial prefrontal cortex, and fluvoxamine has a relatively more selective neurochemical profile. In the animal model of learned helplessness, which is a biobehavioral model for stress-induced anxiety causing depression, the SSRIs including fluvoxamine prevent helplessness. From these and other data, a neurotransmitter balance theory of biopsychopathology is formulated. In this hypothetical construct, dopamine, norepinephrine, and GABA modulate thought, anxiety, and mood, respectively. Serotonin is a stabilizing agent, which assists in returning the mind to its homeostatic setpoint.",
+    "year": "1996",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "7991711",
+    "title": "[Selected issues of biological aspects of eating disorders].",
+    "abstract": "This paper reviews the recent progress in the understanding of the neurobiology of the eating disorders. The analysis of the biochemical abnormalities present in the patients with bulimia nervosa indicates the decrease of central serotonin and noradrenalin activity, elevation of the levels of cerebrospinal fluid peptide YY, alterations of the endogenous opioids and also reduction of peripheral cholecystokinin levels. As these studies were performed on patients who were actively binging and purging it is conceivable that the above abnormalities can results from a pathological feeding pattern. It is also suggested that the reduction of central serotoninergic activity is the stable, trait-related dysregulation of neurotransmitter system activity. In patients with anorexia nervosa the endocrine disturbances of the hypothalamic-pituitary-ovarian and hypothalamic-pituitary-adrenal axes were thoroughly studied. Underweight anorectic patients have been found to have elevations of cerebrospinal fluid level of neuropeptide Y, corticotropin releasing hormone and vasopressin as well as reductions of beta-endorphin and oxytocin level. However, most of the neuropeptide alterations normalize following weight recovery. The only exception is a persistent increase of central serotonin activity postulated to be responsible for the obsessive-compulsive personality traits and disturbed eating behaviors found in these patients.",
+    "year": "1994",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "38509778",
+    "title": "Large nesting expression in deer mice remains stable under conditions of visual deprivation despite heightened limbic involvement: Perspectives on compulsive-like behavior.",
+    "abstract": "Visual stimuli and limbic activation varyingly influence obsessive-compulsive symptom expression and so impact treatment outcomes. Some symptom phenotypes, for example, covert repugnant thoughts, are likely less sensitive to sensory stimuli compared to symptoms with an extrinsic focus, that is, symptoms related to contamination, safety, and \"just-right-perceptions.\" Toward an improved understanding of the neurocognitive underpinnings of obsessive-compulsive psychobiology, work in naturalistic animal model systems is useful. Here, we explored the impact of visual feedback and limbic processes on 24 normal (NNB) and large (LNB) nesting deer mice, respectively (as far as possible, equally distributed between sexes). Briefly, after behavioral classification into either the NNB or LNB cohorts, mice of each cohort were separated into two groups each and assessed for nesting expression under either standard light conditions or conditions of complete visual deprivation (VD). Nesting outcomes were assessed in terms of size and neatness. After nesting assessment completion, mice were euthanized, and samples of frontal-cortical and hippocampal tissues were collected to determine serotonin and noradrenaline concentrations. Our results show that LNB, as opposed to NNB, represents an inflexible and excessive behavioral phenotype that is not dependent on visually guided action-outcome processing, and that it associates with increased frontal-cortical and hippocampal noradrenaline concentrations, irrespective of lighting condition. Collectively, the current results are informing of the neurocognitive underpinnings of nesting behavior. It also provides a valuable foundation for continued investigations into the noradrenergic mechanisms that may influence the development and promulgation of excessive, rigid, and inflexible behaviors.",
+    "year": "2024",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "32313981",
+    "title": "Central norepinephrine transmission is required for stress-induced repetitive behavior in two rodent models of obsessive-compulsive disorder.",
+    "abstract": "Obsessive-compulsive disorder (OCD) is characterized by repetitive behaviors exacerbated by stress. Many OCD patients do not respond to available pharmacotherapies, but neurosurgical ablation of the anterior cingulate cortex (ACC) can provide symptomatic relief. Although the ACC receives noradrenergic innervation and expresses adrenergic receptors (ARs), the involvement of norepinephrine (NE) in OCD has not been investigated. To determine the effects of genetic or pharmacological disruption of NE neurotransmission on marble burying (MB) and nestlet shredding (NS),\u00a0two animal models of OCD. We assessed NE-deficient (Dbh -/-) mice and NE-competent (Dbh +/-) controls in MB and NS tasks. We also measured the effects of anti-adrenergic drugs on NS and MB in control mice and the effects of pharmacological restoration of central NE in Dbh -/- mice. Finally, we compared c-fos induction in the locus coeruleus (LC) and ACC of Dbh -/- and control mice following both tasks. Dbh -/- mice virtually lacked MB and NS behaviors seen in control mice but did not differ in the elevated zero maze (EZM) model of general anxiety-like behavior. Pharmacological restoration of central NE synthesis in Dbh -/- mice completely rescued NS behavior, while NS and MB were suppressed in control mice by anti-adrenergic drugs. Expression of c-fos in the ACC was attenuated in Dbh -/- mice after MB and NS. These findings support a role for NE transmission to the ACC in the expression of stress-induced compulsive behaviors and suggest further evaluation of anti-adrenergic drugs for OCD is warranted.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "23333254",
+    "title": "Deep brain stimulation for obsessive-compulsive disorder is associated with cortisol changes.",
+    "abstract": "Deep brain stimulation (DBS) is an effective treatment for obsessive-compulsive disorder (OCD), but its mechanism of action is largely unknown. Since DBS may induce rapid symptomatic changes and the pathophysiology of OCD has been linked to the hypothalamic-pituitary-adrenal (HPA) axis, we set out to study whether DBS affects the HPA axis in OCD patients. We compared a stimulation ON and OFF condition with a one-week interval in 16 therapy-refractory OCD patients, treated with DBS for at least one year, targeted at the nucleus accumbens (NAc). We measured changes in 24-h urinary excretion of free cortisol (UFC), adrenaline and noradrenaline and changes in obsessive-compulsive (Y-BOCS), depressive (HAM-D) and anxiety (HAM-A) symptom scores. Median UFC levels increased with 53% in the OFF condition (from 93 to 143nmol/24h, p=0.12). There were no changes in urinary adrenaline or noradrenaline excretion. The increase in Y-BOCS (39%), and HAM-D (78%) scores correlated strongly with increased UFC levels in the OFF condition. Our findings indicate that symptom changes following DBS for OCD patients are associated with changes in UFC levels.",
+    "year": "2013",
+    "is_review": false,
+    "publication_types": [
+      "Controlled Clinical Trial",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "20044210",
+    "title": "Disgust affects TNF-alpha, IL-6 and noradrenalin levels in patients with obsessive-compulsive disorder.",
+    "abstract": "Neurobiological research of obsessive-compulsive disorder (OCD) has rarely taken in account the context dependent evocation of obsessive-compulsive symptoms. To bypass this obstacle, this study investigated neurobiological parameters during a standardized disgust provocation paradigm in patients with OCD and healthy controls. Ten OCD patients and 10 healthy controls were exposed to 9 disgust related items using a standardized provocation paradigm. Catecholamines and cortisol in plasma and lipopolysaccharide (LPS) stimulated levels of TNF-alpha and IL-6 by peripheral leucocytes were assessed along with severity of obsessive-compulsive symptoms, disgust, and anxiety levels using Visual Analogue Scales prior, during and after a provocation paradigm. Noradrenalin levels increased, while LPS stimulated TNF-alpha and IL-6 by peripheral leucocytes decreased during exposure to disgust related objects in OCD patients but not in healthy controls. Cortisol levels were not affected by exposure neither in patients nor in controls, but overall cortisol levels of OCD patients were increased compared to controls. In conclusion, our data suggests that symptom provocation in OCD patients with contamination fear is accompanied by alterations in the immune and neuroendocrine systems but does not affect cortisol levels.",
+    "year": "2010",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "19046799",
+    "title": "CSF neurotransmitter metabolites and neuropsychiatric symptomatology in patients with normal pressure hydrocephalus.",
+    "abstract": "Patients with normal pressure hydrocephalus (NPH) may exhibit certain neuropsychiatric symptomatology, possibly related to alterations in central neurotransmitter activity. The aim of this study was to relate psychiatric distress, as expressed by the scores in the SCL-90 subscales, to CSF levels of the main metabolites of noradrenaline (MHPG), serotonin (5-HIAA), and dopamine (HVA) in NPH patients. The metabolite levels were estimated in CSF samples taken during the tap test in 19 patients with probable NPH, and compared to 19 sex- and age-matched controls. Cognitive impairment was evaluated by the MMSE. Compared to controls, NPH patients had similar MHPG and 5-HIAA levels, and significantly elevated HVA levels, a notable difference from patients with dementias. There were no significant correlations of metabolite levels to the scores in the nine SCL-90 subscales. MMSE score was not related either to metabolite levels, or to the SCL-90 subscale scores. Patients scored higher than controls in most SCL-90 subscales, more pronounced being the difference in obsessive-compulsive symptomatology. Serotonergic neurotransmitter activity seems not to be altered in NPH patients, and this may explain the reported lack of beneficial effect of serotonergic drugs for obsessive-compulsive symptoms in NPH patients.",
+    "year": "2009",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "9559286",
+    "title": "Cardiovascular and catecholamine response to orthostasis in panic and obsessive-compulsive disorder and normal controls: effects of anxiety and novelty.",
+    "abstract": "Studies of the cardiovascular and catecholamine response to orthostatic challenge in panic disorder patients have yielded conflicting results. Failure to control for the effects of both anxiety and novelty, which contribute to subjects' response to orthostatic challenge in control patients, could possibly account for this. The blood pressure, pulse, plasma norepinephrine and epinephrine responses to orthostasis were examined in patients with panic disorder, obsessive-compulsive disorder (to control for nonspecific anxiety effects), and controls, on two separate days a week apart (to control for novelty). All measures showed robust and significant increases with orthostatic challenge that were generally similar across groups. Pressure responses were greater on average on the first compared with the second day and panic disorder patients had higher plasma norepinephrine levels throughout the study and a diminished diastolic blood pressure response on the first day. These findings in general support the absence of consistent peripheral autonomic nervous system differences in response to orthostatic challenge in panic disorder patients.",
+    "year": "1997",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "8731518",
+    "title": "Elevated cerebrospinal fluid corticotropin-releasing factor in Tourette's syndrome: comparison to obsessive compulsive disorder and normal controls.",
+    "abstract": "Stress- and anxiety-related fluctuations in tic severity are cardinal features of Tourette's syndrome (TS), and there is evidence for involvement of noradrenergic mechanisms in the pathophysiology and treatment of the disorder. To examine further the pathobiology of this enhanced vulnerability to stress and anxiety, we measured central activity of corticotropin-releasing factor (CRF) in patients with TS and the related condition, obsessive compulsive disorder (OCD). Lumbar cerebrospinal fluid (CSF) was obtained in a standardized fashion for measurement of CRF from 21 medication-free outpatients with TS, 20 with OCD, and 29 healthy controls. The TS patients had significantly higher levels of CSF CRF than both the normal controls and the OCD patients. However, there was no difference in CSF CRF between the OCD patients and the normal controls. Group differences in CSF CRF were unrelated to current clinical ratings of depression, anxiety, tics, and obsessive compulsive behaviors. Although the functional significance of this finding remains to be elucidated, these results are consistent with the hypothesis that stress-related neurobiological mechanisms may play a role in the pathobiology of TS.",
+    "year": "1996",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "1891512",
+    "title": "Plasma catecholamines and their metabolites in obsessive-compulsive disorder.",
+    "abstract": "Plasma catecholamines and their metabolites were sampled in 13 medication-free patients with obsessive-compulsive disorder (OCD) and 29 normal controls. In addition to severe OCD symptoms, the patients had significantly higher anxiety, tension, and resting pulse rates than the controls. Nonetheless, mean plasma concentrations of norepinephrine (NE) and epinephrine (E), the catecholamine metabolites 3-methoxy-4-hydroxyphenylglycol (MHPG) and homovanillic acid (HVA), and the stress-related hormone cortisol did not differ between OCD patients and normal controls. When the patients and control populations were combined and average plasma NE and E levels calculated over 35 min, subjects with a higher mean NE output (greater than 1.1 pm/ml) had higher Profile of Mood States depression scores than subjects with a low NE output (less than 1.1 pm/ml). Altogether, these results indicate that elevated plasma catecholamine measures are not likely to be associated with the pathophysiology of OCD.",
+    "year": "1991",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "1876628",
+    "title": "Noradrenergic function in obsessive-compulsive disorder: behavioral and neuroendocrine responses to clonidine and comparison to healthy controls.",
+    "abstract": "To evaluate noradrenergic (NE) function in obsessive-compulsive disorder (OCD), behavioral, physiological, and neuroendocrine responses to the alpha 2-adrenergic agonist clonidine were examined in 18 patients with OCD and 10 healthy subjects. Subjects received single i.v. doses of 2 micrograms/kg of clonidine administered under double-blind, placebo-controlled, random-assignment conditions. Following clonidine, but not following placebo, patients transiently experienced a significant reduction of obsessions and compulsions. Significant drowsiness and a reduction in anxiety were also noted, but the antiobsessional effect appeared independent of the soporific and antianxiety effects. Growth hormone (GH), cortisol, and 3-methoxy-4-hydroxyphenylglycol responses to clonidine did not differentiate patients from healthy controls. Blood pressure and pulse in response to clonidine did not differ between groups. Improvement in OCD symptoms after clonidine significantly correlated with GH response to clonidine, suggesting specific noradrenergic mediation. This finding lends only partial support for a primary defect of noradrenergic function in OCD.",
+    "year": "1991",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Comparative Study",
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "3369120",
+    "title": "[The L-DOPA test in patients with obsessive fear neurosis].",
+    "abstract": "Three groups of patients with morbid fear neurosis, dissimilar in prevailing of either adrenaline or noradrenaline excretion, were identified using the complex method of sympathoadrenal system (SAS) examination. The test with 0.1 g L-DOPA loading demonstrated the high rate of synthesis and high reactivity of SAS in the first two groups with the adrenal type of SAS functioning as well as an increased hydroxylation in the course of synthesis of catecholamines. These anomalies were accompanied by impairments of adrenaline metabolism in the second group. A decreased reactivity of SAS in morning crises and elevated reactivity--during day and evening crises were observed in the third group of patients, characterized by the noradrenaline type of the system functioning as well as by presence of noradrenaline crises.",
+    "year": "1988",
+    "is_review": false,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "3548637",
+    "title": "Biochemical changes during clomipramine treatment of childhood obsessive-compulsive disorder.",
+    "abstract": "Peripheral measures of serotonergic and noradrenergic function were obtained in 29 obsessive-compulsive adolescents and 31 age- and sex-matched controls, as well as in a subsample of 22 patients after five weeks of treatment with clomipramine hydrochloride (134 +/- 33 mg/d) (mean +/- SD) given in a double-blind placebo-controlled trial. Drug-free obsessive-compulsive subjects did not differ from controls on measures of platelet serotonin and monoamine oxidase (MAO) activity, nor on plasma epinephrine or norepinephrine concentrations at rest and after a standard orthostatic challenge procedure. Compared with placebo, treatment with clomipramine was clinically effective and produced a marked decrease in platelet serotonin concentration, a trend toward a reduction in platelet MAO activity, and a rise in standing plasma norepinephrine. Clinical improvement during drug therapy was closely correlated with pretreatment platelet serotonin concentration and MAO activity, as well as with the decrease in both measures during clomipramine administration. This suggests that the effects of clomipramine on serotonin uptake may be essential to the antiobsessional action observed.",
+    "year": "1987",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Controlled Clinical Trial",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "2986198",
+    "title": "Biological alterations in the primary affective disorders and other tricyclic-responsive disorders.",
+    "abstract": "Noradrenergic function was studied in patients with primary affective disorder and other tricyclic-responsive disorders including obsessive-compulsive disorder, anorexia nervosa and panic attack/agoraphobia in medication-free states. Pre-synaptic noradrenergic activity was assessed by assaying plasma concentrations of norepinephrine (NE) and its metabolite 3-methoxy,4-hydroxyphenylglycol (MHPG). Noradrenergic receptor responsiveness was evaluated by measuring plasma growth hormone (GH), MHPG, and NE responses to clonidine. Binding of tritiated dihydroergocriptine (3H-DHE) and biochemical responsiveness of alpha 2-adrenergic receptors were measured in platelet preparations. These studies suggest that noradrenergic activity may be altered in several tricyclic-responsive disorders and are consistent with the possibility that tricyclic antidepressants may serve to stabilize a dysregulated noradrenergic system in patients from several diagnostic categories.",
+    "year": "1985",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "6839074",
+    "title": "Growth hormone response to clonidine in obsessive-compulsive patients.",
+    "abstract": "We have observed a lesser growth hormone response to intravenous clonidine administration in nine obsessive-compulsive disorder patients meeting research diagnostic criteria than in nine matched controls. The obsessive-compulsive disorder patients had higher plasma free 3-methoxy-4-hydroxyphenylglycol and plasma norepinephrine levels before clonidine than the controls. As blunted growth hormone responses to clonidine are also characteristic of affective disorder patients, these results support other observations of a psychobiologic affinity between these two groups and are also compatible with an association between increased presynaptic noradrenergic activity and decreased post-synaptic receptor responsiveness.",
+    "year": "1983",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "6675367",
+    "title": "[Types of adrenograms in neuroses].",
+    "abstract": "A total of 714 adrenograms (graphic depiction of adrenalin and noradrenalin excretion in relation to the circadian rhythm) obtained from neurotic patients were analyzed. The authors succeeded in ascertaining the differences of their types in patients suffering from hysterical neurosis, neurasthenia and obsessive neurosis. The adrenographic method is believed to be capable of serving as an additional diagnostic criterion in the differential diagnosis of these pathological forms.",
+    "year": "1983",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "7304788",
+    "title": "Childhood obsessive-compulsive disorder.",
+    "abstract": "The authors collected clinical diagnostic, neurophysiological, electrophysiological, and biochemical data on 9 adolescents who had primary obsessive-compulsive disorder. The results indicate considerable descriptive validity of the syndrome in childhood and its independence from obsessional traits; however, all of the children had a history of major depressive disorder, and their sleep EEG measures resembled those of young adults with primary depressive disorder. The patients' families did not have a more consistent pattern of anxiety disorder or any other psychiatric disorder than do families of adult obsessive patients. Psycholinguistic test results showed a lack of normal laterality, which has been reported for other psychiatric illness.",
+    "year": "1981",
+    "is_review": false,
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "331873",
+    "title": "Studies of endocrine activity, plasma tryptophan and catecholamine excretion on psychosurgical patients.",
+    "abstract": "The Geoffrey Knight Psychosurgical Unit admits patients on a regular basis and thus offers special opportunities for studying severely ill psychiatric cases, all having one particular treatment under relatively controlled conditions. The opportunity has been taken to repeat various metabolic studies previously reported to be abnormal in some psychiatric illnesses. In the present investigation several measures of endocrinological activity were studied, as was plasma tryptophan, both free and bound. None of these data confirmed reports of abnormalities and neither did the values found at operation help to predict clinical outcome 1 year later, which was another possibility. Urinary catecholamines were also measured and 2 weeks after operation. Male patients, regardless of diagnosis, showed a mean increase in adrenaline output after operation compared with the pre-operative value and this was significantly different from the females, who showed a small mean decrease. The depressed patients showed a significant reduction in noradrenaline excretion after operation compared with before operation and this trend was enhanced in those of good outcome at 1 year, the difference from those who responded poorly being significant. It could be that the ventromedial lesion that is produced alters noradrenaline metabolism or autonomic activity in depression and this possibility merits further study.",
+    "year": "1977",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article"
+    ]
+  }
 ]

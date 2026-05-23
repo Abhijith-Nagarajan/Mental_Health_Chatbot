@@ -1,127 +1,378 @@
 [
-    {
-        "title": "Plasma neuropeptide levels in patients with schizophrenia, bipolar disorder, or major depressive disorder and healthy controls: A multiplex immunoassay study.",
-        "abstract": "We aimed to compare neuropeptide levels between patients with major psychiatric disorders and healthy controls and examine their association with symptoms and cognitive function. The participants were 149 patients with schizophrenia, 115 patients with bipolar disorder (BD), 186 unremitted patients with major depressive disorder (MDD), and 350 healthy controls. Psychiatric (schizophrenic, manic, and depressive) symptoms, sleep state, and cognitive (premorbid intelligence quotient, general cognitive, and memory) functions were evaluated. A multiplex immunoassay kit was used to measure cerebrospinal fluid (CSF) and plasma \u03b1-melanocyte-stimulating hormone (MSH), \u03b2-endorphin, neurotensin, oxytocin, and substance P levels. The verification assay revealed that CSF \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels were too low to be reliably measured, while plasma \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels could be successfully measured. Plasma \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels were not significantly different between patients with schizophrenia, BD, or MDD and healthy controls. Plasma \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels were not significantly correlated with psychiatric symptom scores in patients with schizophrenia, BD, or MDD and cognitive function scores in patients or healthy controls. Our data suggest that plasma neuropeptide levels do not elucidate the involvement of neuropeptides in the pathology of schizophrenia, BD, or MDD.",
-        "year": "2023"
-    },
-    {
-        "title": "Examination of pain threshold and neuropeptides in patients with acute suicide risk.",
-        "abstract": "One of the main challenges in suicide prevention is the limited understanding of the biological mechanisms underlying suicide. Recent findings suggest impairments in pain processing in acutely suicidal patients. However, little is known about the biological factors that may drive these discrete physiological abnormalities. In this study, we examined plasma peptides involved in analgesic and inflammatory responses and physical pain threshold in acutely suicidal patients. Thirty-seven depressed patients of both sexes hospitalized for severe suicidal ideation or a recent suicide attempt were characterized clinically including history of suicidal ideation and behavior. Psychological and physical pain, and pressure pain threshold was also measured. Plasma levels of \u03b2-endorphin, neurotensin, agouti-related protein (AgRP), C-reactive protein (CRP), adrenocorticotropic hormone (ACTH), and brain-derived neurotrophic factor (BDNF) were run in Milliplex multiplex assays. The number of lifetime suicide attempts was positively correlated with \u03b2-endorphin (r\u202f=\u202f0.702; p\u202f=\u202f0.007), and neurotensin (r\u202f=\u202f0.728, p\u202f=\u202f0.007) plasma levels. Higher pain threshold was measured in the suicide attempt group as compared to the suicidal ideation group. Pain threshold was strongly and negatively associated with CRP plasma levels (r\u202f=\u202f-0.548; p\u202f<\u202f0.001). In patients reporting chronic pain, lower AgRP levels and lower pain threshold were observed (t\u202f=\u202f4.472; p\u202f=\u202f0.001). Our results suggest that abnormalities in the opioid and neurotensin systems may underlie the increase in pain threshold found in suicide attempters, and possibly risk for suicidal behavior. Targeting pain circuits and systems may provide therapeutic mechanisms for suicide prevention.",
-        "year": "2019"
-    },
-    {
-        "title": "IL-10 is associated with increased mu-opioid receptor levels in major depressive disorder.",
-        "abstract": "Activation of the immune-inflammatory response system (IRS) and the compensatory immune-regulatory system (CIRS) and aberrations in endogenous opioids play a role in the pathophysiology of major depressive disorder (MDD). There are no studies which examined the associations between both systems in MDD. The aim of the present study was to examine the relation between \u03b2-Endorphin (\u03b2-EP), Endomorphin-2, and their mu-opioid receptor (MOR) as well as interleukin (IL)-6 and IL-10, an anti-inflammatory cytokine, in MDD patients. The study included 60 depressed drug-free male patients and 30 matched controls. Serum \u03b2-EP, Endomorphin-2, MOR, IL-6 and IL-10 levels were measured using ELISA techniques. The results revealed a significant increase in serum \u03b2-EP, MOR, IL-6 and IL-10 in MDD patients versus healthy controls. MOR levels were strongly associated with IL-10 levels. There were no significant correlations between endogenous opioids and IL-6 and IL-10. The results show that MOR levels may function as a possible component of the CIRS whilst there is no evidence that \u03b2-EP and EM-2 may modify the IRS. The significant correlation between MOR levels and IL-10 may be explained through central activation of the HPA-axis and increased B-cell numbers expressing MOR as a response to cytokine over-secretion in MDD.",
-        "year": "2019"
-    },
-    {
-        "title": "Predictors of Postpartum Depression: A Comprehensive Review of the Last Decade of Evidence.",
-        "abstract": "Postpartum depression (PPD) is one of the most frequent complications of childbirth affecting ~500,000 women annually (prevalence 10% to 15%). Despite the documented adverse outcomes for mother and child, there remains a great need to develop prospective approaches to identify women at risk. This review examines some of the best-characterized molecular and clinical risk factors for PPD. We illustrate that this is a growing literature but there remains a lack of reliable molecular predictors for PPD. Current best predictors are clinical assessments for psychiatric history and adverse life events, highlighting the need for increased depression screening across the perinatal period.",
-        "year": "2018"
-    },
-    {
-        "title": "Increased \u03b2-endorphin level in blood plasma as an indicator of positive response to depression treatment.",
-        "abstract": "Preliminary data indicate that increased blood plasma level of \u03b2-endorphin in patients with nonpsychotic unipolar depression after 2 weeks of treatment correlates with the positive response to therapy. This parameter can be regarded as an objective indicator of potential improvements. Further studies aimed at determining the value of blood \u03b2-endorphin levels in patients with mood disorders for the diagnostics and estimating the therapeutic success in this disease are required.",
-        "year": "2012"
-    },
-    {
-        "title": "Histories of major depression and premenstrual dysphoric disorder: Evidence for phenotypic differences.",
-        "abstract": "This study examined unique versus shared stress and pain-related phenotypes associated with premenstrual dysphoric disorder (PMDD) and prior major depressive disorder (MDD). Sympathetic nervous system (SNS) and hypothalamic-pituitary-adrenal (HPA)-axis measures were assessed at rest and during mental stress, as well as sensitivity to cold pressor and tourniquet ischemic pain tasks in four groups of women: (1) non-PMDD with no prior MDD (N=18); (2) non-PMDD with prior MDD (N=9); (3) PMDD with no prior MDD (N=17); (4) PMDD with prior MDD (N=10). PMDD women showed blunted SNS responses to stress compared to non-PMDD women, irrespective of prior MDD; while women with prior MDD showed exaggerated diastolic blood pressure responses to stress versus never depressed women, irrespective of PMDD. However, only in women with histories of MDD did PMDD women have lower cortisol concentrations than non-PMDD women, and only in non-PMDD women was MDD associated with reduced cold pressor pain sensitivity. These results suggest both unique phenotypic differences between women with PMDD and those with a history of MDD, but also indicate that histories of MDD may have special relevance for PMDD.",
-        "year": "2010"
-    },
-    {
-        "title": "Prenatal beta-endorphin as an early predictor of postpartum depressive symptoms in euthymic women.",
-        "abstract": "After delivery, many women experience symptoms of postpartum depression (PPD), and early identification of women at risk is therefore important. The opioid peptide beta-endorphin has been implicated in non-puerperal depression but its role in the development of PPD is unknown. Three hundred and seven women with a singleton, full-term (>37.0 weeks' GA) pregnancy were recruited early in pregnancy and followed up into the postpartum period. Blood samples were obtained at 15, 19, 25, 31 and 37 weeks' gestational age (GA) and at 9 weeks postpartum for assessment of beta-endorphin. Depressive symptoms were assessed with the Center for Epidemiological Studies-Depression scale at the last four pregnancy visits and with the Edinburgh Postnatal Depression Scale postpartum. Among women who were euthymic at 25 weeks' GA, those who proceeded to develop PPD symptoms had higher levels of beta-endorphin throughout pregnancy compared to women without PPD symptoms (all t>2.11, p<.05). At each assessment, women above the cut-off score for beta-endorphin were at more than three-fold risk for PPD symptoms (odds ratios 3.19-4.68) compared to women below the cut-off score. Self-report of depressive symptoms, no mental health history. Beta-endorphin may be a useful early predictor of PPD symptoms in women who do not report depressive symptoms in mid-pregnancy. If replicated, these findings have clinical implications for the identification and treatment of this at-risk group and further suggest that some of the pathways leading to this complex disorder may be specific to subgroups of women.",
-        "year": "2010"
-    },
-    {
-        "title": "The role of beta-endorphin in the pathophysiology of major depression.",
-        "abstract": "A role for beta-endorphin (beta-END) in the pathophysiology of major depressive disorder (MDD) is suggested by both animal research and studies examining clinical populations. The major etiological theories of depression include brain regions and neural systems that interact with opioid systems and beta-END. Recent preclinical data have demonstrated multiple roles for beta-END in the regulation of complex homeostatic and behavioural processes that are affected during a depressive episode. Additionally, beta-END inputs to regulatory pathways involving feeding behaviours, motivation, and specific types of motor activity have important implications in defining the biological foundations for specific depressive symptoms. Early research linking beta-END to MDD did so in the context of the hypothalamic-pituitary-adrenal (HPA) axis activity, where it was suggested that HPA axis dysregulation may account for depressive symptoms in some individuals. The primary aims of this paper are to use both preclinical and clinical research (a) to critically review data that explores potential roles for beta-END in the pathophysiology of MDD and (b) to highlight gaps in the literature that limit further development of etiological theories of depression and testable hypotheses. In addition to examining methodological and theoretical challenges of past clinical studies, we summarize studies that have investigated basal beta-END levels in MDD and that have used challenge tests to examine beta-END responses to a variety of experimental paradigms. A brief description of the synthesis, location in the CNS and behavioural pharmacology of this neuropeptide is also provided to frame this discussion. Given the lack of clinical improvement observed with currently available antidepressants in a significant proportion of depressed individuals, it is imperative that novel mechanisms be investigated for antidepressant potential. We conclude that the renewed interest in elucidating the role of beta-END in the pathophysiology of MDD must be paralleled by consensus building within the research community around the heterogeneity inherent in mood disorders, standardization of experimental protocols, improved discrimination of POMC products in analytical techniques and consistent attention paid to important confounds like age and gender.",
-        "year": "2009"
-    },
-    {
-        "title": "Interaction between serotonin 5-HT1A receptors and beta-endorphins modulates antidepressant response.",
-        "abstract": "Interactions between serotonergic and the endogenous opioid systems have been suggested to be involved in the etiopathogenesis of depression and in the mechanism of action of antidepressants. Activation of serotonin 5-HT1A receptors has been shown to increase plasma beta-endorphin (beta-END) levels in animal studies and in healthy humans. To assess interaction abnormalities between 5-HT1A receptors and the endogenous opioid system in patients with major depression and the possible modulating effect of citalopram. The beta-END response to the 5-HT1A receptor agonist, buspirone (30 mg), was measured in 30 patients with major depression and in 30 age- and sex-matched healthy controls before and after an 8-week treatment with citalopram. Pre-treatment score of the Hamilton Rating Scale for Depression (HRSD) was >or=17. Antidepressant response was defined by a 50% decrease in the HRSD. Pre- and post-treatment maximum peak response (Deltamax) and the area under the curve (AUC) of beta-END response were compared. Three time points were measured (60, 90 and 120 min). We also examined the correlations between the beta-END response and the antidepressant response. Buspirone plasma levels were not measured. At baseline, beta-END response was similar in patients and controls. After 8 weeks of citalopram treatment depressed patients showed a significant decrease in the beta-END response (Deltamax: p<.001; AUC: p<.001). A significant correlation between the beta-END reduction in the response and the reduction in the HRSD score (r=.656; p<.001) was observed. Changes in interaction between 5-HT1A receptor system and the endogenous opioid system may play a role both in the mechanism of action and response to antidepressant drugs.",
-        "year": "2008"
-    },
-    {
-        "title": "Adapted cold shower as a potential treatment for depression.",
-        "abstract": "Depression is a debilitating mood disorder that is among the top causes of disability worldwide. It can be characterized by a set of somatic, emotional, and behavioral symptoms, one of which is a high risk of suicide. This work presents a hypothesis that depression may be caused by the convergence of two factors: (A) A lifestyle that lacks certain physiological stressors that have been experienced by primates through millions of years of evolution, such as brief changes in body temperature (e.g. cold swim), and this lack of \"thermal exercise\" may cause inadequate functioning of the brain. (B) Genetic makeup that predisposes an individual to be affected by the above condition more seriously than other people. To test the hypothesis, an approach to treating depression is proposed that consists of adapted cold showers (20 degrees C, 2-3 min, preceded by a 5-min gradual adaptation to make the procedure less shocking) performed once or twice daily. The proposed duration of treatment is several weeks to several months. The following evidence appears to support the hypothesis: Exposure to cold is known to activate the sympathetic nervous system and increase the blood level of beta-endorphin and noradrenaline and to increase synaptic release of noradrenaline in the brain as well. Additionally, due to the high density of cold receptors in the skin, a cold shower is expected to send an overwhelming amount of electrical impulses from peripheral nerve endings to the brain, which could result in an anti-depressive effect. Practical testing by a statistically insignificant number of people, who did not have sufficient symptoms to be diagnosed with depression, showed that the cold hydrotherapy can relieve depressive symptoms rather effectively. The therapy was also found to have a significant analgesic effect and it does not appear to have noticeable side effects or cause dependence. In conclusion, wider and more rigorous studies would be needed to test the validity of the hypothesis.",
-        "year": "2008"
-    },
-    {
-        "title": "Long-term immune-endocrine effects of bereavement: relationships with anxiety levels and mood.",
-        "abstract": "Psychological, endocrine and immune parameters were measured over a 6-month period in 14 healthy subjects who underwent an unpredictable acute emotional stress (e.g. sudden death of a loved one) compared with 14 controls who did not. Probands were profoundly stressed as assessed 10 days after bereavement by their scores on the Hamilton Rating Scales of Anxiety and Depression, adrenocorticotropin and cortisol plasma concentrations, and non-suppression in response to dexamethasone. Functional alterations of immune parameters, such as responsiveness of peripheral blood lymphocytes to mitogens, were found 40 days after bereavement. Despite a normal number of circulating lymphocyte subsets, the functional activity of natural killer (NK) cells was markedly reduced at day 40. Changes in the intracellular concentration of beta-endorphin in peripheral blood mononuclear cells correlated with anxiety and depression scores. Controls showed no changes in psychometric, endocrine and immune measures during the 6-month study. Cluster analysis revealed two groups of bereaved subjects with different patterns of immune and endocrine changes: (1) Five subjects, characterized by harm-avoidant temperament and long-lasting dysphoric mood, showed reduced responsiveness of peripheral blood lymphocytes to mitogens, decreased NK cell activity and non-suppression in response to dexamethasone that persisted for 6 months. (2) Nine subjects showed significant changes only during the early phase after bereavement. Our data suggest that the immunological consequences of stress do not simply overlap with psychological and endocrine alterations, and are particularly severe and long-lasting in a subgroup of subjects, indicating the importance of individual variability in the capacity to cope with stress.",
-        "year": "2003"
-    },
-    {
-        "title": "Fewer beta-endorphin expressing arcuate nucleus neurons and reduced beta-endorphinergic innervation of paraventricular neurons in schizophrenics and patients with depression.",
-        "abstract": "In order to elucidate whether the hypothalamic expression of beta-endorphin is altered in patients with mental disorders we studied the cellular localization of the peptide in arcuate nucleus neurons as well as the beta-endorphinergic innervation of paraventricular neurons in nine schizophrenics, six subjects with depression, and nine controls. A polyclonal antiserum against beta-endorphin was employed for the immunohistochemical detection of the peptide in sections of postmortem human brains. Quantitative analysis revealed that the number of beta-endorphin-containing arcuate neurons was statistically reduced in schizophrenics and depressives in comparison to controls. Moreover, the number of endorphinoceptive (i.e. beta-endorphin-innervated) paraventricular nerve cells was also lower in psychiatric patients than in control cases. Our results showing an altered endorphinergic system in human hypothalami of schizophrenics and depressives might contribute to a renewal of interest in this peptide as a possible factor of importance in psychiatric disorders.",
-        "year": "2002"
-    },
-    {
-        "title": "Clinical and biochemical observations during treatment of depression with electroacupuncture: a pilot study.",
-        "abstract": "Six patients suffering from major depression were treated with electroacupuncture. During 4 weeks of treatment, the total CPRS-S-A score decreased from 23.8 to 13.4 (p=0.0095). A decrease of neuropeptide Y (NPY) in plasma during the first 2 weeks of treatment was noted in five of the patients, all being women (p=0.0431). The decrease was negatively correlated with age (rs=-0.29; p=0.046). The results are in line with a putative antidepressive effect of electroacupuncture, along with an influence on NPY in plasma.",
-        "year": "2002"
-    },
-    {
-        "title": "A cross-national relationship between sugar consumption and major depression?",
-        "abstract": "We have preliminarily investigated the hypothesis that sugar consumption may impact the prevalence of major depression by correlating per capita consumption of sugar with the prevalence of major depression. Major depression prevalence data (annual rate/100) was obtained from the Cross-National Epidemiology of Major Depression and Bipolar Disorder study [Weissman et al., 1996]. Sugar consumption data from 1991 was obtained from the Food and Agricultural Organization of the United Nations. For the primary analysis, sugar consumption rates (cal/cap/day) were correlated with the annual rate of major depression, using the Pearson correlation coefficient. For the six countries with available data for the primary analysis, there was a highly significant correlation between sugar consumption and the annual rate of depression (Pearson correlation 0.948, P=0.004). Naturally, a correlation does not necessarily imply etiology. Caveats such as the limited number of countries with available data must be considered. Although speculative, there are some mechanistic reasons to consider that sugar consumption may directly impact the prevalence of major depression. Possible relationships between sugar consumption, beta-endorphins, and oxidative stress are discussed.",
-        "year": "2002"
-    },
-    {
-        "title": "Possible role of the endogenous opioid system in the placebo response in depression.",
-        "abstract": "",
-        "year": "2002"
-    },
-    {
-        "title": "Plasma corticotropin-releasing factor in depressed patients before and after the dexamethasone suppression test.",
-        "abstract": "Plasma cortisol, beta-endorphin, corticotropin, corticotropin-releasing factor, and salivary cortisol concentrations, resting and after ingestion of 1 mg of dexamethasone, were investigated in depressed patients and controls. Fourteen outpatients from the psychiatric department diagnosed with depressive disorder (ICD-10 Classification) participated in the study. The comparison group consisted of 12 healthy volunteers from the hospital staff. All hormones were measured using direct iodine-125 radioimmunoassay, except corticotropin-releasing factor, which included a sample preextraction and concentration step. The basal plasma cortisol and corticotropin-releasing factor levels in depressive disorder were significantly higher than in the healthy group. After dexamethasone administration, corticotropin-releasing factor plasma values decreased significantly in the depressed group, but showed no significant changes in the controls. In depressive disorder baseline values correlated significantly for salivary cortisol and plasma cortisol, salivary cortisol and plasma corticotropin-releasing factor and plasma corticotropin and beta-endorphin. Similar correlations were found in the healthy subjects, except for salivary cortisol and plasma corticotropin-releasing factor. These findings indicate that the increased corticotropin-releasing factor plasma concentrations demonstrated in depressive disorder reflect the hypothalamic corticotropin-releasing factor hypersecretion evidenced in this illness. Therefore, measurements of plasma corticotropin-releasing factor levels can be considered a reliable tool for investigating the role of this peptide in the pathophysiology of depression.",
-        "year": "2002"
-    },
-    {
-        "title": "Hormonal evidence for altered responsiveness to social stress in major depression.",
-        "abstract": "In patients with major depression, abnormalities in baseline cortisol secretion and resistance to negative feedback are well established. However, it is unclear if patients with major depression have alterations in the hypothalamic-pituitary-adrenal (HPA) response to stressors. While other challenges to the HPA axis have used endocrine stimuli such as insulin-induced hypoglycemia, we now report of the response to a social stressor in patients with major depression and matched control subjects. We used the Trier Social Stress Test (TSST), a public speaking task followed by mental arithmetic challenge in front of a panel of judges. The results suggest that depressed patients manifest normal cortisol response to a social stressor, despite increased pre-stressor plasma cortisol. However, the beta-endorphin response to the TSST was significantly smaller in the depressed patients compared to matched controls. These data are similar to data found with exogenous corticotropin-releasing-hormone challenge studies and suggest that elevated baseline cortisol can modulate the pituitary corticotroph response to a stressor, but that changes in adrenal sensitivity to ACTH result in a robust cortisol response to this stressor.",
-        "year": "2000"
-    },
-    {
-        "title": "Normal pituitary response to metyrapone in the morning in depressed patients: implications for circadian regulation of corticotropin-releasing hormone secretion.",
-        "abstract": "Excess secretion of cortisol in depressed patients has been documented by a number of investigators, which is presumed secondary to increased corticotropin (ACTH) and ACTH-releasing hormone (CRH) secretion. To unmask the proposed increased central (CRH) drive, we administered metyrapone in the AM to 13 depressed and 13 age- and sex-matched normal control subjects. Metyrapone administration resulted in a prompt decrease in plasma cortisol and in an increase in 11-deoxycortisol, the inactive precursor, in all subjects. Both depressed patients and normal control subjects demonstrated clear increases in ACTH and beta-lipotropin/beta-endorphin production. There were no significant differences between patients and controls in any hormonal measures following metyrapone administration. These data suggest that: 1) in the absence of negative feedback (cortisol blockade), mildly to moderately depressed outpatients do not manifest increased central drive in the morning; and 2) the secretory capacity of the corticotropes do not differ between such depressed patients and controls.",
-        "year": "1997"
-    },
-    {
-        "title": "The association between premenstrual dysphoric disorder and other mood disorders.",
-        "abstract": "Premenstrual dysphoric disorder (PMDD) is a premenstrual mood disorder that cyclically recurs during the majority of menstrual cycles. It is included under the category of \"depressive disorders not otherwise specified\" in DSM-IV. Given the placement of PMDD with other mood disorders in DSM-IV, the evidence suggesting an association between PMDD and other mood disorders is examined. Primary reports on the epidemiology, phenomenology, family history, psychobiology, and treatment of PMDD were examined for features that are commonly found in other mood disorders. There is an overlap in the symptoms experienced by women with PMDD and patients with other mood disorders. As in patients with other mood disorders, past episodes of mood disorder and family history of mood disorder are common in women with PMDD. Selected biological markers differentiate women with PMDD from controls, and some but not all antidepressants are effective in the treatment of PMDD. Many features of PMDD support its inclusion in the DSM-IV category of mood disorders. However, a number of factors (biological and cognitive studies, treatment response) differentiate PMDD from other mood disorders.",
-        "year": "1997"
-    },
-    {
-        "title": "Stimulatory effects of L-5-hydroxytryptophan on postdexamethasone beta-endorphin levels in major depression.",
-        "abstract": "Recently it has been shown that acute administration of 200 mg L-5-hydroxytryptophan (L-5-HTP) PO may increase post-dexamethasone (DST) adrenocorticotropic hormone (ACTH) and cortisol levels in major, but not minor, depressed subjects. This study aimed to examine the effects of 200 mg L-5-HTP PO on post-DST beta-endorphin levels in the same depressed subjects. It was found that in major, but not minor, depressed subjects, L-5-HTP significantly increased post-DST beta-endorphin concentrations as compared to placebo. The L-5-HTP-induced post-DST beta-endorphin responses were significantly higher in major than in minor depressed subjects. There was a significant and positive relationship between L-5-HTP-induced post-DST beta-endorphin and ACTH or cortisol responses. There was a significant and positive relationship between L-5-HTP-induced post-DST beta-endorphin values and the Hamilton Depression Rating Scale (HDRS) score. The results show that the acute administration of L-5-HTP may increase the escape of beta-endorphin secretion from suppression by dexamethasone in major, but not minor, depression.",
-        "year": "1996"
-    },
-    {
-        "title": "Beta-endorphin concentration in peripheral blood mononuclear cells of elderly depressed patients--effects of phosphatidylserine therapy.",
-        "abstract": "beta-Endorphin (beta-EP) concentrations were measured in peripheral blood mononuclear cells of 10 elderly women with major depressive disorders, 10 age- and sex-matched healthy controls and 10 young healthy controls. beta-EP values were measured in resting condition and after stimulation with corticotropin-releasing hormone (CRH). In patients, beta-EP values were measured in drug-free condition and after 30 days of treatment with phosphatidylserine (BCPS), 200 mg/day, p.o. Basal and CRH-stimulated beta-EP concentrations were the same in patients and controls; in patients they did not change after BCPS, in spite of significant improvement of the depressive symptomatology.",
-        "year": "1996"
-    },
-    {
-        "title": "Evidence against changes in corticotroph CRF receptors in depressed patients.",
-        "abstract": "Previous studies by a number have investigators have documented a decreased adrenocortotropic hormone (ACTH) and beta-lipotropin/beta-endorphin (beta-End) response to ovine corticotropin-releasing factor (oCRF) in depressed patients. Since depressed patients demonstrate higher plasma cortisol concentrations at the time of oCRF challenge, it is difficult to determine if the decreased ACTH response is due to enhanced negative feedback of cortisol on ACTH release or an alteration in CRF receptors in depressed patients. To evaluate the response to oCRF in an \"open feedback loop\" system, we administered metyrapone 750 mg at 4 PM and 7:30 PM, followed by administration of oCRF 0.3 microgram/kg at 8 PM in 10 normal controls and 10 depressed patients. Administration of metyrapone at this time in the circadian rhythm clamped plasma cortisol concentrations to less than 2 micrograms/dl but did not result in rebound ACTH or beta-End secretion in control subjects. In control subjects, metyrapone administration produced a 85% blockade of the cortisol response as well as a 3-fold greater beta-End response compared to administration of the same dose of oCRF without metyrapone. The 10 depressed patients and their matched controls demonstrated identical beta-End responses (integrated response for controls = 291 +/- 61, for patients = 352 +/- 86) and cortisol responses (integrated response for controls = 187 +/- 38, for patients = 206 +/- 52) to oCRF following metyrapone pretreatment. These data confirm that corticotroph CRF receptors are normal in depressed patients, and that cortisol feedback plays an essential role in the abnormal ACTH and beta-End response to oCRF in depressed patients.",
-        "year": "1995"
-    },
-    {
-        "title": "Adrenocorticotropic hormone, beta-endorphin and cortisol responses to oCRH in unipolar depressed patients pretreated with dexamethasone.",
-        "abstract": "1. Corticotropin-releasing hormone (ovine CRH, 100 micrograms intravenous bolus) was given to 63 unipolar depressed inpatients following the 1 mg overnight dexamethasone suppression test (DST). The depressed patients included 18 minor, 24 simple major and 21 melancholic subtypes. 2. Baseline or postdexamethasone plasma levels of intact adrenocorticotropic hormone (ACTH), beta-endorphin/beta-lipotropin (beta END/beta LPH), cortisol, and dexamethasone were measured, as well as the post DST+CRH hormone responses. 3. CRH administration 9.5 hr after dexamethasone resulted in a significant enhancement of ACTH, beta END/beta LPH and cortisol secretion. The post DST+CRH ACTH and beta END/beta LPH- but not cortisol-values exceeded their baseline hormone levels. The post DST+CRH ACTH--but not beta END/beta LPH or cortisol-levels were significantly higher in major depressives compared to minor depressives. The post DST+CRH ACTH and beta END/beta LPH--but not cortisol-levels were significantly higher in DST nonsuppressors than suppressors. The post DST+CRH ACTH levels were significantly and positively related to severity of illness. 4. The results provide evidence that the pathophysiology underlying the abnormal DST+CRH and DST tests in melancholia is localized at the pituitary level and may consist of a CRH-driven breakthrough of corticotropic cell secretion synergized by central and peripheral agents, in conjunction with a decrease in glucocorticoid feedback suppressibility.",
-        "year": "1994"
-    },
-    {
-        "title": "Effects of the menstrual cycle on dependent variables in mood disorder research.",
-        "abstract": "The purpose of this article is to review the literature on the effects of the menstrual cycle on dependent variables in mood disorder research to inform investigators which physiological measures are likely to be significantly affected by menstrual cycle fluctuations and precisely how they might be affected. The following variables are discussed: prolactin; growth hormone; the hypothalamic-pituitary-thyroid axis (including thyrotropin, triiodothyronine, and thyroxine); the hypothalamic-pituitary-adrenal axis (cortisol, corticotropin, and beta-endorphin); melatonin; sleep; body temperature; and neurotransmitter activity (serotonergic and adrenergic systems). Body temperature and plasma and urinary norepinephrine vary predictably over the menstrual cycle. Prolactin and beta-endorphin may have peaks in the periovulatory phase, whereas serotonin levels in platelet-poor plasma may reach a nadir at that time. Triiodothyronine, thyroxine, cortisol, and melatonin do not appear to vary systematically over the course of the menstrual cycle, whereas the data for growth hormone, thyrotropin, corticotropin, and sleep are inconclusive.",
-        "year": "1994"
-    },
-    {
-        "title": "Increased evening activation of the hypothalamic-pituitary-adrenal axis in depressed patients.",
-        "abstract": "To determine whether depressed patients demonstrate hypothalamic-pituitary-adrenal (HPA) axis activation during the late afternoon and evening, a time when the HPA axis is usually quiescent in normal subjects. We administered metyrapone, an 11-beta-hydroxylase inhibitor of cortisol synthesis, to normal controls and depressed patients between 4 and 10 PM. Metyrapone blockade of cortisol secretion would amplify any HPA axis secretion. In 10 normal control subjects, administration of metyrapone lowered plasma cortisol levels to a mean of 36 nmol/L. No rebound corticotropin or beta-endorphin secretion was seen in these normal controls between 4 and 10 PM, supporting the existence of a period of minimal endogenous corticotropin releasing factor drive. Compared with a group of placebo-treated depressed patients (n = 10), metyrapone-treated depressed subjects (n = 17) had significantly decreased plasma cortisol concentrations. However, in contrast to normal controls treated with metyrapone, metyrapone-treated depressed patients demonstrated rebound corticotroph secretion, particularly between 7:30 and 10 PM (P = .036 for patients vs normal controls for beta-endorphin secretion from 4:30 to 10 PM). These data support the hypothesis of increased corticotropin releasing factor drive in the evening in depressed subjects and are in agreement with the longstanding observation of \"early escape\" from dexamethasone suppression between 4 and 11 PM in depressed patients.",
-        "year": "1994"
-    }
+  {
+    "pmid": "29596076",
+    "title": "Predictors of Postpartum Depression: A Comprehensive Review of the Last Decade of Evidence.",
+    "abstract": "Postpartum depression (PPD) is one of the most frequent complications of childbirth affecting ~500,000 women annually (prevalence 10% to 15%). Despite the documented adverse outcomes for mother and child, there remains a great need to develop prospective approaches to identify women at risk. This review examines some of the best-characterized molecular and clinical risk factors for PPD. We illustrate that this is a growing literature but there remains a lack of reliable molecular predictors for PPD. Current best predictors are clinical assessments for psychiatric history and adverse life events, highlighting the need for increased depression screening across the perinatal period.",
+    "year": "2018",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "19647870",
+    "title": "The role of beta-endorphin in the pathophysiology of major depression.",
+    "abstract": "A role for beta-endorphin (beta-END) in the pathophysiology of major depressive disorder (MDD) is suggested by both animal research and studies examining clinical populations. The major etiological theories of depression include brain regions and neural systems that interact with opioid systems and beta-END. Recent preclinical data have demonstrated multiple roles for beta-END in the regulation of complex homeostatic and behavioural processes that are affected during a depressive episode. Additionally, beta-END inputs to regulatory pathways involving feeding behaviours, motivation, and specific types of motor activity have important implications in defining the biological foundations for specific depressive symptoms. Early research linking beta-END to MDD did so in the context of the hypothalamic-pituitary-adrenal (HPA) axis activity, where it was suggested that HPA axis dysregulation may account for depressive symptoms in some individuals. The primary aims of this paper are to use both preclinical and clinical research (a) to critically review data that explores potential roles for beta-END in the pathophysiology of MDD and (b) to highlight gaps in the literature that limit further development of etiological theories of depression and testable hypotheses. In addition to examining methodological and theoretical challenges of past clinical studies, we summarize studies that have investigated basal beta-END levels in MDD and that have used challenge tests to examine beta-END responses to a variety of experimental paradigms. A brief description of the synthesis, location in the CNS and behavioural pharmacology of this neuropeptide is also provided to frame this discussion. Given the lack of clinical improvement observed with currently available antidepressants in a significant proportion of depressed individuals, it is imperative that novel mechanisms be investigated for antidepressant potential. We conclude that the renewed interest in elucidating the role of beta-END in the pathophysiology of MDD must be paralleled by consensus building within the research community around the heterogeneity inherent in mood disorders, standardization of experimental protocols, improved discrimination of POMC products in analytical techniques and consistent attention paid to important confounds like age and gender.",
+    "year": "2009",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "9427873",
+    "title": "The association between premenstrual dysphoric disorder and other mood disorders.",
+    "abstract": "Premenstrual dysphoric disorder (PMDD) is a premenstrual mood disorder that cyclically recurs during the majority of menstrual cycles. It is included under the category of \"depressive disorders not otherwise specified\" in DSM-IV. Given the placement of PMDD with other mood disorders in DSM-IV, the evidence suggesting an association between PMDD and other mood disorders is examined. Primary reports on the epidemiology, phenomenology, family history, psychobiology, and treatment of PMDD were examined for features that are commonly found in other mood disorders. There is an overlap in the symptoms experienced by women with PMDD and patients with other mood disorders. As in patients with other mood disorders, past episodes of mood disorder and family history of mood disorder are common in women with PMDD. Selected biological markers differentiate women with PMDD from controls, and some but not all antidepressants are effective in the treatment of PMDD. Many features of PMDD support its inclusion in the DSM-IV category of mood disorders. However, a number of factors (biological and cognitive studies, treatment response) differentiate PMDD from other mood disorders.",
+    "year": "1997",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "7944869",
+    "title": "Effects of the menstrual cycle on dependent variables in mood disorder research.",
+    "abstract": "The purpose of this article is to review the literature on the effects of the menstrual cycle on dependent variables in mood disorder research to inform investigators which physiological measures are likely to be significantly affected by menstrual cycle fluctuations and precisely how they might be affected. The following variables are discussed: prolactin; growth hormone; the hypothalamic-pituitary-thyroid axis (including thyrotropin, triiodothyronine, and thyroxine); the hypothalamic-pituitary-adrenal axis (cortisol, corticotropin, and beta-endorphin); melatonin; sleep; body temperature; and neurotransmitter activity (serotonergic and adrenergic systems). Body temperature and plasma and urinary norepinephrine vary predictably over the menstrual cycle. Prolactin and beta-endorphin may have peaks in the periovulatory phase, whereas serotonin levels in platelet-poor plasma may reach a nadir at that time. Triiodothyronine, thyroxine, cortisol, and melatonin do not appear to vary systematically over the course of the menstrual cycle, whereas the data for growth hormone, thyrotropin, corticotropin, and sleep are inconclusive.",
+    "year": "1994",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "1496122",
+    "title": "Do biochemical factors play a part in postnatal depression?",
+    "abstract": "1. There are major changes in progesterone, oestrogen, cortisol and beta-endorphin level associated with parturition, and as all these can be psychoactive it is likely that they contribute to the mood changes that can occur at this time. However evidence for their involvement is, at present, indirect. 2. Postnatal depression itself appears to be a heterogeneous condition with different times of onset, and it is probable that various biological and social factors play a role to a differing degree in different individuals. 3. About half of postnatal depression appears to arise in the first two weeks after childbirth. Some cases follow a period of early euphoria. 4. A different subgroup is associated with thyroid dysfunction, which peaks two to five months postpartum. 5. The tyramine test does not predict vulnerability to postnatal depression. 6. It is suggested that in future research the time course of onset of the depression, and the nature of the mood changes that occur in the first postpartum week, are investigated as possibly relevant variables.",
+    "year": "1992",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "2205777",
+    "title": "Endorphins and exercise: physiological mechanisms and clinical implications.",
+    "abstract": "In this paper we discuss recent experimental and clinical findings which lead us to propose that prolonged rhythmic exercise can activate central opioid systems by triggering increased discharge from mechanosensitive afferent nerve fibers (Group III or A-delta) arising from contracting skeletal muscle. We review evidence that supports the concept that many of the cardiovascular, analgesic, and behavioral effects of exercise are mediated by this mechanism and that the same or similar mechanisms are responsible for the central and peripheral effects of acupuncture. Based on this hypothesis, and supporting evidence from human and animal studies, we suggest a mechanism and a potential therapeutic role for exercise in the treatment of selected patients with disorders as diverse as hypertension, addiction, depression, and anorexia nervosa.",
+    "year": "1990",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "3527685",
+    "title": "[Endorphins. Physiological and pharmacological aspects, and research in psychiatry].",
+    "abstract": "This article gives an overview of the biochemistry, physiology and pharmacology of endogenous opioid peptides. The role of endorphins in psychiatric pathology in the last ten years, has mainly been studied through two clinical research strategies: Pharmacological, administration of opiate agonists or antagonists, or substances altering endorphins metabolism. Biological, static or dynamic dosage of opioid activity in peripheral liquids, trying to correlate those measures either with a syndrome, or with a clinical trait. These methods applied to schizophrenia, affective disorders, anxiety, addiction, anorexia, and tardive dyskinesia are being reviewed. Results are very heterogeneous but support the involvement of the endogenous opioid system in some psychiatric pathology. Furthermore, this paper should help to underline some of the present day development of biological psychiatry.",
+    "year": "1986",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "3887082",
+    "title": "Psychic distress and the immune response.",
+    "abstract": "This minireview surveys recent progress in the field of immunoregulation by the central nervous system. Representative findings from human and animal studies show evidence for significant immunosuppression in states of psychic distress. Mechanisms of immunomodulation are discussed in light of data implicating neuroendocrine, genetic, neuroanatomical, and learning factors. Evidence for reciprocal modulation of immune and nervous systems is considered. A simple hierarchical model proposes traits that are acted on by environment and experience to produce chronic states of mental health vs. psychic distress; these states determine baseline immunocompetence and response to afferent signals during acute immune challenge. Multidisciplinary interest in psychoneuroimmunology has accelerated the rate of inquiry into the mechanistic details of immunoregulation and has generated new appreciation for the pervasive effects of mental status on physiologic homeostasis.",
+    "year": "1985",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "6384958",
+    "title": "Postmortem studies in psychiatry.",
+    "abstract": "Neurochemical postmortem examination of brain tissue may never be completely replaced as a research tool in psychiatry. This method has already provided support for the hypotheses relating norepinephrine, dopamine, serotonin, peptides, and hemisphere asymmetries to psychiatric syndromes.",
+    "year": "1984",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "36414415",
+    "title": "Plasma neuropeptide levels in patients with schizophrenia, bipolar disorder, or major depressive disorder and healthy controls: A multiplex immunoassay study.",
+    "abstract": "We aimed to compare neuropeptide levels between patients with major psychiatric disorders and healthy controls and examine their association with symptoms and cognitive function. The participants were 149 patients with schizophrenia, 115 patients with bipolar disorder (BD), 186 unremitted patients with major depressive disorder (MDD), and 350 healthy controls. Psychiatric (schizophrenic, manic, and depressive) symptoms, sleep state, and cognitive (premorbid intelligence quotient, general cognitive, and memory) functions were evaluated. A multiplex immunoassay kit was used to measure cerebrospinal fluid (CSF) and plasma \u03b1-melanocyte-stimulating hormone (MSH), \u03b2-endorphin, neurotensin, oxytocin, and substance P levels. The verification assay revealed that CSF \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels were too low to be reliably measured, while plasma \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels could be successfully measured. Plasma \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels were not significantly different between patients with schizophrenia, BD, or MDD and healthy controls. Plasma \u03b1-MSH, \u03b2-endorphin, neurotensin, oxytocin, and substance P levels were not significantly correlated with psychiatric symptom scores in patients with schizophrenia, BD, or MDD and cognitive function scores in patients or healthy controls. Our data suggest that plasma neuropeptide levels do not elucidate the involvement of neuropeptides in the pathology of schizophrenia, BD, or MDD.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "31326514",
+    "title": "Examination of pain threshold and neuropeptides in patients with acute suicide risk.",
+    "abstract": "One of the main challenges in suicide prevention is the limited understanding of the biological mechanisms underlying suicide. Recent findings suggest impairments in pain processing in acutely suicidal patients. However, little is known about the biological factors that may drive these discrete physiological abnormalities. In this study, we examined plasma peptides involved in analgesic and inflammatory responses and physical pain threshold in acutely suicidal patients. Thirty-seven depressed patients of both sexes hospitalized for severe suicidal ideation or a recent suicide attempt were characterized clinically including history of suicidal ideation and behavior. Psychological and physical pain, and pressure pain threshold was also measured. Plasma levels of \u03b2-endorphin, neurotensin, agouti-related protein (AgRP), C-reactive protein (CRP), adrenocorticotropic hormone (ACTH), and brain-derived neurotrophic factor (BDNF) were run in Milliplex multiplex assays. The number of lifetime suicide attempts was positively correlated with \u03b2-endorphin (r\u202f=\u202f0.702; p\u202f=\u202f0.007), and neurotensin (r\u202f=\u202f0.728, p\u202f=\u202f0.007) plasma levels. Higher pain threshold was measured in the suicide attempt group as compared to the suicidal ideation group. Pain threshold was strongly and negatively associated with CRP plasma levels (r\u202f=\u202f-0.548; p\u202f<\u202f0.001). In patients reporting chronic pain, lower AgRP levels and lower pain threshold were observed (t\u202f=\u202f4.472; p\u202f=\u202f0.001). Our results suggest that abnormalities in the opioid and neurotensin systems may underlie the increase in pain threshold found in suicide attempters, and possibly risk for suicidal behavior. Targeting pain circuits and systems may provide therapeutic mechanisms for suicide prevention.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "30677547",
+    "title": "IL-10 is associated with increased mu-opioid receptor levels in major depressive disorder.",
+    "abstract": "Activation of the immune-inflammatory response system (IRS) and the compensatory immune-regulatory system (CIRS) and aberrations in endogenous opioids play a role in the pathophysiology of major depressive disorder (MDD). There are no studies which examined the associations between both systems in MDD. The aim of the present study was to examine the relation between \u03b2-Endorphin (\u03b2-EP), Endomorphin-2, and their mu-opioid receptor (MOR) as well as interleukin (IL)-6 and IL-10, an anti-inflammatory cytokine, in MDD patients. The study included 60 depressed drug-free male patients and 30 matched controls. Serum \u03b2-EP, Endomorphin-2, MOR, IL-6 and IL-10 levels were measured using ELISA techniques. The results revealed a significant increase in serum \u03b2-EP, MOR, IL-6 and IL-10 in MDD patients versus healthy controls. MOR levels were strongly associated with IL-10 levels. There were no significant correlations between endogenous opioids and IL-6 and IL-10. The results show that MOR levels may function as a possible component of the CIRS whilst there is no evidence that \u03b2-EP and EM-2 may modify the IRS. The significant correlation between MOR levels and IL-10 may be explained through central activation of the HPA-axis and increased B-cell numbers expressing MOR as a response to cytokine over-secretion in MDD.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "23113278",
+    "title": "Increased \u03b2-endorphin level in blood plasma as an indicator of positive response to depression treatment.",
+    "abstract": "Preliminary data indicate that increased blood plasma level of \u03b2-endorphin in patients with nonpsychotic unipolar depression after 2 weeks of treatment correlates with the positive response to therapy. This parameter can be regarded as an objective indicator of potential improvements. Further studies aimed at determining the value of blood \u03b2-endorphin levels in patients with mood disorders for the diagnostics and estimating the therapeutic success in this disease are required.",
+    "year": "2012",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "20051292",
+    "title": "Prenatal beta-endorphin as an early predictor of postpartum depressive symptoms in euthymic women.",
+    "abstract": "After delivery, many women experience symptoms of postpartum depression (PPD), and early identification of women at risk is therefore important. The opioid peptide beta-endorphin has been implicated in non-puerperal depression but its role in the development of PPD is unknown. Three hundred and seven women with a singleton, full-term (>37.0 weeks' GA) pregnancy were recruited early in pregnancy and followed up into the postpartum period. Blood samples were obtained at 15, 19, 25, 31 and 37 weeks' gestational age (GA) and at 9 weeks postpartum for assessment of beta-endorphin. Depressive symptoms were assessed with the Center for Epidemiological Studies-Depression scale at the last four pregnancy visits and with the Edinburgh Postnatal Depression Scale postpartum. Among women who were euthymic at 25 weeks' GA, those who proceeded to develop PPD symptoms had higher levels of beta-endorphin throughout pregnancy compared to women without PPD symptoms (all t>2.11, p<.05). At each assessment, women above the cut-off score for beta-endorphin were at more than three-fold risk for PPD symptoms (odds ratios 3.19-4.68) compared to women below the cut-off score. Self-report of depressive symptoms, no mental health history. Beta-endorphin may be a useful early predictor of PPD symptoms in women who do not report depressive symptoms in mid-pregnancy. If replicated, these findings have clinical implications for the identification and treatment of this at-risk group and further suggest that some of the pathways leading to this complex disorder may be specific to subgroups of women.",
+    "year": "2010",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  {
+    "pmid": "20138113",
+    "title": "Histories of major depression and premenstrual dysphoric disorder: Evidence for phenotypic differences.",
+    "abstract": "This study examined unique versus shared stress and pain-related phenotypes associated with premenstrual dysphoric disorder (PMDD) and prior major depressive disorder (MDD). Sympathetic nervous system (SNS) and hypothalamic-pituitary-adrenal (HPA)-axis measures were assessed at rest and during mental stress, as well as sensitivity to cold pressor and tourniquet ischemic pain tasks in four groups of women: (1) non-PMDD with no prior MDD (N=18); (2) non-PMDD with prior MDD (N=9); (3) PMDD with no prior MDD (N=17); (4) PMDD with prior MDD (N=10). PMDD women showed blunted SNS responses to stress compared to non-PMDD women, irrespective of prior MDD; while women with prior MDD showed exaggerated diastolic blood pressure responses to stress versus never depressed women, irrespective of PMDD. However, only in women with histories of MDD did PMDD women have lower cortisol concentrations than non-PMDD women, and only in non-PMDD women was MDD associated with reduced cold pressor pain sensitivity. These results suggest both unique phenotypic differences between women with PMDD and those with a history of MDD, but also indicate that histories of MDD may have special relevance for PMDD.",
+    "year": "2010",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  {
+    "pmid": "18725263",
+    "title": "Interaction between serotonin 5-HT1A receptors and beta-endorphins modulates antidepressant response.",
+    "abstract": "Interactions between serotonergic and the endogenous opioid systems have been suggested to be involved in the etiopathogenesis of depression and in the mechanism of action of antidepressants. Activation of serotonin 5-HT1A receptors has been shown to increase plasma beta-endorphin (beta-END) levels in animal studies and in healthy humans. To assess interaction abnormalities between 5-HT1A receptors and the endogenous opioid system in patients with major depression and the possible modulating effect of citalopram. The beta-END response to the 5-HT1A receptor agonist, buspirone (30 mg), was measured in 30 patients with major depression and in 30 age- and sex-matched healthy controls before and after an 8-week treatment with citalopram. Pre-treatment score of the Hamilton Rating Scale for Depression (HRSD) was >or=17. Antidepressant response was defined by a 50% decrease in the HRSD. Pre- and post-treatment maximum peak response (Deltamax) and the area under the curve (AUC) of beta-END response were compared. Three time points were measured (60, 90 and 120 min). We also examined the correlations between the beta-END response and the antidepressant response. Buspirone plasma levels were not measured. At baseline, beta-END response was similar in patients and controls. After 8 weeks of citalopram treatment depressed patients showed a significant decrease in the beta-END response (Deltamax: p<.001; AUC: p<.001). A significant correlation between the beta-END reduction in the response and the reduction in the HRSD score (r=.656; p<.001) was observed. Changes in interaction between 5-HT1A receptor system and the endogenous opioid system may play a role both in the mechanism of action and response to antidepressant drugs.",
+    "year": "2008",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "17993252",
+    "title": "Adapted cold shower as a potential treatment for depression.",
+    "abstract": "Depression is a debilitating mood disorder that is among the top causes of disability worldwide. It can be characterized by a set of somatic, emotional, and behavioral symptoms, one of which is a high risk of suicide. This work presents a hypothesis that depression may be caused by the convergence of two factors: (A) A lifestyle that lacks certain physiological stressors that have been experienced by primates through millions of years of evolution, such as brief changes in body temperature (e.g. cold swim), and this lack of \"thermal exercise\" may cause inadequate functioning of the brain. (B) Genetic makeup that predisposes an individual to be affected by the above condition more seriously than other people. To test the hypothesis, an approach to treating depression is proposed that consists of adapted cold showers (20 degrees C, 2-3 min, preceded by a 5-min gradual adaptation to make the procedure less shocking) performed once or twice daily. The proposed duration of treatment is several weeks to several months. The following evidence appears to support the hypothesis: Exposure to cold is known to activate the sympathetic nervous system and increase the blood level of beta-endorphin and noradrenaline and to increase synaptic release of noradrenaline in the brain as well. Additionally, due to the high density of cold receptors in the skin, a cold shower is expected to send an overwhelming amount of electrical impulses from peripheral nerve endings to the brain, which could result in an anti-depressive effect. Practical testing by a statistically insignificant number of people, who did not have sufficient symptoms to be diagnosed with depression, showed that the cold hydrotherapy can relieve depressive symptoms rather effectively. The therapy was also found to have a significant analgesic effect and it does not appear to have noticeable side effects or cause dependence. In conclusion, wider and more rigorous studies would be needed to test the validity of the hypothesis.",
+    "year": "2008",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "14656449",
+    "title": "Long-term immune-endocrine effects of bereavement: relationships with anxiety levels and mood.",
+    "abstract": "Psychological, endocrine and immune parameters were measured over a 6-month period in 14 healthy subjects who underwent an unpredictable acute emotional stress (e.g. sudden death of a loved one) compared with 14 controls who did not. Probands were profoundly stressed as assessed 10 days after bereavement by their scores on the Hamilton Rating Scales of Anxiety and Depression, adrenocorticotropin and cortisol plasma concentrations, and non-suppression in response to dexamethasone. Functional alterations of immune parameters, such as responsiveness of peripheral blood lymphocytes to mitogens, were found 40 days after bereavement. Despite a normal number of circulating lymphocyte subsets, the functional activity of natural killer (NK) cells was markedly reduced at day 40. Changes in the intracellular concentration of beta-endorphin in peripheral blood mononuclear cells correlated with anxiety and depression scores. Controls showed no changes in psychometric, endocrine and immune measures during the 6-month study. Cluster analysis revealed two groups of bereaved subjects with different patterns of immune and endocrine changes: (1) Five subjects, characterized by harm-avoidant temperament and long-lasting dysphoric mood, showed reduced responsiveness of peripheral blood lymphocytes to mitogens, decreased NK cell activity and non-suppression in response to dexamethasone that persisted for 6 months. (2) Nine subjects showed significant changes only during the early phase after bereavement. Our data suggest that the immunological consequences of stress do not simply overlap with psychological and endocrine alterations, and are particularly severe and long-lasting in a subgroup of subjects, indicating the importance of individual variability in the capacity to cope with stress.",
+    "year": "2003",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "12415553",
+    "title": "Clinical and biochemical observations during treatment of depression with electroacupuncture: a pilot study.",
+    "abstract": "Six patients suffering from major depression were treated with electroacupuncture. During 4 weeks of treatment, the total CPRS-S-A score decreased from 23.8 to 13.4 (p=0.0095). A decrease of neuropeptide Y (NPY) in plasma during the first 2 weeks of treatment was noted in five of the patients, all being women (p=0.0431). The decrease was negatively correlated with age (rs=-0.29; p=0.046). The results are in line with a putative antidepressive effect of electroacupuncture, along with an influence on NPY in plasma.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "11922880",
+    "title": "Plasma corticotropin-releasing factor in depressed patients before and after the dexamethasone suppression test.",
+    "abstract": "Plasma cortisol, beta-endorphin, corticotropin, corticotropin-releasing factor, and salivary cortisol concentrations, resting and after ingestion of 1 mg of dexamethasone, were investigated in depressed patients and controls. Fourteen outpatients from the psychiatric department diagnosed with depressive disorder (ICD-10 Classification) participated in the study. The comparison group consisted of 12 healthy volunteers from the hospital staff. All hormones were measured using direct iodine-125 radioimmunoassay, except corticotropin-releasing factor, which included a sample preextraction and concentration step. The basal plasma cortisol and corticotropin-releasing factor levels in depressive disorder were significantly higher than in the healthy group. After dexamethasone administration, corticotropin-releasing factor plasma values decreased significantly in the depressed group, but showed no significant changes in the controls. In depressive disorder baseline values correlated significantly for salivary cortisol and plasma cortisol, salivary cortisol and plasma corticotropin-releasing factor and plasma corticotropin and beta-endorphin. Similar correlations were found in the healthy subjects, except for salivary cortisol and plasma corticotropin-releasing factor. These findings indicate that the increased corticotropin-releasing factor plasma concentrations demonstrated in depressive disorder reflect the hypothalamic corticotropin-releasing factor hypersecretion evidenced in this illness. Therefore, measurements of plasma corticotropin-releasing factor levels can be considered a reliable tool for investigating the role of this peptide in the pathophysiology of depression.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "12643442",
+    "title": "Fewer beta-endorphin expressing arcuate nucleus neurons and reduced beta-endorphinergic innervation of paraventricular neurons in schizophrenics and patients with depression.",
+    "abstract": "In order to elucidate whether the hypothalamic expression of beta-endorphin is altered in patients with mental disorders we studied the cellular localization of the peptide in arcuate nucleus neurons as well as the beta-endorphinergic innervation of paraventricular neurons in nine schizophrenics, six subjects with depression, and nine controls. A polyclonal antiserum against beta-endorphin was employed for the immunohistochemical detection of the peptide in sections of postmortem human brains. Quantitative analysis revealed that the number of beta-endorphin-containing arcuate neurons was statistically reduced in schizophrenics and depressives in comparison to controls. Moreover, the number of endorphinoceptive (i.e. beta-endorphin-innervated) paraventricular nerve cells was also lower in psychiatric patients than in control cases. Our results showing an altered endorphinergic system in human hypothalami of schizophrenics and depressives might contribute to a renewal of interest in this peptide as a possible factor of importance in psychiatric disorders.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "12415536",
+    "title": "A cross-national relationship between sugar consumption and major depression?",
+    "abstract": "We have preliminarily investigated the hypothesis that sugar consumption may impact the prevalence of major depression by correlating per capita consumption of sugar with the prevalence of major depression. Major depression prevalence data (annual rate/100) was obtained from the Cross-National Epidemiology of Major Depression and Bipolar Disorder study [Weissman et al., 1996]. Sugar consumption data from 1991 was obtained from the Food and Agricultural Organization of the United Nations. For the primary analysis, sugar consumption rates (cal/cap/day) were correlated with the annual rate of major depression, using the Pearson correlation coefficient. For the six countries with available data for the primary analysis, there was a highly significant correlation between sugar consumption and the annual rate of depression (Pearson correlation 0.948, P=0.004). Naturally, a correlation does not necessarily imply etiology. Caveats such as the limited number of countries with available data must be considered. Although speculative, there are some mechanistic reasons to consider that sugar consumption may directly impact the prevalence of major depression. Possible relationships between sugar consumption, beta-endorphins, and oxidative stress are discussed.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "10989268",
+    "title": "Hormonal evidence for altered responsiveness to social stress in major depression.",
+    "abstract": "In patients with major depression, abnormalities in baseline cortisol secretion and resistance to negative feedback are well established. However, it is unclear if patients with major depression have alterations in the hypothalamic-pituitary-adrenal (HPA) response to stressors. While other challenges to the HPA axis have used endocrine stimuli such as insulin-induced hypoglycemia, we now report of the response to a social stressor in patients with major depression and matched control subjects. We used the Trier Social Stress Test (TSST), a public speaking task followed by mental arithmetic challenge in front of a panel of judges. The results suggest that depressed patients manifest normal cortisol response to a social stressor, despite increased pre-stressor plasma cortisol. However, the beta-endorphin response to the TSST was significantly smaller in the depressed patients compared to matched controls. These data are similar to data found with exogenous corticotropin-releasing-hormone challenge studies and suggest that elevated baseline cortisol can modulate the pituitary corticotroph response to a stressor, but that changes in adrenal sensitivity to ACTH result in a robust cortisol response to this stressor.",
+    "year": "2000",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "9171905",
+    "title": "Normal pituitary response to metyrapone in the morning in depressed patients: implications for circadian regulation of corticotropin-releasing hormone secretion.",
+    "abstract": "Excess secretion of cortisol in depressed patients has been documented by a number of investigators, which is presumed secondary to increased corticotropin (ACTH) and ACTH-releasing hormone (CRH) secretion. To unmask the proposed increased central (CRH) drive, we administered metyrapone in the AM to 13 depressed and 13 age- and sex-matched normal control subjects. Metyrapone administration resulted in a prompt decrease in plasma cortisol and in an increase in 11-deoxycortisol, the inactive precursor, in all subjects. Both depressed patients and normal control subjects demonstrated clear increases in ACTH and beta-lipotropin/beta-endorphin production. There were no significant differences between patients and controls in any hormonal measures following metyrapone administration. These data suggest that: 1) in the absence of negative feedback (cortisol blockade), mildly to moderately depressed outpatients do not manifest increased central drive in the morning; and 2) the secretory capacity of the corticotropes do not differ between such depressed patients and controls.",
+    "year": "1997",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "8887988",
+    "title": "Stimulatory effects of L-5-hydroxytryptophan on postdexamethasone beta-endorphin levels in major depression.",
+    "abstract": "Recently it has been shown that acute administration of 200 mg L-5-hydroxytryptophan (L-5-HTP) PO may increase post-dexamethasone (DST) adrenocorticotropic hormone (ACTH) and cortisol levels in major, but not minor, depressed subjects. This study aimed to examine the effects of 200 mg L-5-HTP PO on post-DST beta-endorphin levels in the same depressed subjects. It was found that in major, but not minor, depressed subjects, L-5-HTP significantly increased post-DST beta-endorphin concentrations as compared to placebo. The L-5-HTP-induced post-DST beta-endorphin responses were significantly higher in major than in minor depressed subjects. There was a significant and positive relationship between L-5-HTP-induced post-DST beta-endorphin and ACTH or cortisol responses. There was a significant and positive relationship between L-5-HTP-induced post-DST beta-endorphin values and the Hamilton Depression Rating Scale (HDRS) score. The results show that the acute administration of L-5-HTP may increase the escape of beta-endorphin secretion from suppression by dexamethasone in major, but not minor, depression.",
+    "year": "1996",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "8884754",
+    "title": "Beta-endorphin concentration in peripheral blood mononuclear cells of elderly depressed patients--effects of phosphatidylserine therapy.",
+    "abstract": "beta-Endorphin (beta-EP) concentrations were measured in peripheral blood mononuclear cells of 10 elderly women with major depressive disorders, 10 age- and sex-matched healthy controls and 10 young healthy controls. beta-EP values were measured in resting condition and after stimulation with corticotropin-releasing hormone (CRH). In patients, beta-EP values were measured in drug-free condition and after 30 days of treatment with phosphatidylserine (BCPS), 200 mg/day, p.o. Basal and CRH-stimulated beta-EP concentrations were the same in patients and controls; in patients they did not change after BCPS, in spite of significant improvement of the depressive symptomatology.",
+    "year": "1996",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "7772643",
+    "title": "Evidence against changes in corticotroph CRF receptors in depressed patients.",
+    "abstract": "Previous studies by a number have investigators have documented a decreased adrenocortotropic hormone (ACTH) and beta-lipotropin/beta-endorphin (beta-End) response to ovine corticotropin-releasing factor (oCRF) in depressed patients. Since depressed patients demonstrate higher plasma cortisol concentrations at the time of oCRF challenge, it is difficult to determine if the decreased ACTH response is due to enhanced negative feedback of cortisol on ACTH release or an alteration in CRF receptors in depressed patients. To evaluate the response to oCRF in an \"open feedback loop\" system, we administered metyrapone 750 mg at 4 PM and 7:30 PM, followed by administration of oCRF 0.3 microgram/kg at 8 PM in 10 normal controls and 10 depressed patients. Administration of metyrapone at this time in the circadian rhythm clamped plasma cortisol concentrations to less than 2 micrograms/dl but did not result in rebound ACTH or beta-End secretion in control subjects. In control subjects, metyrapone administration produced a 85% blockade of the cortisol response as well as a 3-fold greater beta-End response compared to administration of the same dose of oCRF without metyrapone. The 10 depressed patients and their matched controls demonstrated identical beta-End responses (integrated response for controls = 291 +/- 61, for patients = 352 +/- 86) and cortisol responses (integrated response for controls = 187 +/- 38, for patients = 206 +/- 52) to oCRF following metyrapone pretreatment. These data confirm that corticotroph CRF receptors are normal in depressed patients, and that cortisol feedback plays an essential role in the abnormal ACTH and beta-End response to oCRF in depressed patients.",
+    "year": "1995",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "7863016",
+    "title": "Adrenocorticotropic hormone, beta-endorphin and cortisol responses to oCRH in unipolar depressed patients pretreated with dexamethasone.",
+    "abstract": "1. Corticotropin-releasing hormone (ovine CRH, 100 micrograms intravenous bolus) was given to 63 unipolar depressed inpatients following the 1 mg overnight dexamethasone suppression test (DST). The depressed patients included 18 minor, 24 simple major and 21 melancholic subtypes. 2. Baseline or postdexamethasone plasma levels of intact adrenocorticotropic hormone (ACTH), beta-endorphin/beta-lipotropin (beta END/beta LPH), cortisol, and dexamethasone were measured, as well as the post DST+CRH hormone responses. 3. CRH administration 9.5 hr after dexamethasone resulted in a significant enhancement of ACTH, beta END/beta LPH and cortisol secretion. The post DST+CRH ACTH and beta END/beta LPH- but not cortisol-values exceeded their baseline hormone levels. The post DST+CRH ACTH--but not beta END/beta LPH or cortisol-levels were significantly higher in major depressives compared to minor depressives. The post DST+CRH ACTH and beta END/beta LPH--but not cortisol-levels were significantly higher in DST nonsuppressors than suppressors. The post DST+CRH ACTH levels were significantly and positively related to severity of illness. 4. The results provide evidence that the pathophysiology underlying the abnormal DST+CRH and DST tests in melancholia is localized at the pituitary level and may consist of a CRH-driven breakthrough of corticotropic cell secretion synergized by central and peripheral agents, in conjunction with a decrease in glucocorticoid feedback suppressibility.",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "8080346",
+    "title": "Increased evening activation of the hypothalamic-pituitary-adrenal axis in depressed patients.",
+    "abstract": "To determine whether depressed patients demonstrate hypothalamic-pituitary-adrenal (HPA) axis activation during the late afternoon and evening, a time when the HPA axis is usually quiescent in normal subjects. We administered metyrapone, an 11-beta-hydroxylase inhibitor of cortisol synthesis, to normal controls and depressed patients between 4 and 10 PM. Metyrapone blockade of cortisol secretion would amplify any HPA axis secretion. In 10 normal control subjects, administration of metyrapone lowered plasma cortisol levels to a mean of 36 nmol/L. No rebound corticotropin or beta-endorphin secretion was seen in these normal controls between 4 and 10 PM, supporting the existence of a period of minimal endogenous corticotropin releasing factor drive. Compared with a group of placebo-treated depressed patients (n = 10), metyrapone-treated depressed subjects (n = 17) had significantly decreased plasma cortisol concentrations. However, in contrast to normal controls treated with metyrapone, metyrapone-treated depressed patients demonstrated rebound corticotroph secretion, particularly between 7:30 and 10 PM (P = .036 for patients vs normal controls for beta-endorphin secretion from 4:30 to 10 PM). These data support the hypothesis of increased corticotropin releasing factor drive in the evening in depressed subjects and are in agreement with the longstanding observation of \"early escape\" from dexamethasone suppression between 4 and 11 PM in depressed patients.",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "8170528",
+    "title": "Cortisol and beta-endorphin responses to sleep deprivation in major depression--the hyperarousal theories of sleep deprivation.",
+    "abstract": "To test theories that response to sleep deprivation in depression is the result of either stress reactions or down-regulation of hyperarousal, the early morning cortisol and beta-endorphin levels of depressed sleep deprivation responders and nonresponders before and after sleep deprivation were compared (areas under the curve of 8 blood samples between 7:30 and 10 a.m.). The beta-endorphin response was significantly different in responders and nonresponders, whereas all other comparisons remained nonsignificant. The results do not support theories that sleep deprivation acts as a stressor, but are not contradictory to the hyperarousal hypothesis of sleep deprivation.",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "8126314",
+    "title": "The elevation of plasma beta-endorphin levels in major depression.",
+    "abstract": "Day-time plasma beta-endorphin/beta-lipotrophic hormone (beta-ENDO/beta-LPH), ACTH and cortisol have been determined in 26 patients with major depression and 25 controls. beta-ENDO/beta-LPH and cortisol were significantly elevated in patients, while ACTH was not. Cortisol levels were significantly negatively correlated with age in controls as were beta-ENDO/beta-LPH and ACTH. In patients, by contrast, cortisol levels were positively, albeit not significantly, related to age. Peptide levels were not related to age in the patient group. Instead, beta-ENDO/beta-LPH was negatively correlated with clinical ratings of symptom severity in patients and positively associated with an acute psychosocial precipitant. The findings cast further light on beta-ENDO/beta-LPH as a measure of hypothalamic-pituitary over activity in depressive illness. A negative association with symptom severity suggests that beta-ENDO/beta-LPH responses are, like those of ACTH, down-regulated in the course of depressive illness.",
+    "year": "1993",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "8111227",
+    "title": "Stimulation of the pituitary-adrenal system with graded doses of CRH and low dose vasopressin infusion in depressed patients and healthy subjects: a pilot study.",
+    "abstract": "A corticotropin-releasing hormone (CRH) stimulation test with four cumulative doses of human CRH (0.01, 0.06, 0.2 and 1 microgram/kg body weight) and infusion of a low dose of [Arg8]-vasopressin (0.004 U/kg body weight/30 min) was performed in five depressed patients and six healthy subjects. Plasma samples for the measurement of cortisol, ACTH and beta-endorphin were taken at regular intervals and considered as measures of pituitary-adrenal function. A dose-response relationship between CRH and the hormones measured was found in patients and controls. Depressed patients already responded to the lowest dose of CRH with respect to cortisol release, whereas ACTH and beta-endorphin responded to the second and third doses, respectively. In control subjects the cortisol and ACTH response started after the third dose of CRH, whereas beta-endorphin responded significantly to the highest dose only. When both groups were compared, differences in response were found to the higher doses of CRH with respect to cortisol, ACTH and, less markedly, beta-endorphin and to the lowest dose of CRH with respect to cortisol. Although numbers are small, the data show 'blunting' of the ACTH response to the higher doses of CRH in patients with an enhanced cortisol response of the adrenals to lower and higher doses of CRH. There was no significant difference in response when CRH was used with vasopressin as compared to treatment with CRH alone. Thus, in this design vasopressin did not contribute significantly to CRH activity. The data suggest that pituitary cell sensitivity might be changed in depression as part of HPA dysfunction.",
+    "year": "1993",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "8489328",
+    "title": "Dissociation between pituitary and adrenal suppression to dexamethasone in depression.",
+    "abstract": "To determine if corticotroph nonsuppression, as reflected by beta-endorphin nonsuppression, occurs before cortisol nonsuppression (defined as a cortisol level of > 140 nmol/L) when examining multiple time points in a day. The General Medical Clinical Research Center and Inpatient Depression Research Unit, Ann Arbor, Mich. Multiple blood samples were obtained through an intravenous catheter around the time points of 8 AM, noon, and 4 PM and assayed for beta-endorphin and cortisol. Patients meeting Research Diagnostic Criteria for the diagnosis of major depressive disorder, primary and simple. A total of 73 subjects, both inpatients and outpatients, were studied. Samples were obtained both at baseline and 1 day after administration of 1 mg of dexamethasone at 11:30 PM. Overall 39 patients (53%) demonstrated beta-endorphin nonsuppression after administration of dexamethasone at any of the three time points, while only eight patients (11%) demonstrated cortisol nonsuppression at any of these time points. Cortisol nonsuppression, but not beta-endorphin nonsuppression, was associated with lower concentrations of dexamethasone in plasma. Baseline cortisol and menopausal status were significantly associated with beta-endorphin nonsuppression in women.",
+    "year": "1993",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  }
 ]

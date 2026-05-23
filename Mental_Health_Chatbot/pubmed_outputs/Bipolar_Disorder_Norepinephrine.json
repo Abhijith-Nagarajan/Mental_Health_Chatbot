@@ -1,127 +1,506 @@
 [
-    {
-        "title": "Antidepressant efficacy of cariprazine in bipolar disorder and the role of its pharmacodynamic properties: A hypothesis based on data.",
-        "abstract": "The treatment of bipolar depression is one of the most challenging needs in contemporary psychiatry. Currently, only quetiapine, olanzapine-fluoxetine combination, lurasidone, cariprazine, and recently lumateperone have been FDA-approved to treat this condition. The neurobiology of bipolar depression and the possible targets of bipolar antidepressant therapy remain elusive. The current study investigated whether the pharmacodynamic properties of cariprazine fit into a previously developed model which was the first to be derived based on the strict combination of clinical and preclinical data. The authors performed a systematic review of the literature to identify the pharmacodynamic properties of cariprazine. The original model suggests that a constellation of effects on different receptors is necessary and that serotonin reuptake inhibition does not appear to play a significant role in acute bipolar depression. On the contrary, norepinephrine activity seems to be necessary. Probably the early antidepressant effect can be achieved through an agonistic activity at 5HT-1A and antagonism at alpha1 noradrenergic and 5-HT2A receptors, but the presence of a norepinephrine reuptake inhibition appears essential to sustain it. Overall, the properties of cariprazine fit well the proposed model and add to its validity. A point that needs further clarification is norepinephrine reuptake inhibition which is not yet fully studied for cariprazine.",
-        "year": "2023"
-    },
-    {
-        "title": "Lipid Emulsion Therapy for Quetiapine Overdose.",
-        "abstract": "",
-        "year": "2020"
-    },
-    {
-        "title": "ErbB4 deletion in noradrenergic neurons in the locus coeruleus induces mania-like behavior via elevated catecholamines.",
-        "abstract": "Dysfunction of the noradrenergic (NE) neurons is implicated in the pathogenesis of bipolar disorder (BPD). ErbB4 is highly expressed in NE neurons, and its genetic variation has been linked to BPD; however, how ErbB4 regulates NE neuronal function and contributes to BPD pathogenesis is unclear. Here we find that conditional deletion of ErbB4 in locus coeruleus (LC) NE neurons increases neuronal spontaneous firing through NMDA receptor hyperfunction, and elevates catecholamines in the cerebrospinal fluid (CSF). Furthermore, <i>Erbb4</i>-deficient mice present mania-like behaviors, including hyperactivity, reduced anxiety and depression, and increased sucrose preference. These behaviors are completely rescued by the anti-manic drug lithium or antagonists of catecholaminergic receptors. Our study demonstrates the critical role of ErbB4 signaling in regulating LC-NE neuronal function, reinforcing the view that dysfunction of the NE system may contribute to the pathogenesis of mania-associated disorder.",
-        "year": "2018"
-    },
-    {
-        "title": "Evaluation of Neurotransmitter Alterations in Four Distinct Brain Regions After Rapid Eye Movement Sleep Deprivation (REMSD) Induced Mania-Like Behaviour in Swiss Albino Mice.",
-        "abstract": "A number of neurotransmitter systems have been implicated in contributing to the pathology of mood disorders, including those of dopamine (DA), serotonin (5-HT), norepinephrine (NE) and \u03b3-aminobutyric acid (GABA). Rapid eye movement sleep deprivation (REMSD) alters most of the neurotransmitters, which may have adverse behavioural changes and other health consequences like mania and other psychiatric disorders. The exact role of REMSD altered neurotransmitter levels and the manner in which emerging consequences lead to mania-like behaviour is poorly understood. Thus, we sought to verify the levels of neurotransmitter changes after 48, 72 and 96\u00a0h of REMSD induced mania-like behaviour in mice. We performed modified multiple platform (MMP) method of depriving the REM sleep and one group maintained as a control. To measure the hyperactivity through locomotion, exploration and behavioural despair, we performed the Open Field Test (OFT) and the Forced Swim Test (FST). Quantitative determinations of DA, 5-HT, NE and GABA concentrations in four distinct brain regions (cerebral cortex, hippocampus, midbrain, and pons) were determined by the spectrofluorimetric method. These experiments showed higher locomotion and increased swimming, struggling/climbing and decreased mobility among REMSD animals as well as disrupted concentrations of the majority of the studied neurotransmitters during REMSD. Our study indicated that REMSD results in mania-like behaviour in mice and associated disruption to neurotransmitter levels, although the exact mechanisms by which these take place remain to be determined.",
-        "year": "2018"
-    },
-    {
-        "title": "Dissecting Impulsivity: Brain Mechanisms and Neuropsychiatric Implications.",
-        "abstract": "",
-        "year": "2017"
-    },
-    {
-        "title": "The noradrenaline metabolite MHPG is a candidate biomarker from the manic to the remission state in bipolar disorder I: a clinical naturalistic study.",
-        "abstract": "Remission is the primary goal of treatment for bipolar disorder I (BDI). Metabolites of noradrenaline and dopamine, 3-methoxy-4-hydroxyphenylglycol (MHPG) and homovanillic acid (HVA), respectively, are reduced by treatment with antipsychotics, but whether these phenomena are caused by antipsychotics or by the pathophysiology of BDI is not known. Interactions between brain-derived neurotrophic factor (BDNF) and mood disorders have also been suggested. We conducted a multifaceted study in BDI patients to ascertain if biological markers are associated with the manic state. Patients with Young Mania Rating Scale (YMRS) scores >20 participated in the study. Final analyses involved 24 BDI patients (13 men and 11 women). We used YMRS scores to identify mania stages in individual BDI patients (i.e., manic syndrome, response and remission stages). Statistical analyses were done using one-way repeated-measures analyses of variance (rep-ANOVA) throughout manic syndrome, response and remission stages. Plasma concentrations of MHPG and HVA were analyzed by high-performance liquid chromatography with electrochemical detection. Plasma levels of BDNF were measured by sandwich enzyme-linked immunosorbent assay. BDI patients had significantly reduced plasma levels of MHPG throughout manic syndrome, response and remission stages (rep-ANOVA, p\u200a=\u200a0.002). Without a case of response state, there was a significant positive correlation between YMRS scores and plasma levels of MHPG (\u03c1\u200a=\u200a0.33, p\u200a=\u200a0.033, n\u200a=\u200a48). Plasma levels of HVA and BDNF were not significantly altered throughout manic syndrome, response and remission stages. These data suggest that the peripheral level of MHPG (which is associated with noradrenaline levels in the brain) could be used as a biomarker for the manic state in BDI. The MHPG level is likely to reflect the clinical characteristics of the manic syndrome in BDI, and noradrenaline may reflect the pathophysiology from manic to remission states.",
-        "year": "2014"
-    },
-    {
-        "title": "Is elevated norepinephrine an etiological factor in some cases of Parkinson's disease?",
-        "abstract": "It is well documented that norepinephrine (NE) releasing neurons in the locus coeruleus, a brainstem nucleus that is a major source of NE for the brain, degenerate during the progression of Parkinson's disease (PD). A number of studies also suggest that, as a result, there is less NE released in the brain during disease progression, which may contribute to the pathophysiology and symptomatology of PD. This paper puts forth the novel hypothesis that NE degeneration in PD is preceded by elevated NE signaling, mainly as a result of genetics, and that this elevation is a major etiological factor in the disease. In this scenario, long-term (if not lifelong) elevated NE signaling could eventually invoke compensatory mechanisms that result in noradrenergic, and possibly dopaminergic, cell death. Several lines of evidence are briefly reviewed on the relationship between NE signaling and PD, including studies of: the level of NE; drugs that increase or decrease NE signaling; the relationship between PD and bipolar disorder, hypertension, and obesity, since the latter three conditions may be associated with increased NE signaling; and the relationship between PD and psychological stress, since stress is associated with increased release of NE. Many of these studies support NE degeneration during the disease, although some are consistent with elevated NE signaling during disease progression. Because there are few data on the state of the NE system prior to disease onset, the central point of this paper that NE signaling is elevated prior to development of PD, remains largely hypothetical. If elevated NE signaling really is an etiological factor in this disease, then early identification of susceptible individuals and long-term treatment with NE transmission reducing drugs, may help prevent or slow progression of PD.",
-        "year": "2014"
-    },
-    {
-        "title": "Is elevated norepinephrine an etiological factor in some cases of schizophrenia?",
-        "abstract": "A number of hypotheses have been put forth regarding the etiology of schizophrenia, including the dopamine hypothesis, NMDA receptor hypofunction hypothesis, and others. A lesser known theory is that elevated noradrenergic signaling plays a causative role in the disease. This paper briefly re-examines the merits of this hypothesis, including as it relates to some recently published studies. Several lines of evidence are investigated, including: endogenous level studies of norepinephrine (NE); modulation of the disease by noradrenergic drugs; association of the disease with bipolar disorder and hypertension, since these latter two conditions may involve elevated NE transmission; and effects of psychological stress on the disease, since stress can produce elevated release of NE. For many of these lines of evidence, their relationship with prepulse inhibition of startle is examined. A number of these studies support the hypothesis, and several suggest that elevated NE signaling plays a particularly prominent role in the paranoid subtype of schizophrenia. If the hypothesis is correct for some persons, conventional pharmaceutical treatment options, such as use of atypical antipsychotics (which may themselves modulate noradrenergic signaling), may be improved if selective NE transmission modulating agents are added to or even substituted for these conventional drugs.",
-        "year": "2014"
-    },
-    {
-        "title": "Mood disorders: the dark night.",
-        "abstract": "",
-        "year": "2013"
-    },
-    {
-        "title": "Dopamine dysregulation syndrome including mania related to coadministration of droxidopa.",
-        "abstract": "",
-        "year": "2012"
-    },
-    {
-        "title": "Quetiapine for bipolar depression: a systematic review and meta-analysis.",
-        "abstract": "Quetiapine has been proposed for depression in bipolar patients but a quantitative analysis is lacking. In the present paper, we review and meta-analyze available data about the short-term and long-term efficacy and tolerability of quetiapine for the depressive phase of bipolar disorder or bipolar depression. A literature research was carried out using three electronic databases. Studies providing measures of efficacy and tolerability of quetiapine, either as monotherapy or as augmentation, for bipolar depression were considered. Seven short-term studies and four maintenance studies were included. Short-term studies suggested that patients treated with quetiapine monotherapy were significantly more likely than patients treated with placebo and further active comparators to achieve higher response and remission rates as well as more clinical improvements at the endpoint. Such benefits were significant from the first weeks of treatment onward. Maintenance studies suggested that the combination of quetiapine and mood stabilizers was significantly better than placebo plus mood stabilizers for the prevention of both depressive and manic relapses. Quetiapine was generally well tolerated. Furthermore, several clinical variables moderated outcomes under investigation. In conclusion, quetiapine could have some advantages over traditional treatments for the treatment of bipolar depression.",
-        "year": "2012"
-    },
-    {
-        "title": "The role of the aminergic systems in the pathophysiology of bipolar disorder.",
-        "abstract": "Bipolar disorder (BPD) is a major medical and social burden, but little is known about the specific pathophysiology of BPD. The key biogenic amines in the aminergic system include serotonin (5-HT), norepinephrine (NE), dopamine (DA), and acetylcholine (ACh). By analyzing these neurotransmitters, this chapter highlights three hypotheses in the pathophysiology of BPD: the biogenic amine hypothesis, the cholinergic-aminergic balance hypothesis, and the permissive hypothesis. Evidence from select studies of cerebrospinal fluid, postmortem subjects, neuroimaging, genetic factors, and pharmacological agents will be used to reconcile these hypotheses. Possible explanations for discrepancies in these hypotheses are given, and directions for future studies are suggested.",
-        "year": "2011"
-    },
-    {
-        "title": "Is elevated norepinephrine an etiological factor in some cases of epilepsy?",
-        "abstract": "It is well established that the neurotransmitter norepinephrine (NE) has anticonvulsant properties. However, NE may also have proconvulsant properties under some conditions, both in animal epilepsy models and in humans. This paper examines the hypothesis that this neurotransmitter has proconvulsant properties, where much of the pharmaceutical evidence comes from rodent models. In assessing the elevated NE epilepsy hypothesis, the following seven lines of evidence are examined that include studies of: (1) antidepressants that raise the level of NE; (2) clonidine and other alpha 2 adrenergic agonist drugs that lower the level of NE; (3) prazosin and other drugs that affect alpha adrenoceptors; (4) propranolol and other drugs that affect beta adrenoceptors; (5) pheochromocytoma, which is a rare cancer of the adrenal glands that can boost NE levels; (6) comorbidity of epilepsy with bipolar disorder, hypertension, and obesity, where all four conditions may involve elevated NE; and (7) psychological stress, which is associated with increased release of NE. The body of evidence supporting the NE proconvulsant hypothesis is consistent with the notion that elevated, endogenous noradrenergic transmission is an etiological factor in some cases of epilepsy.",
-        "year": "2010"
-    },
-    {
-        "title": "Psychiatric concerns in pediatric epilepsy.",
-        "abstract": "Pediatric epilepsy is a common, chronic, and challenging physical illness for children and their families. This article provides a medical overview and discusses the cognitive functioning and psychosocial adjustment as well as the psychiatric management for children and adolescents with pediatric epilepsy. The management of these children involves establishing a collaborative health care approach, evaluating academic functioning, considering psychotherapy, and managing psychopharmacologic treatment. A thorough understanding of the biopsychosocial concerns in pediatric epilepsy can enable medical providers and mental health clinicians to promote resiliency and adaptation in children and their families facing troubling seizure disorders.",
-        "year": "2010"
-    },
-    {
-        "title": "Impulsivity in mania.",
-        "abstract": "Impulsivity, a breakdown in the balance between initiation and screening of action that leads to reactions to stimuli without adequate reflection or regard for consequences, is a core feature of bipolar disorder and is prominent in manic episodes. Catecholaminergic function is related to impulsivity and mania. Manic individuals have abnormal dopaminergic reactions to reward and abnormal responses in the ventral prefrontal cortex that are consistent with impulsive behavior. Impulsivity in mania is pervasive, encompassing deficits in attention and behavioral inhibition. Impulsivity is increased with severe course of illness (eg, frequent episodes, substance use disorders, and suicide attempts). In mixed states, mania-associated impulsivity combines with depressive symptoms to increase the risk of suicide. Clinical management of impulsivity in mania involves addressing interpersonal distortions inherent in mania; reducing overstimulation; alertness to medical-, trauma-, or substance-related problems; and prompt pharmacologic treatment. Manic episodes must be viewed in the context of the life course of bipolar disorder.",
-        "year": "2009"
-    },
-    {
-        "title": "[Quetiapin in bipolar disorders].",
-        "abstract": "Atypical antipsychotics are now widely used in the acute and long-term treatment in bipolar disorder. The role of atypical antipsychotics as acute agents, add-on medications; or as primary mood stabilizers in different phases of bipolar disorder is an important current research tendency. However, in bipolar disorder the mostly used indication of quetiapine is the management of acute manic phases, clinical data and the actual research results suggest that it may have both antidepressant and long-term antimanic effects. Quetiapine enhances the transmission of the central serotonergic networks, by its high antagonistic affinity for 5-HT(2A) and partial agonistic activity for the 5-HT(1A) receptors. The 5HT(1A) partial agonism causes an increase in the dopaminergic neurotransmission of the prefrontal cortex, and also, the affinity for the alpha 2-adrenoceptor brings a relative increase in extracellular noradrenergic release an tone in the prefrontal cortex. Latest research shows that quetiapine's main, active, human plasma metabolite, N-desalkyl quetiapine (norquetiapine), has a high inhibition affinity for the noradrenergic transporter. These data suggest that comparing to other atypical antipsychotics, norquetiapine may have a relatively strong antidepressant potential. Modifying the dopaminergic transmission by quetiapine's D2 receptor blocking activity results indirect mediating the cAMP-PKA and the arrestin-Akt-GSK-3 intracellular signal transduction pathways, which process may explain its long-term antimanic and mood stabilizing capability. Quetiapine's activity on nerve growth factors, histamine H1 receptor, proinflammatory networks may take an important additional part in its efficacy in bipolar depression. Its very fast dissociation from the D2 receptor is an important pharmakokinetic parameter for managing the optimal quetiapine dose in the daily clinical practice. This review tries to organize the actual information on quetiapine's multiplex activity in bipolar disorder.",
-        "year": "2008"
-    },
-    {
-        "title": "Norepinephrine and serotonin imbalance in the locus coeruleus in bipolar disorder.",
-        "abstract": "Abnormalities in norepinephrine (NE) and serotonin (5-HT) are implicated in bipolar disorder (BD). We examined 5-HT input and NE neurons in the locus coeruleus (LC, the NE nucleus that innervates the forebrain) in BD by quantifying immunoreactivity (IR) for tyrosine hydroxylase (TH) and tryptophan hydroxylase (TPH), the biosynthetic enzymes for NE and 5-HT, respectively. Six suicides with BD were compared to matched normal controls and unipolar major depression suicides, using immunocytochemistry with computer-assisted quantification of immunoreactivity. Depressed bipolar suicides had 26.7 +/- 1.3% of LC area occupied by the TH immunoreactive (TH-IR) process, while controls had 50.7 +/- 8% (p = 0.002) and unipolar depressed suicides had 50.3 +/- 2.5% (p = 0.003). In bipolars, these processes did not stain as darkly (1.9 +/- 0.5 x background) as controls (2.9 +/- 0.9 x background; p = 0.01) or unipolars (2.9 +/- 0.6 x background; p = 0.002). Bipolar suicides also had less TPH-IR processes in the LC (11.7 +/- 10%) compared with controls (32.8 +/- 8.8%; p = 0.01) or unipolar suicides (30.3 +/- 8%; p = 0.02). The TPH-IR intensity did not differ between groups. We found less TH-IR and TPH-IR in the LC in depressed bipolar suicides, but not unipolar suicides, suggesting that both NE and 5-HT activity is lower in BD. Studies during manic or euthymic states will determine whether these changes are mood state dependent.",
-        "year": "2008"
-    },
-    {
-        "title": "New understanding of mechanisms of action of bipolar medications.",
-        "abstract": "The classical models of mood disorder pathophysiology and mechanism of antidepressant or mood stabilizing drug action focused on neurochemical deficits and the ability of medications to correct these deficits. Recent studies suggest alterations in neuroplasticity and cellular resiliency may be more closely related to the pathogenesis and pathophysiology of the disorders, as well as the mechanism of action related to effective treatments. Patients with mood disorders have been found to exhibit evidence of neuroplastic changes, such as reductions in hippocampal and cortical volume, glial and neuronal cell density, and levels of brain-derived neurotrophic factor; chronic stress, a major precipitator of depression, has been shown to cause many of the same neuroplastic changes to occur in animal models. Understanding the molecular mechanisms regulating neuroplasticity and their relationship to the pathophysiology of depression may provide insights into how current treatments work and point to novel targets for more efficacious treatments for patients with mood disorders.",
-        "year": "2008"
-    },
-    {
-        "title": "Power based association analysis (PBAT) of serotonergic and noradrenergic polymorphisms in bipolar patients with suicidal behaviour.",
-        "abstract": "Suicidality is a major health concern worldwide particularly in affective disorder patients. Attempted suicide is familial. There is strong neurobiological evidence showing that serotonergic and noradrenergic dysfunction is implicated in suicidal behaviours. We will apply now a new family based association strategy aimed to explain the genetic influence in suicidal behaviour by power based association test statistics (PBAT) in 336 bipolar patients assessed for suicidality within nuclear families. By use of conditional power calculations, the approach screens all possible null hypotheses without biasing the nominal significance level, and it identifies the subset of phenotypes that has optimal power when tested for association by either univariate or multivariate family based association test (FBAT). Using this statistical approach (PBAT) we investigated polymorphisms in serotonergic and noradrenergic genes, considering suicidal behaviour severity instead of the dichotomous phenotype (presence of suicide attempt). COMT Val/Met polymorphism was not associated with suicide with high confidence (power=91%). On the other hand, the analysis of the other 12 markers in the adrenergic and serotonergic genes revealed that the TH allele tended towards association with higher severity of suicidal behaviour (p=0.060) but the power obtained was very low. The marginal finding of association between TH and severe suicidal behaviour are convergent with previous reports. On the other hand, our sample has enough power to exclude the other polymorphisms investigated as major candidate for suicidality in bipolar disorder.",
-        "year": "2008"
-    },
-    {
-        "title": "Panic comorbidity with bipolar disorder: what is the manic-panic connection?",
-        "abstract": "Bipolar/panic comorbidity has been observed in clinical, community and familial samples. As both are episodic disorders of affect regulation, the common pathophysiological mechanism is likely to involve deficits in amygdala-mediated, plasticity-dependent emotional conditioning. Neuronal genesis and synaptic remodeling occur in the amygdala; bipolar and panic disorders have both been associated with abnormality in the amygdala and related structures, as well as in molecules that modulate plasticity, such as serotonin, norepinephrine, brain-derived neurotrophic factor (BDNF) and corticotrophin releasing factor (CRF). These biological elements are involved in behavioral conditioning to threat and reward. Panic attacks resemble the normal acute fear response, but are abnormally dissociated from any relevant threat. Abnormal reward-seeking behavior is central to both manic and depressive syndromes. Appetites can be elevated or depressed; satisfaction of a drive may fail to condition future behavior. These dissociations may be the result of deficits in plasticity-dependent processes of conditioning within different amygdala subregions. This speculative model may be a useful framework with which to connect molecular, cellular, anatomic and behavioral processes in panic and bipolar disorders. The primary clinical implication is that behavioral treatment may be critical to restore function in some bipolar patients who respond only partially to medications.",
-        "year": "2006"
-    },
-    {
-        "title": "Sleeping in? The impact of age and depressive sub-type on hypersomnia.",
-        "abstract": "While early morning wakening is held to be a classic feature of melancholia, we investigate the clinical observation that young patients with melancholia and bipolar depression tend to be more likely to report hypersomnia. We examine age-related rates of those two sleep disturbance patterns in a consecutive set of out-patients with differing depressive sub-types assessed over a 20-year period. Hypersomnia was more likely to be reported than early morning wakening across all age bands by those with non-melancholic depression. Hypersomnia was also more likely than early morning wakening in younger patients with melancholia and bipolar disorder but, with age, early morning wakening became the dominant pattern. The study was retrospective, undertaken in a sample attending a tertiary referral unit and artefactual determinants of the associations were not pursued. We speculate that hypersomnia may be a non-specific homeostatic coping response to stress and thus to the non-melancholic depressive disorders, but that this pattern is overruled by an early morning wakening pattern in the more biological depressive sub-types as the individual ages, perhaps reflecting a noradrenergic contribution.",
-        "year": "2006"
-    },
-    {
-        "title": "[3-methoxy-4-hydroxyphenylglycol (MHPG)].",
-        "abstract": "",
-        "year": "2005"
-    },
-    {
-        "title": "Atypical antipsychotics in bipolar depression: potential mechanisms of action.",
-        "abstract": "\"Conventional\" antidepressants, such as the selective serotonin reuptake inhibitors (SSRIs), bupropion, or serotonin-norepinephrine reuptake inhibitors, are not recommended as monotherapy for bipolar depression. Although they are likely to provide effective symptom relief in combination with mood stabilizers, the risk of precipitating a switch to mania often complicates their use even as combination therapy. Recently, 2 psychotropic medications approved for treating acute mania, olanzapine and quetiapine, have also been shown to possess antidepressant activity without destabilizing mood and, as such, are potential mood stabilizers. This article aims to review the mechanism of action of conventional antidepressants and newer agents that are effective in the treatment of bipolar depression. A number of mechanisms have been postulated to play a role in the effective treatment of bipolar depression, including targets as diverse as serotonin (5-HT), norepinephrine, dopamine, gamma-aminobutyric acid (GABA), glutamate, and various second messenger signaling pathways. A review of the data reveals an important point of commonality among the antidepressant treatments, olanzapine, and quetiapine. Antidepressant treatments, such as norepinephrine reuptake inhibitors, SSRIs, and electroconvulsive therapy, induce a reduction of 5-HT(2A) receptors. Both olanzapine and quetiapine not only are antagonists at this receptor but also induce downregulation of 5-HT(2A) receptors. It is possible that the antidepressant efficacy of these agents is mediated by this receptor, while the additional benefit of olanzapine and quetiapine over unimodal antidepressant treatments, in terms of stabilizing mood, may be provided by their concomitant dopamine D(2) antagonism. Further studies should be conducted to examine these hypotheses.",
-        "year": "2005"
-    },
-    {
-        "title": "Aggression, mania, and hypomania induction associated with atomoxetine.",
-        "abstract": "",
-        "year": "2004"
-    },
-    {
-        "title": "Thyroid, brain and mood modulation in affective disorder: insights from molecular research and functional brain imaging.",
-        "abstract": "The efficacy resulting from adjunctive use of supraphysiological doses of levothyroxine has emerged as a promising approach to therapy and prophylaxis for refractory mood disorders. Most patients with mood disorders who receive treatment with supraphysiological doses of levothyroxine have normal peripheral thyroid hormone levels, and also respond differently to the hormone and tolerate it better than healthy individuals and patients with primary thyroid diseases. Progress in molecular and functional brain imaging techniques has provided a new understanding of these phenomena, illuminating the relationship between thyroid function, mood modulation and behavior. Thyroid hormones are widely distributed in the brain and have a multitude of effects on the central nervous system. Notably many of the limbic system structures where thyroid hormone receptors are prevalent have been implicated in the pathogenesis of mood disorders. The influence of the thyroid system on neurotransmitters (particularly serotonin and norepinephrine), which putatively play a major role in the regulation of mood and behavior, may contribute to the mechanisms of mood modulation. Recent functional brain imaging studies using positron emission tomography (PET) with [ (18)F]-fluorodeoxyglucose demonstrated that thyroid hormone treatment with levothyroxine affects regional brain metabolism in patients with hypothyroidism and bipolar disorder. Theses studies confirm that thyroid hormones are active in modulating metabolic function in the mature adult brain, and provide intriging neuroanatomic clues that may guide future research.",
-        "year": "2003"
-    }
+  {
+    "pmid": "37060629",
+    "title": "Antidepressant efficacy of cariprazine in bipolar disorder and the role of its pharmacodynamic properties: A hypothesis based on data.",
+    "abstract": "The treatment of bipolar depression is one of the most challenging needs in contemporary psychiatry. Currently, only quetiapine, olanzapine-fluoxetine combination, lurasidone, cariprazine, and recently lumateperone have been FDA-approved to treat this condition. The neurobiology of bipolar depression and the possible targets of bipolar antidepressant therapy remain elusive. The current study investigated whether the pharmacodynamic properties of cariprazine fit into a previously developed model which was the first to be derived based on the strict combination of clinical and preclinical data. The authors performed a systematic review of the literature to identify the pharmacodynamic properties of cariprazine. The original model suggests that a constellation of effects on different receptors is necessary and that serotonin reuptake inhibition does not appear to play a significant role in acute bipolar depression. On the contrary, norepinephrine activity seems to be necessary. Probably the early antidepressant effect can be achieved through an agonistic activity at 5HT-1A and antagonism at alpha1 noradrenergic and 5-HT2A receptors, but the presence of a norepinephrine reuptake inhibition appears essential to sustain it. Overall, the properties of cariprazine fit well the proposed model and add to its validity. A point that needs further clarification is norepinephrine reuptake inhibition which is not yet fully studied for cariprazine.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ]
+  },
+  {
+    "pmid": "24485408",
+    "title": "Is elevated norepinephrine an etiological factor in some cases of schizophrenia?",
+    "abstract": "A number of hypotheses have been put forth regarding the etiology of schizophrenia, including the dopamine hypothesis, NMDA receptor hypofunction hypothesis, and others. A lesser known theory is that elevated noradrenergic signaling plays a causative role in the disease. This paper briefly re-examines the merits of this hypothesis, including as it relates to some recently published studies. Several lines of evidence are investigated, including: endogenous level studies of norepinephrine (NE); modulation of the disease by noradrenergic drugs; association of the disease with bipolar disorder and hypertension, since these latter two conditions may involve elevated NE transmission; and effects of psychological stress on the disease, since stress can produce elevated release of NE. For many of these lines of evidence, their relationship with prepulse inhibition of startle is examined. A number of these studies support the hypothesis, and several suggest that elevated NE signaling plays a particularly prominent role in the paranoid subtype of schizophrenia. If the hypothesis is correct for some persons, conventional pharmaceutical treatment options, such as use of atypical antipsychotics (which may themselves modulate noradrenergic signaling), may be improved if selective NE transmission modulating agents are added to or even substituted for these conventional drugs.",
+    "year": "2014",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "22107783",
+    "title": "Quetiapine for bipolar depression: a systematic review and meta-analysis.",
+    "abstract": "Quetiapine has been proposed for depression in bipolar patients but a quantitative analysis is lacking. In the present paper, we review and meta-analyze available data about the short-term and long-term efficacy and tolerability of quetiapine for the depressive phase of bipolar disorder or bipolar depression. A literature research was carried out using three electronic databases. Studies providing measures of efficacy and tolerability of quetiapine, either as monotherapy or as augmentation, for bipolar depression were considered. Seven short-term studies and four maintenance studies were included. Short-term studies suggested that patients treated with quetiapine monotherapy were significantly more likely than patients treated with placebo and further active comparators to achieve higher response and remission rates as well as more clinical improvements at the endpoint. Such benefits were significant from the first weeks of treatment onward. Maintenance studies suggested that the combination of quetiapine and mood stabilizers was significantly better than placebo plus mood stabilizers for the prevention of both depressive and manic relapses. Quetiapine was generally well tolerated. Furthermore, several clinical variables moderated outcomes under investigation. In conclusion, quetiapine could have some advantages over traditional treatments for the treatment of bipolar depression.",
+    "year": "2012",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ]
+  },
+  {
+    "pmid": "20493725",
+    "title": "Is elevated norepinephrine an etiological factor in some cases of epilepsy?",
+    "abstract": "It is well established that the neurotransmitter norepinephrine (NE) has anticonvulsant properties. However, NE may also have proconvulsant properties under some conditions, both in animal epilepsy models and in humans. This paper examines the hypothesis that this neurotransmitter has proconvulsant properties, where much of the pharmaceutical evidence comes from rodent models. In assessing the elevated NE epilepsy hypothesis, the following seven lines of evidence are examined that include studies of: (1) antidepressants that raise the level of NE; (2) clonidine and other alpha 2 adrenergic agonist drugs that lower the level of NE; (3) prazosin and other drugs that affect alpha adrenoceptors; (4) propranolol and other drugs that affect beta adrenoceptors; (5) pheochromocytoma, which is a rare cancer of the adrenal glands that can boost NE levels; (6) comorbidity of epilepsy with bipolar disorder, hypertension, and obesity, where all four conditions may involve elevated NE; and (7) psychological stress, which is associated with increased release of NE. The body of evidence supporting the NE proconvulsant hypothesis is consistent with the notion that elevated, endogenous noradrenergic transmission is an etiological factor in some cases of epilepsy.",
+    "year": "2010",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Intramural",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "20478505",
+    "title": "Psychiatric concerns in pediatric epilepsy.",
+    "abstract": "Pediatric epilepsy is a common, chronic, and challenging physical illness for children and their families. This article provides a medical overview and discusses the cognitive functioning and psychosocial adjustment as well as the psychiatric management for children and adolescents with pediatric epilepsy. The management of these children involves establishing a collaborative health care approach, evaluating academic functioning, considering psychotherapy, and managing psychopharmacologic treatment. A thorough understanding of the biopsychosocial concerns in pediatric epilepsy can enable medical providers and mental health clinicians to promote resiliency and adaptation in children and their families facing troubling seizure disorders.",
+    "year": "2010",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "19909671",
+    "title": "Impulsivity in mania.",
+    "abstract": "Impulsivity, a breakdown in the balance between initiation and screening of action that leads to reactions to stimuli without adequate reflection or regard for consequences, is a core feature of bipolar disorder and is prominent in manic episodes. Catecholaminergic function is related to impulsivity and mania. Manic individuals have abnormal dopaminergic reactions to reward and abnormal responses in the ventral prefrontal cortex that are consistent with impulsive behavior. Impulsivity in mania is pervasive, encompassing deficits in attention and behavioral inhibition. Impulsivity is increased with severe course of illness (eg, frequent episodes, substance use disorders, and suicide attempts). In mixed states, mania-associated impulsivity combines with depressive symptoms to increase the risk of suicide. Clinical management of impulsivity in mania involves addressing interpersonal distortions inherent in mania; reducing overstimulation; alertness to medical-, trauma-, or substance-related problems; and prompt pharmacologic treatment. Manic episodes must be viewed in the context of the life course of bipolar disorder.",
+    "year": "2009",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "19419014",
+    "title": "[Quetiapin in bipolar disorders].",
+    "abstract": "Atypical antipsychotics are now widely used in the acute and long-term treatment in bipolar disorder. The role of atypical antipsychotics as acute agents, add-on medications; or as primary mood stabilizers in different phases of bipolar disorder is an important current research tendency. However, in bipolar disorder the mostly used indication of quetiapine is the management of acute manic phases, clinical data and the actual research results suggest that it may have both antidepressant and long-term antimanic effects. Quetiapine enhances the transmission of the central serotonergic networks, by its high antagonistic affinity for 5-HT(2A) and partial agonistic activity for the 5-HT(1A) receptors. The 5HT(1A) partial agonism causes an increase in the dopaminergic neurotransmission of the prefrontal cortex, and also, the affinity for the alpha 2-adrenoceptor brings a relative increase in extracellular noradrenergic release an tone in the prefrontal cortex. Latest research shows that quetiapine's main, active, human plasma metabolite, N-desalkyl quetiapine (norquetiapine), has a high inhibition affinity for the noradrenergic transporter. These data suggest that comparing to other atypical antipsychotics, norquetiapine may have a relatively strong antidepressant potential. Modifying the dopaminergic transmission by quetiapine's D2 receptor blocking activity results indirect mediating the cAMP-PKA and the arrestin-Akt-GSK-3 intracellular signal transduction pathways, which process may explain its long-term antimanic and mood stabilizing capability. Quetiapine's activity on nerve growth factors, histamine H1 receptor, proinflammatory networks may take an important additional part in its efficacy in bipolar depression. Its very fast dissociation from the D2 receptor is an important pharmakokinetic parameter for managing the optimal quetiapine dose in the daily clinical practice. This review tries to organize the actual information on quetiapine's multiplex activity in bipolar disorder.",
+    "year": "2008",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "19265637",
+    "title": "New understanding of mechanisms of action of bipolar medications.",
+    "abstract": "The classical models of mood disorder pathophysiology and mechanism of antidepressant or mood stabilizing drug action focused on neurochemical deficits and the ability of medications to correct these deficits. Recent studies suggest alterations in neuroplasticity and cellular resiliency may be more closely related to the pathogenesis and pathophysiology of the disorders, as well as the mechanism of action related to effective treatments. Patients with mood disorders have been found to exhibit evidence of neuroplastic changes, such as reductions in hippocampal and cortical volume, glial and neuronal cell density, and levels of brain-derived neurotrophic factor; chronic stress, a major precipitator of depression, has been shown to cause many of the same neuroplastic changes to occur in animal models. Understanding the molecular mechanisms regulating neuroplasticity and their relationship to the pathophysiology of depression may provide insights into how current treatments work and point to novel targets for more efficacious treatments for patients with mood disorders.",
+    "year": "2008",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "17156152",
+    "title": "Panic comorbidity with bipolar disorder: what is the manic-panic connection?",
+    "abstract": "Bipolar/panic comorbidity has been observed in clinical, community and familial samples. As both are episodic disorders of affect regulation, the common pathophysiological mechanism is likely to involve deficits in amygdala-mediated, plasticity-dependent emotional conditioning. Neuronal genesis and synaptic remodeling occur in the amygdala; bipolar and panic disorders have both been associated with abnormality in the amygdala and related structures, as well as in molecules that modulate plasticity, such as serotonin, norepinephrine, brain-derived neurotrophic factor (BDNF) and corticotrophin releasing factor (CRF). These biological elements are involved in behavioral conditioning to threat and reward. Panic attacks resemble the normal acute fear response, but are abnormally dissociated from any relevant threat. Abnormal reward-seeking behavior is central to both manic and depressive syndromes. Appetites can be elevated or depressed; satisfaction of a drive may fail to condition future behavior. These dissociations may be the result of deficits in plasticity-dependent processes of conditioning within different amygdala subregions. This speculative model may be a useful framework with which to connect molecular, cellular, anatomic and behavioral processes in panic and bipolar disorders. The primary clinical implication is that behavioral treatment may be critical to restore function in some bipolar patients who respond only partially to medications.",
+    "year": "2006",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "14677082",
+    "title": "Thyroid, brain and mood modulation in affective disorder: insights from molecular research and functional brain imaging.",
+    "abstract": "The efficacy resulting from adjunctive use of supraphysiological doses of levothyroxine has emerged as a promising approach to therapy and prophylaxis for refractory mood disorders. Most patients with mood disorders who receive treatment with supraphysiological doses of levothyroxine have normal peripheral thyroid hormone levels, and also respond differently to the hormone and tolerate it better than healthy individuals and patients with primary thyroid diseases. Progress in molecular and functional brain imaging techniques has provided a new understanding of these phenomena, illuminating the relationship between thyroid function, mood modulation and behavior. Thyroid hormones are widely distributed in the brain and have a multitude of effects on the central nervous system. Notably many of the limbic system structures where thyroid hormone receptors are prevalent have been implicated in the pathogenesis of mood disorders. The influence of the thyroid system on neurotransmitters (particularly serotonin and norepinephrine), which putatively play a major role in the regulation of mood and behavior, may contribute to the mechanisms of mood modulation. Recent functional brain imaging studies using positron emission tomography (PET) with [ (18)F]-fluorodeoxyglucose demonstrated that thyroid hormone treatment with levothyroxine affects regional brain metabolism in patients with hypothyroidism and bipolar disorder. Theses studies confirm that thyroid hormones are active in modulating metabolic function in the mature adult brain, and provide intriging neuroanatomic clues that may guide future research.",
+    "year": "2003",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "12169296",
+    "title": "Cellular perspectives on the glutamate-monoamine interactions in limbic lobe structures and their relevance for some psychiatric disorders.",
+    "abstract": "Dopaminergic, serotonergic and noradrenergic nuclei form the trimonoamine modulating system (TMMS). This system modulates emotional/motivational activities mediated by the limbic circuitry, where glutamate is the major excitatory neurotransmitter. Two main concepts are the basis of this review. First, since 1950 and the discovery of the antipsychotic activity of the dopamine D2 receptor antagonist chlorpromazine, it appears that drugs that can modulate the TMMS possess therapeutic psychiatric properties. Second, the concept of glutamate/trimonoamine imbalance in the cortico-striato-thalamo-cortical loop that has been so successful in explaining the pathophysiology of Parkinson disease has been applied in the pathophysiology of schizophrenia. This review will focus on the complex interactions between the fast synaptic glutamatergic transmission and the TMMS in specific parts of the limbic lobe and we will try to link these interactions to some psychiatric disorders, mainly depression, schizophrenia and drug addiction.",
+    "year": "2002",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "11154018",
+    "title": "The pathophysiology of agitation.",
+    "abstract": "Agitation is a nonspecific constellation of relatively unrelated behaviors that can be seen in a number of different clinical conditions, usually presenting a fluctuating course. Multiple underlying pathophysiologic abnormalities are mediated by dysregulations of dopaminergic, serotonergic, noradrenergic, and GABAergic systems. Pathophysiologic mechanisms of agitation that operate in the different clinical disorders where agitation occurs are discussed. These pathophysiologic abnormalities are not associated with distinct clinical features. Although there may be a final common pathway, there is no unifying etiologic pathophysiology. The author suggests that the clinician address the underlying pathophysiology through a treatment intervention that addresses the overarching psychiatric disorder. Generally, agents that reduce dopaminergic or noradrenergic tone or increase serotonergic or GABAergic tone will attenuate agitation, often irrespective of etiology.",
+    "year": "2000",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "11153812",
+    "title": "The nature of bipolar disorder.",
+    "abstract": "The underlying pathophysiology of bipolar disorder is a continually evolving complexity of multilayer interacting and independent systems. The dearth of adequate preclinical or clinical models that incorporate the various features of the illness, i.e., acute and chronic, recurrent and episodic, and time-course and treatment-related variables, has made the consistency and interpretation of data difficult. Newer technologies and the availability of structurally and mechanistically distinct pharmacologic agents have expanded opportunities for experimental study. In addition to the well-known neurotransmitter systems that are disrupted in mood disorders, critical guanine nucleotide-binding protein (G protein)-coupled signaling pathways are implicated in modulating mood state. Regulation of gene expression and identification of factors regulating neuroplasticity and neurotrophic events in the central nervous system in bipolar disorder are 2 of the more recent approaches contributing to clarification of the pathophysiology and potential treatment options.",
+    "year": "2000",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "2438125",
+    "title": "[Current hypotheses on the mechanism of action of lithium. I. Lithium and neuromediators].",
+    "abstract": "This paper intends to survey, clarify and organize the recent advances of research on the central action mechanism of lithium. A brief introduction relates the cation's \"medical history\" and analyses the evolution of what is known and hypothesized about various categories of psychotropics. In this article the metabolism of neuromediators and its disturbances are the subject of a detailed study. First reviewed is recent work concerning the aminergic theories of depression. Most of the other neuromediator systems are the subject of specific research projects and of these, the GABAergic hypothesis seems the most promising to date.",
+    "year": "1987",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "2984490",
+    "title": "GABA receptor agonists: pharmacological spectrum and therapeutic actions.",
+    "abstract": "From the data discussed in this review it appears that GABA receptor agonists exhibit a variety of actions in the central nervous system, some of which are therapeutically useful (Table V). GABA receptor agonists, by changing the firing rate of the corresponding neurons accelerate noradrenaline turnover without changes in postsynaptic receptor density and diminish serotonin liberation with an up-regulation of 5HT2 receptors. These effects differ from those of tricyclic antidepressants which primarily block monoamine re-uptake and cause down-regulation of beta-adrenergic and 5HT2 receptors. The GABA receptor agonist progabide has been shown to exert an antidepressant action which is indistinguishable from that of imipramine in patients with major affective disorders. The fact that: (a) GABA receptor agonists and tricyclic antidepressants affect noradrenergic and serotonergic transmission differently; and (b) tricyclic antidepressants alter GABA-related parameters challenges the classical monoamine hypothesis of depression and suggests that GABA-mediated mechanisms play a role in mood disorders. Decreases in cellular excitability produced by GABAergic stimulation leads to control of seizures in practically all animal models of epilepsy. GABA receptor agonists have a wide spectrum as they antagonize not only seizures which are dependent on decreased GABA synaptic activity but also convulsant states which are apparently independent of alterations in GABA-mediated events. These results in animals are confirmed in a wide range of human epileptic syndromes. GABA receptor agonists decrease dopamine turnover in the basal ganglia and antagonize neuroleptic-induced increase in dopamine release. On repeated treatment, progabide prevents or reverses the neuroleptic-induced up-regulation of dopamine receptors in the rat striatum and antagonizes the concomitant supersensitivity to dopaminomimetics. Behaviorally, GABA receptor agonists diminish the stereotypies induced by apomorphine or L-DOPA suggesting that GABAergic stimulation results also in an antidopaminergic action which is exerted beyond the dopamine synapse. These effects of GABA receptor agonists may represent the basis of the antidyskinetic action of these compounds which, however, remains to be fully confirmed. GABA receptor agonists reduce striatal acetylcholine turnover, an effect which occurs at doses much lower than those which affect dopamine neurons. Since hyperactivity of cholinergic neurons plays a determinant role in the pathogenesis of some parkinsonian symptoms, it is conceivable that GABAergic stimulation is effective in ameliorating Parkinson's disease.(ABSTRACT TRUNCATED AT 400 WORDS)",
+    "year": "1985",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "6390694",
+    "title": "A mechanism of mania and the chemistry of dreams: a hypothesis.",
+    "abstract": "A suggested cause of mania is asynchrony of two biologic clocks that are involved with the sleep-waking mechanism. Increased norepinephrine in the synaptic clefts of the locus ceruleus could quicken the pace of one clock. That same increase in norepinephrine is a possible inducer of euphoria and hyperactivity in mania. The action of melatonin and/or vasotocin on the dorsal raphe nucleus may induce the hallucinatory behavior in mania. Lithium corrects the psychosis by inhibiting adenylate cyclase and slowing the circadian rhythm.",
+    "year": "1984",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "6389093",
+    "title": "[The dexamethasone suppression test in depression. Critical review].",
+    "abstract": "Within the investigation of the neuroendocrinology of depression, the HPA axis exploration brings the most definite results. Biological measurements indicate an hyperactivity of this system in the endogenous depressions. The dexamethasone cortisol suppression test has been described by Liddle and Nugent and has been used by Carroll since 1970. A standardisation of the protocol is required; thus, within the endogenous deficiencies, either lack of cortisol suppression or cortisol suppression with an early escape are noticed. The various and hazardous reasons that make the results vary are discussed. The dexamethasone suppression test is a practical and useful tool for the diagnosis of endogenous depression (sensitivity above 65%, specificity and diagnostical value near 95%); for treatment management; and prognostic evaluation. From a theoretical aspect, the dexamethasone test enables us to delineate the nosology of the depressive disorder and to detect in childhood depression the same neuro-endocrinological features as noticed in adulthood depression. Physiopathological hypotheses within the norepinephrinergic and serotoninergic depression theories are detailed.",
+    "year": "1984",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "6318580",
+    "title": "The role of antidepressants in the treatment of affective disorders.",
+    "abstract": "The paper reviews studies of the effectiveness of antidepressants in acute depression and variables accounting for nonresponsiveness. Data supporting continuation and maintenance therapy are presented. The authors discuss nonspecific psychotherapeutic components of drug management and also review studies of the usefulness of antidepressant and psychotherapy, alone and in combination.",
+    "year": "1983",
+    "is_review": true,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "30179154",
+    "title": "ErbB4 deletion in noradrenergic neurons in the locus coeruleus induces mania-like behavior via elevated catecholamines.",
+    "abstract": "Dysfunction of the noradrenergic (NE) neurons is implicated in the pathogenesis of bipolar disorder (BPD). ErbB4 is highly expressed in NE neurons, and its genetic variation has been linked to BPD; however, how ErbB4 regulates NE neuronal function and contributes to BPD pathogenesis is unclear. Here we find that conditional deletion of ErbB4 in locus coeruleus (LC) NE neurons increases neuronal spontaneous firing through NMDA receptor hyperfunction, and elevates catecholamines in the cerebrospinal fluid (CSF). Furthermore, <i>Erbb4</i>-deficient mice present mania-like behaviors, including hyperactivity, reduced anxiety and depression, and increased sucrose preference. These behaviors are completely rescued by the anti-manic drug lithium or antagonists of catecholaminergic receptors. Our study demonstrates the critical role of ErbB4 signaling in regulating LC-NE neuronal function, reinforcing the view that dysfunction of the NE system may contribute to the pathogenesis of mania-associated disorder.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "29671235",
+    "title": "Evaluation of Neurotransmitter Alterations in Four Distinct Brain Regions After Rapid Eye Movement Sleep Deprivation (REMSD) Induced Mania-Like Behaviour in Swiss Albino Mice.",
+    "abstract": "A number of neurotransmitter systems have been implicated in contributing to the pathology of mood disorders, including those of dopamine (DA), serotonin (5-HT), norepinephrine (NE) and \u03b3-aminobutyric acid (GABA). Rapid eye movement sleep deprivation (REMSD) alters most of the neurotransmitters, which may have adverse behavioural changes and other health consequences like mania and other psychiatric disorders. The exact role of REMSD altered neurotransmitter levels and the manner in which emerging consequences lead to mania-like behaviour is poorly understood. Thus, we sought to verify the levels of neurotransmitter changes after 48, 72 and 96\u00a0h of REMSD induced mania-like behaviour in mice. We performed modified multiple platform (MMP) method of depriving the REM sleep and one group maintained as a control. To measure the hyperactivity through locomotion, exploration and behavioural despair, we performed the Open Field Test (OFT) and the Forced Swim Test (FST). Quantitative determinations of DA, 5-HT, NE and GABA concentrations in four distinct brain regions (cerebral cortex, hippocampus, midbrain, and pons) were determined by the spectrofluorimetric method. These experiments showed higher locomotion and increased swimming, struggling/climbing and decreased mobility among REMSD animals as well as disrupted concentrations of the majority of the studied neurotransmitters during REMSD. Our study indicated that REMSD results in mania-like behaviour in mice and associated disruption to neurotransmitter levels, although the exact mechanisms by which these take place remain to be determined.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "24971450",
+    "title": "The noradrenaline metabolite MHPG is a candidate biomarker from the manic to the remission state in bipolar disorder I: a clinical naturalistic study.",
+    "abstract": "Remission is the primary goal of treatment for bipolar disorder I (BDI). Metabolites of noradrenaline and dopamine, 3-methoxy-4-hydroxyphenylglycol (MHPG) and homovanillic acid (HVA), respectively, are reduced by treatment with antipsychotics, but whether these phenomena are caused by antipsychotics or by the pathophysiology of BDI is not known. Interactions between brain-derived neurotrophic factor (BDNF) and mood disorders have also been suggested. We conducted a multifaceted study in BDI patients to ascertain if biological markers are associated with the manic state. Patients with Young Mania Rating Scale (YMRS) scores >20 participated in the study. Final analyses involved 24 BDI patients (13 men and 11 women). We used YMRS scores to identify mania stages in individual BDI patients (i.e., manic syndrome, response and remission stages). Statistical analyses were done using one-way repeated-measures analyses of variance (rep-ANOVA) throughout manic syndrome, response and remission stages. Plasma concentrations of MHPG and HVA were analyzed by high-performance liquid chromatography with electrochemical detection. Plasma levels of BDNF were measured by sandwich enzyme-linked immunosorbent assay. BDI patients had significantly reduced plasma levels of MHPG throughout manic syndrome, response and remission stages (rep-ANOVA, p\u200a=\u200a0.002). Without a case of response state, there was a significant positive correlation between YMRS scores and plasma levels of MHPG (\u03c1\u200a=\u200a0.33, p\u200a=\u200a0.033, n\u200a=\u200a48). Plasma levels of HVA and BDNF were not significantly altered throughout manic syndrome, response and remission stages. These data suggest that the peripheral level of MHPG (which is associated with noradrenaline levels in the brain) could be used as a biomarker for the manic state in BDI. The MHPG level is likely to reflect the clinical characteristics of the manic syndrome in BDI, and noradrenaline may reflect the pathophysiology from manic to remission states.",
+    "year": "2014",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "24529917",
+    "title": "Is elevated norepinephrine an etiological factor in some cases of Parkinson's disease?",
+    "abstract": "It is well documented that norepinephrine (NE) releasing neurons in the locus coeruleus, a brainstem nucleus that is a major source of NE for the brain, degenerate during the progression of Parkinson's disease (PD). A number of studies also suggest that, as a result, there is less NE released in the brain during disease progression, which may contribute to the pathophysiology and symptomatology of PD. This paper puts forth the novel hypothesis that NE degeneration in PD is preceded by elevated NE signaling, mainly as a result of genetics, and that this elevation is a major etiological factor in the disease. In this scenario, long-term (if not lifelong) elevated NE signaling could eventually invoke compensatory mechanisms that result in noradrenergic, and possibly dopaminergic, cell death. Several lines of evidence are briefly reviewed on the relationship between NE signaling and PD, including studies of: the level of NE; drugs that increase or decrease NE signaling; the relationship between PD and bipolar disorder, hypertension, and obesity, since the latter three conditions may be associated with increased NE signaling; and the relationship between PD and psychological stress, since stress is associated with increased release of NE. Many of these studies support NE degeneration during the disease, although some are consistent with elevated NE signaling during disease progression. Because there are few data on the state of the NE system prior to disease onset, the central point of this paper that NE signaling is elevated prior to development of PD, remains largely hypothetical. If elevated NE signaling really is an etiological factor in this disease, then early identification of susceptible individuals and long-term treatment with NE transmission reducing drugs, may help prevent or slow progression of PD.",
+    "year": "2014",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "25236552",
+    "title": "The role of the aminergic systems in the pathophysiology of bipolar disorder.",
+    "abstract": "Bipolar disorder (BPD) is a major medical and social burden, but little is known about the specific pathophysiology of BPD. The key biogenic amines in the aminergic system include serotonin (5-HT), norepinephrine (NE), dopamine (DA), and acetylcholine (ACh). By analyzing these neurotransmitters, this chapter highlights three hypotheses in the pathophysiology of BPD: the biogenic amine hypothesis, the cholinergic-aminergic balance hypothesis, and the permissive hypothesis. Evidence from select studies of cerebrospinal fluid, postmortem subjects, neuroimaging, genetic factors, and pharmacological agents will be used to reconcile these hypotheses. Possible explanations for discrepancies in these hypotheses are given, and directions for future studies are suggested.",
+    "year": "2011",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "18402623",
+    "title": "Norepinephrine and serotonin imbalance in the locus coeruleus in bipolar disorder.",
+    "abstract": "Abnormalities in norepinephrine (NE) and serotonin (5-HT) are implicated in bipolar disorder (BD). We examined 5-HT input and NE neurons in the locus coeruleus (LC, the NE nucleus that innervates the forebrain) in BD by quantifying immunoreactivity (IR) for tyrosine hydroxylase (TH) and tryptophan hydroxylase (TPH), the biosynthetic enzymes for NE and 5-HT, respectively. Six suicides with BD were compared to matched normal controls and unipolar major depression suicides, using immunocytochemistry with computer-assisted quantification of immunoreactivity. Depressed bipolar suicides had 26.7 +/- 1.3% of LC area occupied by the TH immunoreactive (TH-IR) process, while controls had 50.7 +/- 8% (p = 0.002) and unipolar depressed suicides had 50.3 +/- 2.5% (p = 0.003). In bipolars, these processes did not stain as darkly (1.9 +/- 0.5 x background) as controls (2.9 +/- 0.9 x background; p = 0.01) or unipolars (2.9 +/- 0.6 x background; p = 0.002). Bipolar suicides also had less TPH-IR processes in the LC (11.7 +/- 10%) compared with controls (32.8 +/- 8.8%; p = 0.01) or unipolar suicides (30.3 +/- 8%; p = 0.02). The TPH-IR intensity did not differ between groups. We found less TH-IR and TPH-IR in the LC in depressed bipolar suicides, but not unipolar suicides, suggesting that both NE and 5-HT activity is lower in BD. Studies during manic or euthymic states will determine whether these changes are mood state dependent.",
+    "year": "2008",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "17869399",
+    "title": "Power based association analysis (PBAT) of serotonergic and noradrenergic polymorphisms in bipolar patients with suicidal behaviour.",
+    "abstract": "Suicidality is a major health concern worldwide particularly in affective disorder patients. Attempted suicide is familial. There is strong neurobiological evidence showing that serotonergic and noradrenergic dysfunction is implicated in suicidal behaviours. We will apply now a new family based association strategy aimed to explain the genetic influence in suicidal behaviour by power based association test statistics (PBAT) in 336 bipolar patients assessed for suicidality within nuclear families. By use of conditional power calculations, the approach screens all possible null hypotheses without biasing the nominal significance level, and it identifies the subset of phenotypes that has optimal power when tested for association by either univariate or multivariate family based association test (FBAT). Using this statistical approach (PBAT) we investigated polymorphisms in serotonergic and noradrenergic genes, considering suicidal behaviour severity instead of the dichotomous phenotype (presence of suicide attempt). COMT Val/Met polymorphism was not associated with suicide with high confidence (power=91%). On the other hand, the analysis of the other 12 markers in the adrenergic and serotonergic genes revealed that the TH allele tended towards association with higher severity of suicidal behaviour (p=0.060) but the power obtained was very low. The marginal finding of association between TH and severe suicidal behaviour are convergent with previous reports. On the other hand, our sample has enough power to exclude the other polymorphisms investigated as major candidate for suicidality in bipolar disorder.",
+    "year": "2008",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "16325918",
+    "title": "Sleeping in? The impact of age and depressive sub-type on hypersomnia.",
+    "abstract": "While early morning wakening is held to be a classic feature of melancholia, we investigate the clinical observation that young patients with melancholia and bipolar depression tend to be more likely to report hypersomnia. We examine age-related rates of those two sleep disturbance patterns in a consecutive set of out-patients with differing depressive sub-types assessed over a 20-year period. Hypersomnia was more likely to be reported than early morning wakening across all age bands by those with non-melancholic depression. Hypersomnia was also more likely than early morning wakening in younger patients with melancholia and bipolar disorder but, with age, early morning wakening became the dominant pattern. The study was retrospective, undertaken in a sample attending a tertiary referral unit and artefactual determinants of the associations were not pursued. We speculate that hypersomnia may be a non-specific homeostatic coping response to stress and thus to the non-melancholic depressive disorders, but that this pattern is overruled by an early morning wakening pattern in the more biological depressive sub-types as the individual ages, perhaps reflecting a noradrenergic contribution.",
+    "year": "2006",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "16038601",
+    "title": "Atypical antipsychotics in bipolar depression: potential mechanisms of action.",
+    "abstract": "\"Conventional\" antidepressants, such as the selective serotonin reuptake inhibitors (SSRIs), bupropion, or serotonin-norepinephrine reuptake inhibitors, are not recommended as monotherapy for bipolar depression. Although they are likely to provide effective symptom relief in combination with mood stabilizers, the risk of precipitating a switch to mania often complicates their use even as combination therapy. Recently, 2 psychotropic medications approved for treating acute mania, olanzapine and quetiapine, have also been shown to possess antidepressant activity without destabilizing mood and, as such, are potential mood stabilizers. This article aims to review the mechanism of action of conventional antidepressants and newer agents that are effective in the treatment of bipolar depression. A number of mechanisms have been postulated to play a role in the effective treatment of bipolar depression, including targets as diverse as serotonin (5-HT), norepinephrine, dopamine, gamma-aminobutyric acid (GABA), glutamate, and various second messenger signaling pathways. A review of the data reveals an important point of commonality among the antidepressant treatments, olanzapine, and quetiapine. Antidepressant treatments, such as norepinephrine reuptake inhibitors, SSRIs, and electroconvulsive therapy, induce a reduction of 5-HT(2A) receptors. Both olanzapine and quetiapine not only are antagonists at this receptor but also induce downregulation of 5-HT(2A) receptors. It is possible that the antidepressant efficacy of these agents is mediated by this receptor, while the additional benefit of olanzapine and quetiapine over unimodal antidepressant treatments, in terms of stabilizing mood, may be provided by their concomitant dopamine D(2) antagonism. Further studies should be conducted to examine these hypotheses.",
+    "year": "2005",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "14550930",
+    "title": "Recognition of childhood depression: personal reminiscences.",
+    "abstract": "Prior to 1970, childhood depression was not considered a valid clinical entity by American psychiatrists. One of the early clues was provided in the 1950s by the author's observation of depressive symptoms in children and young adolescents with undescended testicles. This finding was extended to children with several chronic diseases, many of whom exhibited depressive symptoms as well. Eventually, depressive symptomatology was found in children without any physical disorders. This was followed by the introduction of a diagnostic instrument, called the Children's Affective Rating Scale (CARS), later converted into a more formal system called the Child Assessment Schedule (CAS). A provisional classification of childhood depression was published in 1972. Our examination of children with depressive disorders has revealed several modes of family interaction, of which the most important were: separation from important love objects; depreciation and rejection; and affective disorders in parents. Several children with bipolar disorder stimulated our interest in this disorder and led to a pilot study of children of bipolar, lithium-responding parents. Some of these children with bipolar illness had a clear-cut response to lithium and were strong augmenters of the average evoked potentials (EPs). Next, our group investigated the urinary excretion of norepinephrine and its metabolites in chronically depressed children who differed from a normal control group. The foregoing studies, along with major contributions by other child psychiatrists, eventually led to the acceptance of childhood depression as a clinical entity in US psychiatry. The acceptance of juvenile bipolar disorder had to await further research by a new generation of child and adult psychiatrists.",
+    "year": "2003",
+    "is_review": false,
+    "publication_types": [
+      "Historical Article",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "12409687",
+    "title": "Dysphoric mania induced by high-dose mirtazapine: a case for 'norepinephrine syndrome'?",
+    "abstract": "The antidepressant mirtazapine antagonizes central presynaptic alpha2-adrenergic auto- and heteroreceptors resulting in increased central norepinephrine and serotonin activity. Histamine H2 receptors are also antagonized, as are postsynaptic serotonin 5-HT2 and 5-HT3 receptors, leading to serotonergic activity primarily via 5-HT1A receptors. Based on the case report of a patient who developed mania with higher than recommended dosage of mirtazapine, we review the literature on the atypical nature of manic symptoms with mirtazapine. Eight subjects, including those in our study, were identified as having developed mirtazapine-induced mania with atypical features, consisting of dysphoria, irritability, insomnia, psychomotor agitation and abnormal gait. Predisposing features may have included the presence of underlying brain dysfunction and certain selective serotonin reuptake inhibitor-mirtazapine combinations. Dysphoric mania with atypical features may be induced by mirtazapine, providing support for a common hypothesis such as 'central norepinephrine hyperactivity' as the basis for development of mania with mirtazapine.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Case Reports",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "12429357",
+    "title": "Epinephrine- and thrombin-stimulated high-affinity GTPase activity in platelet membranes from patients with psychiatric disorders.",
+    "abstract": "Although heterotrimeric guanine nucleotide-binding regulatory (G) proteins have been implicated in the pathophysiology of mental illnesses (especially mood disorders), direct evidence has been scarce. This study was designed to reveal possible abnormalities of receptor-coupled G protein function in platelets in patients with psychiatric disorders such as depression and schizophrenia. The functional status of alpha(2A)-adrenergic receptor-coupled G(i2) and thrombin receptor-coupled G proteins (G(i2)+G(q)) was determined by the increase in high-affinity GTPase activity in response to epinephrine and thrombin, respectively, in platelet membranes from 18 patients with mood disorders (15 unipolar and three bipolar subtype), 13 schizophrenic patients, four neurotic patients and 29 healthy control subjects. Neither alpha(2A)-adrenergic receptor-coupled G(i2) nor thrombin receptor-coupled G(q) was functionally altered in platelets from psychiatric patients compared with control subjects. No significant correlation was observed between these biochemical measures in platelets and severity of psychopathological symptoms. The functional coupling efficiency of G proteins with receptors appears intact, at least between alpha(2A)-adrenergic receptors and G(i2), and between thrombin receptors and G(q), in platelets from patients with psychiatric disorders.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "11877547",
+    "title": "Plasma hormones and catecholamine metabolites in monozygotic twins discordant for psychosis.",
+    "abstract": "To examine plasma cortisol, adrencorticotropin hormone, and indicators of catecholamine activity in monozygotic twins discordant for schizophrenia or major affective disorders. Previous research has suggested that catecholamines play a role in the etiology of major mental illness. Several findings have also shown an inverse relation between hippocampal volume and cortisol levels in psychiatric populations including patients who are depressed and patients with Cushing disease. In this study, plasma obtained from monozygotic twin pairs discordant for schizophrenia (n = 10) or major affective disorder (n = 3) was assayed for epinephrine, norepinephrine, dihydroxyphenylacetic acid, homovanillic acid, adrencorticotropin hormone, and cortisol. There was significant concordance for levels of dihydroxyphenylacetic acid and homovanillic acid, consistent with the high concordance for indicators of dopamine activity observed in healthy monozygotic pairs. There was also concordance for adrencorticotropin hormone. However, in contrast to findings on healthy monozygotic pairs, there was no relation for epinephrine, norepinephrine, or cortisol. Among patients, there was an inverse correlation between cortisol and the magnitude of the reduction in hippocampal volume, relative to that of the healthy co-twin. These findings suggest the potential role of adrenal steroids and hippocampal function in the expression of psychosis.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Twin Study"
+    ]
+  },
+  {
+    "pmid": "12097806",
+    "title": "A polymorphism of the norepinephrine transporter gene in bipolar disorder and schizophrenia: lack of association.",
+    "abstract": "Norepinephrine is one of the neurotransmitters which has been implicated in the pathogenesis of mood disorders and schizophrenia. The norepinephrine transporter (NET) gene may be a candidate gene for the study of the genetics of these disorders. In this study, 198 patients with schizophrenia and 100 patients with bipolar disorder were analysed for a silent mutation 1287 A/G, located in the coding region (exon 9) of the NET gene, to determine the association between this polymorphism of the NET gene and bipolar disorder or schizophrenia. No association was found between the studied polymorphism of the NET gene and either bipolar disorder or schizophrenia.",
+    "year": "2002",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "10641586",
+    "title": "Mania: gender, transmitter function, and response to treatment.",
+    "abstract": "Noradrenergic and GABA systems may be involved in mania, but there is little information about relationships between the function of these systems and response to specific antimanic treatments. We investigated relationships between indices of catecholamine or GABA system function, pretreatment mania severity and antimanic response to divalproex, lithium, or placebo. Plasma GABA and urinary excretion of catecholamine metabolites were measured before randomization to lithium, divalproex or placebo in patients hospitalized for manic episodes. Severity of mania was evaluated using the Manic Syndrome, Behavior and Ideation and Mania Rating Scale scores from the SADS-C. Multiple regression analysis showed that pretreatment plasma GABA was related to severity of manic symptoms. This relationship seemed stronger in women. Multiple regression analysis showed that pretreatment levels of urinary MHPG correlated with improvement in manic syndrome scores. These data suggest that GABA and norepinephrine may be related to different aspects of the manic state and to its pharmacologic sensitivity.",
+    "year": "1999",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "10512151",
+    "title": "Catecholamines in depression: a cumulative study of urinary norepinephrine and its major metabolites in unipolar and bipolar depressed patients versus healthy volunteers at the NIMH.",
+    "abstract": "Studies comparing urinary norepinephrine (NE) and its metabolites in unipolar or bipolar depressed patients and healthy volunteers have not yielded consistent findings. However, in unipolar depressed patients, most studies in non-elderly populations consistently report elevated concentrations of plasma NE, at least following an orthostatic challenge. Expanding upon previous studies which showed elevated plasma NE in depression, we compared the urinary excretion of NE, normetanephrine (NMN), 3-methoxy-4-hydroxyphenylglycol (MHPG), and vanillylmandelic acid (VMA) in age- and sex-matched unipolar and bipolar depressed patients versus healthy volunteers hospitalized at an inpatient unit at the National Institute of Mental Health. Only depressed subjects with a minimum 4-week drug-free period were included. Total turnover (NE + NMN + MHPG + VMA) was reduced in this sample of unipolar and bipolar depressed patients. MHPG concentration did not distinguish unipolar from bipolar depressed patients and was not significantly different from that in healthy volunteers. A construct of the average fractional extraneuronal concentration of NE (NE + NMN/NE + NMN + MHPG + VMA) was significantly higher in unipolar and bipolar depressed patients than in healthy volunteers. This finding extends data suggesting that unmedicated unipolar and bipolar depressed patients have a 'hyperresponsive' noradrenergic system and provides a framework which ties together plasma and urinary findings.",
+    "year": "1999",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "9035891",
+    "title": "[Catecholamine changes in patients with depression under the action of high-intensity light].",
+    "abstract": "Preponderance in depression of the melancholy affect was characterized by a drop in the level of norepinephrine (NE) and rise in epinephrine (E). Exposure to light was associated with fall in E, with no change recordable in NE. In anxious depression, following light therapy, high levels of excretion of both catecholamines tended to return to normal. Ligh was found to cause opposite changes in the quantitative measures depending upon the initial value for the E:NE ratio (above or below control).",
+    "year": "1996",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "8821315",
+    "title": "Predictive value of tryptophan/large neutral amino acids ratio to antidepressant response.",
+    "abstract": "The molar ratio of total plasma tryptophan to the sum of other large neutral amino acids (viz., valine, isoleucine, leucine, tyrosine, phenylalanine), thought to reflect brain serotonin formation, was estimated in 69 patients with major depression before and after 1 week of treatment with different serotonin reuptake inhibitors, fluvoxamine (n = 28), fluoxetine (n = 10), citalopram (n = 7), mixed serotonin-noradrenaline reuptake inhibitor amitriptyline (n = 11), clomipramine (n = 8) and the preferentially noradrenaline reuptake inhibitor, nortriptyline (n = 5). A significant difference among 'good', 'intermediate' and 'poor' responders for the percentual variation of tryptophan/large neutral amino acids ratio after 1 week of therapy was found, while pretreatment values of tryptophan/large neutral amino acids ratio, basal Hamilton Depression Rating Scale scores and its percentual variation after 1 week of therapy did not show any significant differences. These results suggest that the percentual variation of tryptophan/large neutral amino acids ratio could be a useful tool in predicting drug response.",
+    "year": "1996",
+    "is_review": false,
+    "publication_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "7790677",
+    "title": "Urinary catecholamines and plasma hormones predict mood state in rapid cycling bipolar affective disorder.",
+    "abstract": "Over the course of 1 year, a patient with a rapid cycling bipolar affective disorder was followed at weekly intervals to examine whether plasma hormones and urinary catecholamines could predict current or future mood. Higher cortisol levels were found to predict depressed mood 3 days after blood sampling, higher urinary dopamine predicted a manic mood 3 days after blood sampling, urinary norepinephrine was associated with severity of current mood and prolactin was lower with concurrent depressed mood. In multivariate analyses of mood against cortisol, prolactin and three urinary catecholamines, > 50% of the variance in mood state in 3 days was explained by combinations of these biologic measures, especially cortisol and urinary dopamine, while all five biologic variables contributed to explaining 50% of the variance in current mood state. Based on the interrelationships between urinary dopamine, norepinephrine and mood, we postulate the existence of an overcompensating mechanism which is reflected in opposing correlations between urinary dopamine and norepinephrine with mood, despite the two urinary catecholamines being positively correlated.",
+    "year": "1995",
+    "is_review": false,
+    "publication_types": [
+      "Case Reports",
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "7786958",
+    "title": "Diurnal neuroendocrine and autonomic function in acute and remitted depressed male patients.",
+    "abstract": "This study evaluated diurnal data gathered hourly (1000 to 1800 hours) in males during acute depression and during remission of depression and in age-range/gender-matched normal controls. Mean, peak, variability, and time-course of the noradrenergic metabolite, plasma 3-methoxy, 4-hydroxyphenylglycol [MHPG]), plasma cortisol, and autonomic (mean arterial blood pressure [MAP] and heart rate) variables were examined. Compared to controls, acutely depressed, but not remitted depressed, patients had 1) an earlier plasma MHPG peak, 2) a greater intragroup variability of plasma MHPG, 3) a higher plasma cortisol concentration, 4) a lower MAP, and 5) tended to increase MAP more slowly than did the normal controls. The time course of diurnal heart rate also differed in acutely depressed patients from controls: acutely depressed patients started higher and converged by midday to normal levels. These diurnal data lend limited support to the dysregulation hypotheses of depression that suggest normal circadian rhythmicities are altered or disrupted in acute depression and that peripheral manifestations of central dysregulation normalize in remission of depression.",
+    "year": "1995",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "7530963",
+    "title": "Drug-induced actions on brain neurotransmitter systems and changes in the behaviors and emotions of depressed patients.",
+    "abstract": "Despite cumulative evidence that the tricyclic drugs result in significant changes in the functioning of brain serotonergic (5-HT) and nordrenergic (NE) systems, such changes have not been found to be associated with recovery from depression. Based upon evidence that the 5-HT and NE systems were associated with different emotions, it was hypothesized that changes in these systems were associated with different components of behavior in drug-responsive patients and not with changes in the \"whole\" disorder. Findings from this multihospital study of 104 unipolar and bipolar depressed patients showed early drug-associated reductions in anxiety and hostility in treatment responders to precede changes in motor retardation and depressed mood. Adopting this approach of looking for relationships between changes in components of major depression and changes in neurotransmitter system function, decreases in 5-HT and NE metabolite concentrations in cerebrospinal fluid (CSF) in patients treated with tricyclics, were found to be correlated with changes in specific behaviors. Results indicated the following: (1) drug-induced changes in the 5-HT system to be associated with mood aspects, notably anxiety, and depressed mood; changes in NE primarily with the psychomotor, secondarily with the mood components of the depressed state; (2) the pattern of relationships between changes in 5-HT and in mood in the unipolar was different than that in the bipolar subtype. The results indicate that in determining the relationships of biochemical changes to behavioral ones, that it is important to take into account the type of depression (bipolar or unipolar), as well as examining individually and over time those components that make up the disorder of depression. These results support evidence that tricyclics have multiple behavioral actions, that response is mediated through changes in specific behaviors and that this approach warrants further application in prospective studies of antidepressant drug mechanisms and their therapeutic actions.",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Clinical Trial",
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  {
+    "pmid": "7527564",
+    "title": "Effects of monoamine oxidase A inhibition on plasma biogenic amine metabolites in depressed patients.",
+    "abstract": "The main metabolites of noradrenalin, dopamine, and serotonin-3-methoxy-4-hydroxyphenylglycol (MHPG), homovanillic acid (HVA), and 5-hydroxyindoleacetic acid (5-HIAA), respectively--were estimated in plasma of 21 depressed patients before and after 2 and 4 weeks of treatment with the monoamine oxidase-type A (MAO-A) inhibitor moclobemide (mean final daily dose = 8.9 mg/kg body weight). The treatment caused significant mean reductions in plasma MHPG and HVA (46% and 30%, respectively), while plasma 5-HIAA was unchanged. Multiple regression analysis revealed associations between reductions in MHPG and changes on the anxiety-somatization factor of the Hamilton Rating Scale for Depression (HRSD), and between reductions in HVA and changes in the HRSD factors cognitive disturbance and retardation.",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "7911133",
+    "title": "Cerebral cortex beta-adrenoceptor binding in bipolar affective disorder.",
+    "abstract": "Beta-Adrenoceptor density was measured in cerebral cortex membranes obtained postmortem from age-matched controls and subjects with bipolar disorder (BD). [125I]Iodopindolol (PIN) binding performed using a single point concentration was not different in frontal, occipital or temporal cortex in BD. Scatchard analysis of [125I]PIN binding in temporal cortex confirmed the lack of differences in binding density and no changes in KD between these two subject groups. These findings do not support alterations in the density or affinity of beta-adrenoceptor binding in cerebral cortex in BD.",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "7513191",
+    "title": "Reduced brain 5-HT and elevated NE turnover and metabolites in bipolar affective disorder.",
+    "abstract": "Levels of norepinephrine (NE), serotonin (5-HT), dopamine (DA), and their major metabolites were determined in postmortem brain obtained from nine subjects with antemortem histories meeting DSM-III-R criteria for bipolar affective disorder. Compared with controls, no statistically significant differences were found in mean levels of NE, 5-HT, or DA in any brain area of bipolar subjects. NE turnover as estimated by the ratio of the major NE metabolite, 3-methoxy-4-hydroxyphenylethyleneglycol (MHPG) to NE was increased in frontal (+107%), temporal (+103%), and occipital (+64%) cortex and thalamus (+83%). Significant decreases were found in the major 5-HT metabolite 5-hydroxyindoleacetic acid (5-HIAA), in frontal (-54%) and parietal cortex (-64%), and in 5-HIAA/5-HT ratio in temporal cortex (-55%), with a trend for decreases in both measures in caudate nucleus. In addition, levels of the major DA metabolite, homovanillic acid (HVA) were significantly decreased (-46%) in parietal cortex and HVA/DA ratios were significantly reduced (-66%) in occipital cortex obtained from bipolar compared to control subjects. Our data, taken together with previous findings regarding monoamines in postmortem brain of depressed and suicide subjects, suggest that decreased 5-HT metabolite levels and turnover may be common to all mood disorders. Increased cortical NE turnover, however, may be a more important component in the pathophysiology of bipolar disorder.",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "7910975",
+    "title": "CSF and plasma MHPG, and CSF MHPG index: pretreatment levels in diagnostic groups and response to somatic treatments.",
+    "abstract": "The authors report a significant positive correlation between levels of 3-methoxy-4-hydroxyphenylglycol (MHPG) in cerebrospinal fluid (CSF) and plasma in drug-free affective disorder patients (major depression, mania, and schizoaffective disorder), but not in schizophrenia. Recent kinetic studies on the relationship between plasma and CSF MHPG discourage the interpretation of independent CSF MHPG levels without correction for the diffusion of MHPG across the blood-brain barrier. The authors therefore examine pretreatment CSF and plasma MHPG levels, and the CSF MHPG index (CSF MHPG corrected for by using simultaneously obtained plasma MHPG according to the method of Kopin et al. [1983]). No significant differences were found in these pretreatment MHPG measures among the four diagnostic groups. Changes in these MHPG indices, and their correlations with behavioral rating scores, are also examined with respect to response to the four major somatic therapies (neuroleptics, lithium, antidepressants, and electroconvulsive therapy).",
+    "year": "1994",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "7681996",
+    "title": "Biogenic amines in seasonal affective disorder: effects of light therapy.",
+    "abstract": "Wintertime measures of central and peripheral monoamine neurotransmitter system activity in 17 medication-free depressed patients with seasonal affective disorder (SAD) were compared with those in eight healthy volunteers. Mean cerebrospinal fluid (CSF) concentrations of the principal metabolites of norepinephrine (NE), serotonin, and dopamine did not differ between the two groups, nor did mean basal or orthostatically stimulated plasma NE levels. Patients' pretreatment depression ratings were inversely correlated with resting plasma NE concentrations. Fourteen SAD patients were clear responders to 2 weeks of full-spectrum bright light treatment. Neither the transmitter measures nor their interrelatedness was affected significantly by phototherapy.",
+    "year": "1993",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  }
 ]

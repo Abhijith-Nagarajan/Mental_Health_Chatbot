@@ -1,127 +1,554 @@
 [
-    {
-        "title": "Plausible therapeutic effects of melatonin and analogs in the dopamine-associated pathophysiology of bipolar disorder.",
-        "abstract": "Bipolar disorder (BD) is a significant neuropsychiatric condition characterized by marked psychological mood disturbances. Despite extensive research on the symptomatology of BD, the mechanisms underlying its development and presentation remain unknown. Consequently, potential treatments are limited, and existing medications often cause significant side effects, leading to treatment discontinuation. Dopamine (DA) has been implicated in behavioral regulation, reward systems, and mood, highlighting the importance of the dopaminergic system in BD. Elevated levels of DA and tyrosine hydroxylase are associated with the onset of manic episodes, whereas reduced levels are linked to the depressive phase. Additionally, endogenous melatonin (MEL) levels are considerably lower in patients with BD. When administered as a treatment, exogenous MEL and MEL agonists improve behavioral characteristics and significantly modulate DA-related pathophysiological pathways in BD, with minimal adverse effects achieved through MEL receptor activation. Moreover, MEL and MEL agonists offer neuroprotection by promoting physiological homeostasis during disruption. The aim of this review is to investigate and propose MEL receptors as potential novel therapeutic targets for BD. This review seeks to analyze the role of MEL and its agonists in modulating dopamine-related pathophysiological pathways, improving behavioral outcomes, and providing neuroprotection with minimal side effects.",
-        "year": "2025"
-    },
-    {
-        "title": "Mesolimbic dopamine neurons drive infradian rhythms in sleep-wake and heightened activity state.",
-        "abstract": "Infradian mood and sleep-wake rhythms with periods of 48 hours and beyond have been observed in patients with bipolar disorder (BD), which even persist in the absence of exogenous timing cues, indicating an endogenous origin. Here, we show that mice exposed to methamphetamine in drinking water develop infradian locomotor rhythms with periods of 48 hours and beyond which extend to sleep length and manic state-associated behaviors in support of a model for cycling in BD. The cycling capacity is abrogated upon genetic disruption of dopamine (DA) production in DA neurons of the ventral tegmental area (VTA) or ablation of nucleus accumbens projecting DA neurons. Furthermore, chemogenetic activation of <sup>VTA</sup>DA neurons including those that project to the nucleus accumbens led to locomotor period lengthening in circadian clock-deficient mice, which was counteracted by antipsychotic treatment. Together, our findings argue that BD cycling relies on infradian rhythm generation that depends on mesolimbic DA neurons.",
-        "year": "2025"
-    },
-    {
-        "title": "The dopamine transporter inhibition using GBR 12909 as a novel pharmacological tool to assess bipolar disorder-like neurobehavioral phenotypes in zebrafish.",
-        "abstract": "Dopamine (DA) is a neurotransmitter that plays an important role in brain physiology. Changes in DA-mediated signaling have been implicated with the pathophysiology of various neuropsychiatric conditions. Bipolar disorder (BD) is a mental disorder, characterized by alterning between manic/hypomanic and depressive mood. In experimental research, the pharmacological inhibition of DA reuptake using GBR 12909 serves as a tool to elicit BD-like phenotypes. Alternative model organisms, such as the zebrafish (Danio rerio), have been considered important systems for investigating the neurobehavioral changes involved in different neuropsychiatric conditions, including BD. Here, we discuss the use of GBR 12909 as a novel pharmacological strategy to mimic BD-like phenotypes in zebrafish models. We also emphasize the well-conserved DA-mediated signaling in zebrafish and the early expression of dopaminergic biomarkers in the brain, especially focusing on dopamine transporter (DAT), the main target of GBR 12909. Finally, we discuss potential advantages and limitations in the field, the perspectives of using GBR 12909 in BD research, and how distinct validation criteria (i.e., face, predictive, and construct validity) can be assessed in translational approaches using zebrafish-based models.",
-        "year": "2025"
-    },
-    {
-        "title": "Impact of Serotonin Deficiency on Circadian Dopaminergic Rhythms.",
-        "abstract": "Physiology and behavior are structured temporally to anticipate daily cycles of light and dark, ensuring fitness and survival. Neuromodulatory systems in the brain-including those involving serotonin and dopamine-exhibit daily oscillations in neural activity and help shape circadian rhythms. Disrupted neuromodulation can cause circadian abnormalities that are thought to underlie several neuropsychiatric disorders, including bipolar mania and schizophrenia, for which a mechanistic understanding is still lacking. Here, we show that genetically depleting serotonin in <i>Tph2</i> knockout mice promotes manic-like behaviors and disrupts daily oscillations of the dopamine biosynthetic enzyme tyrosine hydroxylase (TH) in midbrain dopaminergic nuclei. Specifically, while TH mRNA and protein levels in the Substantia Nigra (SN) and Ventral Tegmental Area (VTA) of wild-type mice doubled between the light and dark phase, TH levels were high throughout the day in <i>Tph2</i> knockout mice, suggesting a hyperdopaminergic state. Analysis of TH expression in striatal terminal fields also showed blunted rhythms. Additionally, we found low abundance and blunted rhythmicity of the neuropeptide cholecystokinin (Cck) in the VTA of knockout mice, a neuropeptide whose downregulation has been implicated in manic-like states in both rodents and humans. Altogether, our results point to a previously unappreciated serotonergic control of circadian dopamine signaling and propose serotonergic dysfunction as an upstream mechanism underlying dopaminergic deregulation and ultimately maladaptive behaviors.",
-        "year": "2024"
-    },
-    {
-        "title": "Anti-manic effect of deep brain stimulation of the ventral tegmental area in an animal model of mania induced by methamphetamine.",
-        "abstract": "Treatment of refractory bipolar disorder (BD) is extremely challenging. Deep brain stimulation (DBS) holds promise as an effective treatment intervention. However, we still understand very little about the mechanisms of DBS and its application on BD. The present study aimed to investigate the behavioural and neurochemical effects of ventral tegmental area (VTA) DBS in an animal model of mania induced by methamphetamine (m-amph). Wistar rats were given 14\u2009days of m-amph injections, and on the last day, animals were submitted to 20\u2009min of VTA DBS in two different patterns: intermittent low-frequency stimulation (LFS) or continuous high-frequency stimulation (HFS). Immediately after DBS, manic-like behaviour and nucleus accumbens (NAc) phasic dopamine (DA) release were evaluated in different groups of animals through open-field tests and fast-scan cyclic voltammetry. Levels of NAc dopaminergic markers were evaluated by immunohistochemistry. M-amph induced hyperlocomotion in the animals and both DBS parameters reversed this alteration. M-amph increased DA reuptake time post-sham compared to baseline levels, and both LFS and HFS were able to block this alteration. LFS was also able to reduce phasic DA release when compared to baseline. LFS was able to increase dopamine transporter (DAT) expression in the NAc. These results demonstrate that both VTA LFS and HFS DBS exert anti-manic effects and modulation of DA dynamics in the NAc. More specifically the increase in DA reuptake driven by increased DAT expression may serve as a potential mechanism by which VTA DBS exerts its anti-manic effects.",
-        "year": "2024"
-    },
-    {
-        "title": "Association of neurotransmitter pathway polygenic risk with specific symptom profiles in psychosis.",
-        "abstract": "A primary goal of psychiatry is to better understand the pathways that link genetic risk to psychiatric symptoms. Here, we tested association of diagnosis and endophenotypes with overall and neurotransmitter pathway-specific polygenic risk in patients with early-stage psychosis. Subjects included 205 demographically diverse cases with a psychotic disorder who underwent comprehensive psychiatric and neurological phenotyping and 115 matched controls. Following genotyping, we calculated polygenic scores (PGSs) for schizophrenia (SZ) and bipolar disorder (BP) using Psychiatric Genomics Consortium GWAS summary statistics. To test if overall genetic risk can be partitioned into affected neurotransmitter pathways, we calculated pathway PGSs (pPGSs) for SZ risk affecting each of four major neurotransmitter systems: glutamate, GABA, dopamine, and serotonin. Psychosis subjects had elevated SZ PGS versus controls; cases with SZ or BP diagnoses had stronger SZ or BP risk, respectively. There was no significant association within psychosis cases between individual symptom measures and overall PGS. However, neurotransmitter-specific pPGSs were moderately associated with specific endophenotypes; notably, glutamate was associated with SZ diagnosis and with deficits in cognitive control during task-based fMRI, while dopamine was associated with global functioning. Finally, unbiased endophenotype-driven clustering identified three diagnostically mixed case groups that separated on primary deficits of positive symptoms, negative symptoms, global functioning, and cognitive control. All clusters showed strong genome-wide risk. Cluster 2, characterized by deficits in cognitive control and negative symptoms, additionally showed specific risk concentrated in glutamatergic and GABAergic pathways. Due to the intensive characterization of our subjects, the present study was limited to a relatively small cohort. As such, results should be followed up with additional research at the population and mechanism level. Our study suggests pathway-based PGS analysis may be a powerful path forward to study genetic mechanisms driving psychiatric endophenotypes.",
-        "year": "2024"
-    },
-    {
-        "title": "Association Between Bipolar Disorder and Parkinson's Disease.",
-        "abstract": "Bipolar disorder and Parkinson's disease are two distinct neurological conditions that share common features related to dopaminergic dysfunction. This article presents a comprehensive review of the existing literature to investigate the association between bipolar disorder and Parkinson's disease, focusing on the dopaminergic hypothesis and potential therapeutic options. The dopaminergic hypothesis suggests that both bipolar disorder and Parkinson's disease involve impairments in the nigrostriatal or mesolimbic dopaminergic pathways. Studies have demonstrated alterations in dopamine regulation during manic and depressive phases of bipolar disorder. Similarly, Parkinson's disease is characterized by the loss of dopaminergic neurons in the substantia nigra, resulting in motor symptoms. Recent analyses have highlighted a predisposition to Parkinson's disease in individuals with bipolar disorder. Longitudinal studies and meta-analyses have demonstrated an increased risk of developing Parkinson's disease in patients with bipolar disorder. However, differentiating idiopathic Parkinson's disease from parkinsonism induced by medications used in bipolar disorder can be challenging. Dopamine transporter (DAT) scans can aid in making a differential diagnosis. Treatment options for patients with both bipolar disorder and Parkinson's disease are limited. Neuroleptics, commonly used to manage psychotic symptoms in Parkinson's disease, may worsen motor symptoms and have limitations in bipolar disorder patients. Clozapine has shown efficacy in treating psychosis without worsening motor symptoms. Pimavanserin, an inverse agonist of the 5-HT2A receptor can offer new opportunities. However, its efficacy in bipolar disorder patients with Parkinson's disease remains unexplored. In conclusion, the association between bipolar disorder and Parkinson's disease is supported by the involvement of the dopaminergic system in both conditions. The identification of shared mechanisms opens new avenues for potential therapeutic interventions. Further research is needed to investigate the efficacy of pimavanserin and explore other treatment options for individuals with both bipolar disorder and Parkinson's disease.",
-        "year": "2023"
-    },
-    {
-        "title": "Social cognitive deficit is associated with visuomotor coordination impairment and dopamine transporter availability in euthymic bipolar disorder.",
-        "abstract": "Extensive evidence has suggested functional connections between co-occurring visuomotor and social cognitive deficits in neuropsychiatric disorders; however, such association has not been studied in bipolar disorder (BD). We aimed to investigate the relationship between visuomotor coordination and social cognition in the euthymic stage of BD (euBD). Given the shared neurobiological underpinnings involving the dopaminergic system and corticostriatal circuitry, we hypothesized a positive correlation between social cognition and visuomotor coordination in euBD patients. 40 euBD patients and 59 healthy control (HC) participants underwent evaluation of social (Diagnostic Analysis of Nonverbal Accuracy 2-Taiwan version (DANVA-2-TW)), non-social cognitive function and visuomotor coordination. A subgroup of participants completed single-photon emission computed tomography for striatal dopamine transporter (DAT) availability assessment. EuBD patients showed impaired nonverbal emotion recognition (ps\u00a0\u2264\u00a00.033) and poorer visuomotor coordination (ps\u00a0<\u00a00.003) compared to HC, with a positive correlation between these two abilities (r\u00a0=\u00a00.55, p\u00a0<\u00a00.01). However, after considering potential confounding factors, instead of visuomotor coordination, striatal DAT availability was a unique predictor of emotion recognition accuracy in euBD (beta\u00a0=\u00a00.33, p\u00a0=\u00a00.001). Our study result supported a functional association between social cognition and visuomotor coordination in euBD, with striatal dopaminergic dysfunction emerged as a crucial contributing factor in their interrelation.",
-        "year": "2023"
-    },
-    {
-        "title": "Evaluating lumateperone for its use in treating depressive episodes associated with bipolar I or II disorder in adults.",
-        "abstract": "Lumateperone is a novel antipsychotic medication that has recently received approval by the United States Food and Drug Administration for treatment of major depressive episodes of type I and II bipolar disorder. It is approved for use as monotherapy or as an adjunctive treatment to lithium or valproic acid. Clinical trials performed with lumateperone for bipolar disorder were reviewed. Additionally, pharmacodynamic actions of lumateperone are reviewed. Lumateperone is superior to placebo whether used alone or in combination with a mood stabilizer in patients with type I or type II bipolar disorder. It achieves this effect with minimal dopamine blockade-related side effects due to less than 50% dopamine D2 receptor occupancy. While the pharmacodynamic profile of lumateperone is unique, the mechanism of action in bipolar depression remains obscure. Lumateperone is an antipsychotic with full antagonist effects at the post-synaptic D2, and partial agonist effects at the presynaptic D2. This unique profile allows for both antipsychotic and antidepressant effects at the same dose, which does not produce dopamine-related side effects. Consequently, lumateperone is exceptionally well tolerated compared to other antidepressant-acting antipsychotic agents. It is now the only agent approved as an adjunct to the mood stabilizer for bipolar II depression.",
-        "year": "2023"
-    },
-    {
-        "title": "Mood and behavior regulation: interaction of lithium and dopaminergic system.",
-        "abstract": "Lithium is one of the most effect mood-stabilizing drugs prescribed especially for bipolar disorder. Lithium has wide range effects on different molecular factors and neural transmission including dopaminergic signaling. On the other hand, mesolimbic and mesocortical dopaminergic signaling is significantly involved in the pathophysiology of neuropsychiatric disorders. This review article aims to study lithium therapeutic mechanisms, dopaminergic signaling, and the interaction of lithium and dopamine. We concluded that acute and chronic lithium treatments often reduce dopamine synthesis and level in the brain. However, some studies have reported conflicting results following lithium treatment, especially chronic treatment. The dosage, duration, and type of lithium administration, and the brain region selected for measuring dopamine level were not significant differences in different chronic treatments used in previous studies. It was suggested that lithium has various mechanisms affecting dopaminergic signaling and mood, and that many molecular factors can be involved, including brain-derived neurotrophic factor (BDNF), cAMP response element-binding protein (CREB), \u03b2-catenin, protein kinase B (Akt), and glycogen synthase kinase-3 beta (GSK-3\u03b2). Thus, molecular effects of lithium can be the most important mechanisms of lithium that also alter neural transmissions including dopaminergic signaling in mesolimbic and mesocortical pathways.",
-        "year": "2023"
-    },
-    {
-        "title": "Neural progenitor cells derived from lithium responsive and non-responsive bipolar disorder patients exhibit distinct sensitivity to cell death following methamphetamine.",
-        "abstract": "Bipolar disorder (BD) is characterized by manic and depressive mood episodes and loss of brain gray matter. Lithium has antimanic and neuroprotective properties, but only 30% BD patients respond to lithium pharmacotherapy. Dopamine signaling has been implicated in BD and may contribute to lithium response. Methamphetamine (METH) stimulates dopamine release and models the clinical features of mania but has never been used to study cell death in BD patient neurons. We used BD patient derived neuronal progenitor cells (NPCs) to determine whether the vulnerability to cell death differed in samples from lithium responder (Li-R) and non-responder (Li-NR) BD patients and healthy controls following METH exposure in vitro. We hypothesized that NPCs from Li-R and Li-NR would differ in vulnerability to METH, dopamine signaling and neuroprotection from lithium. Following METH, NPCs from controls and Li-NR showed significantly greater cell loss compared to Li-R. Pre-treatment of NPCs with the D1 dopamine receptor antagonist SCH 23390 reversed the neurotoxic effects of METH. In Li-R NPCs, expression of phosho-ERK1/2 was significantly increased. In Li-NR NPCs, phospho-AKT, D1 and D2 dopamine receptor proteins were significantly increased. Pre-treatment of NPCs with lithium before METH reversed the neurotoxic effects of METH in control NPCs, whereas Li-NR showed less protective benefit. Li-R cells showed decreased levels of cell death after METH and comparatively high viability, and lithium treatment did not increase viability any further. This novel NPC model of mania reveals differences in cell death that could help identify mechanisms of lithium response in BD.",
-        "year": "2023"
-    },
-    {
-        "title": "Pharmacokinetics, Safety, and Tolerability of Cariprazine in Pediatric Patients with Bipolar I Disorder or Schizophrenia.",
-        "abstract": "<b><i>Objective:</i></b> Cariprazine is a dopamine D<sub>3</sub>-preferring D<sub>3</sub>/D<sub>2</sub> and serotonin 5-HT<sub>1A</sub> receptor partial agonist approved to treat adults with schizophrenia and manic/mixed or depressive episodes associated with bipolar I disorder. This sequential-cohort, dose-escalation study was the first to evaluate the pharmacokinetic, safety, and tolerability profile of cariprazine and its two major active metabolites, desmethyl-cariprazine (DCAR) and didesmethyl-cariprazine (DDCAR), in pediatric patients with schizophrenia or bipolar I disorder. <b><i>Methods:</i></b> This phase I open-label study enrolled patients with schizophrenia (13-17 years of age) or bipolar I disorder (10-17 years of age). Patients met the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria for schizophrenia or bipolar I disorder and had Positive and Negative Syndrome Scale (PANSS) total scores \u226570 or Young Mania Rating Scale (YMRS) total scores \u226520. Patients were assigned to one of four treatment groups to receive 6 weeks of cariprazine treatment through slow titration to 1.5, 3, or 4.5\u2009mg/d or fast titration to 4.5\u2009mg/d. Pharmacokinetics, adverse events (AEs), and various safety parameters were analyzed. Efficacy was evaluated as an exploratory outcome. <b><i>Results:</i></b> A total of 50 participants were enrolled. Based on mean trough levels, steady state appeared to be reached within 1-2 weeks for cariprazine and DCAR and within 4-5 weeks for DDCAR. Systemic exposure of cariprazine, DCAR, and DDCAR generally increased approximately in proportion to the increases in dose from 1.5 to 4.5\u2009mg/d. The most frequent treatment-related, treatment-emergent AEs included sedation, parkinsonism, tremor, dystonia, and blurred vision. Improvements from baseline on the PANSS and YMRS were observed throughout treatment. <b><i>Conclusion:</i></b> In this first investigation of cariprazine in a pediatric population with schizophrenia or bipolar disorder, pharmacokinetic parameters were consistent with those observed in adults. Cariprazine appeared to be safe and tolerable in children and adolescents.",
-        "year": "2022"
-    },
-    {
-        "title": "Genetic evidence for the \"dopamine hypothesis of bipolar disorder\".",
-        "abstract": "",
-        "year": "2023"
-    },
-    {
-        "title": "The potential of TAAR1 agonists in bipolar disorder.",
-        "abstract": "",
-        "year": "2022"
-    },
-    {
-        "title": "Biomarker potential of hsa-miR-145-5p in peripheral whole blood of manic bipolar I patients.",
-        "abstract": "Bipolar I disorder (BD-I) is a type of bipolar spectrum disorder characterized by manic or mixed episodes. Detecting microRNA regulations as epigenetic actors in BD-I is important to elucidate the pathogenesis of the disease and reveal the potential of microRNAs (miRNAs) as biomarkers. We evaluated the expression profile of six candidate miRNAs (hsa-miR-145-5p, hsa-miR-376a-3p, hsa-miR-3680-5p, hsa-miR-4253-5p, hsa-miR-4482-3p, and hsa-miR-4725) in patients with BD-I and in healthy controls (aged 11-50 years). We also determined the potential target genes of these miRNAs through in silico analysis. The diagnostic values of the miRNAs were calculated through receiver operating characteristic curve analysis. Four miRNAs were upregulated (hsa-miR-376a-3p, hsa-miR-3680-5p, hsa-miR-4253-5p, hsa-miR-4482-3p) and hsa-miR-145-5p was downregulated in patients (p < 0.001). The target gene analyses showed that hsa-miR-145-5p specifically targets the dopamine decarboxylase (DDC) gene. The area under the curve of hsa-miR-145-5p was 0.987. Differential expression of five miRNAs in peripheral blood may be associated with the pathogenesis of BD-I, and hsa-miR-145-5p has potential as a BD-I biomarker. This miRNA can be used in dopamine-serotonin regulation and dose adjustment in drug therapy via the DDC gene.",
-        "year": "2022"
-    },
-    {
-        "title": "The use of modern dopamine partial agonists in bipolar depression: is the evidence sound?",
-        "abstract": "",
-        "year": "2022"
-    },
-    {
-        "title": "Therapeutic Interventions to Mitigate Mitochondrial Dysfunction and Oxidative Stress-Induced Damage in Patients with Bipolar Disorder.",
-        "abstract": "Bipolar disorder (BD) is characterized by mood changes, including recurrent manic, hypomanic, and depressive episodes, which may involve mixed symptoms. Despite the progress in neurobiological research, the pathophysiology of BD has not been extensively described to date. Progress in the understanding of the neurobiology driving BD could help facilitate the discovery of therapeutic targets and biomarkers for its early detection. Oxidative stress (OS), which damages biomolecules and causes mitochondrial and dopamine system dysfunctions, is a persistent finding in patients with BD. Inflammation and immune dysfunction might also play a role in BD pathophysiology. Specific nutrient supplements (nutraceuticals) may target neurobiological pathways suggested to be perturbed in BD, such as inflammation, mitochondrial dysfunction, and OS. Consequently, nutraceuticals may be used in the adjunctive treatment of BD. This paper summarizes the possible roles of OS, mitochondrial dysfunction, and immune system dysregulation in the onset of BD. It then discusses OS-mitigating strategies that may serve as therapeutic interventions for BD. It also analyzes the relationship between diet and BD as well as the use of nutritional interventions in the treatment of BD. In addition, it addresses the use of lithium therapy; novel antipsychotic agents, including clozapine, olanzapine, risperidone, cariprazine, and quetiapine; and anti-inflammatory agents to treat BD. Furthermore, it reviews the efficacy of the most used therapies for BD, such as cognitive-behavioral therapy, bright light therapy, imagery-focused cognitive therapy, and electroconvulsive therapy. A better understanding of the roles of OS, mitochondrial dysfunction, and inflammation in the pathogenesis of bipolar disorder, along with a stronger elucidation of the therapeutic functions of antioxidants, antipsychotics, anti-inflammatory agents, lithium therapy, and light therapies, may lead to improved strategies for the treatment and prevention of bipolar disorder.",
-        "year": "2022"
-    },
-    {
-        "title": "Comprehensive exploration of the genetic contribution of the dopaminergic and serotonergic pathways to psychiatric disorders.",
-        "abstract": "Psychiatric disorders are highly prevalent and display considerable clinical and genetic overlap. Dopaminergic and serotonergic neurotransmission have been shown to play an important role in many psychiatric disorders. Here we aim to assess the genetic contribution of these systems to eight psychiatric disorders (attention-deficit hyperactivity disorder (ADHD), anorexia nervosa (ANO), autism spectrum disorder (ASD), bipolar disorder (BIP), major depression (MD), obsessive-compulsive disorder (OCD), schizophrenia (SCZ) and Tourette's syndrome (TS)) using publicly available GWAS analyses performed by the Psychiatric Genomics Consortium that include more than 160,000 cases and 275,000 controls. To do so, we elaborated four different gene sets: two 'wide' selections for dopamine (DA) and for serotonin (SERT) using the Gene Ontology and KEGG pathways tools, and two'core' selections for the same systems, manually curated. At the gene level, we found 67 genes from the DA and/or SERT gene sets significantly associated with one of the studied disorders, and 12 of them were associated with two different disorders. Gene-set analysis revealed significant associations for ADHD and ASD with the wide DA gene set, for BIP with the wide SERT gene set, and for MD with the core SERT set. Interestingly, interrogation of a cross-disorder GWAS meta-analysis of the eight psychiatric conditions displayed association with the wide DA gene set. To our knowledge, this is the first systematic examination of genes encoding proteins essential to the function of these two neurotransmitter systems in these disorders. Our results support a pleiotropic contribution of the dopaminergic and serotonergic systems in several psychiatric conditions.",
-        "year": "2022"
-    },
-    {
-        "title": "Dopamine release during psychological stress in euthymic bipolar I disorder: a Positron Emission Tomography study with [<sup>11</sup>C]raclopride.",
-        "abstract": "Neurochemical mechanisms underlying stress induced relapse of mood episodes in Bipolar I Disorder (BD) remain unknown. This study investigated whether euthymic BD patients have a greater dopamine release in ventral striatum, caudate and putamen in response to psychological stress using Positron Emission Tomography (PET) scanning with the radiotracer [<sup>11</sup>C]raclopride. Euthymic patients with BD (n\u00a0=\u00a010) and 10 matched healthy controls underwent two [<sup>11</sup>C]raclopride PET scans, one during a \"stress\" and the other in a \"no stress\" condition separated by at least 24\u00a0h. Montreal Imaging Stress Test (MIST) was used to induce stress during stress condition. Participants received an injection of [<sup>11</sup>C]raclopride over one minute followed by PET scan for 60\u00a0min. Participants were assessed for mood symptom severity at baseline, and before and after each scan. The reduction in [<sup>11</sup>C]raclopride binding in stress condition compared with non-stress rest condition for each subject provided an estimate of dopamine release due to stress. There was a significant effect of stress in reducing the [<sup>11</sup>C]raclopride binding in the ventral striatum, caudate and putamen; however, no significant effects of group or condition x group interaction were found. Small sample size and recruitment of euthymic patients who may be less vulnerable to stress may limit the generalizability of findings. Our findings showed that psychological stress led to dopamine release in the basal ganglia for all participants but the magnitude of dopamine release during a stress task was not different between euthymic BD patients and healthy controls.",
-        "year": "2021"
-    },
-    {
-        "title": "Changes in striatal dopamine transporters in bipolar disorder and valproate treatment.",
-        "abstract": "Previous studies suggested that a disturbance of the dopamine system underlies the pathophysiology of bipolar disorder (BD). In addition, the therapeutic action of medications for treating BD, such as valproate (VPA), might modulate dopamine system activity, but it remains unclear. Here, we aimed to investigate the role of the striatal dopamine transporter (DAT) in BD patients and in social defeat (SD) mice treated with VPA. We enrolled community-dwelling controls (N\u00a0=\u00a018) and BD patients (N\u00a0=\u00a023) who were treated with VPA in a euthymic stage. The striatal DAT availabilities were approached by TRODAT-1 single photon emission computed tomography. We also established a chronic SD mouse model and treated mice with 350\u00a0mg/kg VPA for 3\u00a0weeks. Behavioral tests were administered, and striatal DAT expression levels were determined. In humans, the level of striatal DAT availability was significantly higher in euthymic BD patients (1.52\u00a0\u00b1\u00a00.17 and 1.37\u00a0\u00b1\u00a00.23, p\u00a0=\u00a00.015). Moreover, the level of striatal DAT availability was also negatively correlated with the VPA concentration in BD patients (r\u00a0=\u00a0-0.653, p\u00a0=\u00a00.003). In SD mice, the expression of striatal DAT significantly increased (p\u00a0<\u00a00.001), and the SD effect on DAT expression was rescued by VPA treatment. The striatal DAT might play a role in the pathophysiology of BD and in the therapeutic mechanism of VPA. The homeostasis of DAT might represent a new therapeutic strategy for BD patients.",
-        "year": "2021"
-    },
-    {
-        "title": "Critical Impact of Different Conserved Endoplasmic Retention Motifs and Dopamine Receptor Interacting Proteins (DRIPs) on Intracellular Localization and Trafficking of the D<sub>2</sub> Dopamine Receptor (D<sub>2</sub>-R) Isoforms.",
-        "abstract": "The type 2 dopamine receptor D<sub>2</sub> (D<sub>2</sub>-R), member of the G protein-coupled receptor (GPCR) superfamily, exists in two isoforms, short (D<sub>2S</sub>-R) and long (D<sub>2L</sub>-R). They differ by an additional 29 amino acids (AA) in the third cytoplasmic loop (ICL3) of the D<sub>2L</sub>-R. These isoforms differ in their intracellular localization and trafficking functionality, as D<sub>2L</sub>-R possesses a larger intracellular pool, mostly in the endoplasmic reticulum (ER). This review focuses on the evolutionarily conserved motifs in the ICL3 of the D<sub>2</sub>-R and proteins interacting with the ICL3 of both isoforms, specifically with the 29 AA insert. These motifs might be involved in D<sub>2</sub>-R exit from the ER and have an impact on cell-surface and intracellular localization and, therefore, also play a role in the function of dopamine receptor signaling, ligand binding and possible homo/heterodimerization. Our recent bioinformatic data on potential new interaction partners for the ICL3 of D<sub>2</sub>-Rs are also presented. Both are highly relevant, and have clinical impacts on the pathophysiology of several diseases such as Parkinson's disease, schizophrenia, Tourette's syndrome, Huntington's disease, manic depression, and others, as they are connected to a variety of essential motifs and differences in communication with interaction partners.",
-        "year": "2020"
-    },
-    {
-        "title": "Dysregulation of oxytocin and dopamine in the corticostriatal circuitry in bipolar II disorder.",
-        "abstract": "The oxytocin (OXT) and dopamine systems synergistically facilitate striatal reactivity. Abnormal striatal activation has repeatedly been observed in patients with bipolar disorder (BD); however, such abnormality remains unclear in BD II. Here we aimed to investigate whether the corticostriatal connectivity was altered and the possible relationships among corticostriatal connectivity, OXT, and dopamine systems in BD II. Twenty-five BD II patients, as defined by the DSM-V, and 29 healthy controls (HC) were enrolled in this study. Plasma OXT was measured and striatal dopamine transporter (DAT) availability was assessed using [<sup>99m</sup>Tc]TRODAT-1 single-photon emission computed tomography (SPECT). Brain network functional connectivity (FC) was measured during the resting-state using functional magnetic resonance imaging, and the dorsal caudate (DC) was selected as the seed region. The results showed that the OXT level was significantly lower in the BD II patients, while the striatal DAT availability was not significantly different between the BD II and HC groups. The BD II patients exhibited significantly lower FC between the DC and the executive control network (dorsolateral prefrontal, anterior cingulate cortex, and posterior parietal cortex) as compared with the HC. Only observed in HC, the DC-posterior parietal cortex FC was negatively correlated with the OXT level and striatal DAT availability. Our findings in the HC support a model in which the OXT and dopamine systems act in tandem to regulate corticostriatal circuitry, while the synergistic interaction was perturbed in BD II. Taken together, these results implied a maladaptive neuroplasticity in BD II.",
-        "year": "2020"
-    },
-    {
-        "title": "Heightened reward response is associated with HCN2 overexpression in the ventral tegmental area in morphine-sensitized rats.",
-        "abstract": "Morphine sensitization is associated with increased locomotion and stereotypies in rats. This persistent condition has been proposed as a model of manic-like symptoms. Modifications in reward threshold are considered a central feature of mania and have been related to changes in mesocorticolimbic dopaminergic transmission. Thus, to further characterize this model, we investigated reward responses in morphine-sensitized male rats and the mechanisms underlying the behavioral phenotype. In particular, we examined the possible involvement of hyperpolarization-activated cyclic nucleotide-gated channels as they play a critical role in regulating the excitability of dopaminergic neurons. Rats were trained to self-administer sucrose to study whether morphine sensitization affected motivated behavior. Next, the dopaminergic response to sucrose was examined in the nucleus accumbens shell by in vivo microdialysis. To investigate the possible mechanisms underlying the increased dopaminergic transmission in morphine-sensitized rats, HCN2 channel expression levels in mesocorticolimbic regions were analyzed by immunoblotting. Sensitized rats showed an enhanced motivation to work for sucrose that was accompanied by an increased dopaminergic response to sucrose consumption in the nucleus accumbens shell. Moreover, HCN2 expression levels were increased in the ventral tegmental area, suggesting that their increased expression may underpin the enhanced motivation for sucrose reward and nucleus accumbens shell dopaminergic response in sensitized rats. The modified behavioral and dopaminergic reward response observed in sensitized rats supports the suggestion that the condition of morphine sensitization can be regarded as a model of manic symptoms.",
-        "year": "2020"
-    },
-    {
-        "title": "Genetics of schizophrenia in the South African Xhosa.",
-        "abstract": "Africa, the ancestral home of all modern humans, is the most informative continent for understanding the human genome and its contribution to complex disease. To better understand the genetics of schizophrenia, we studied the illness in the Xhosa population of South Africa, recruiting 909 cases and 917 age-, gender-, and residence-matched controls. Individuals with schizophrenia were significantly more likely than controls to harbor private, severely damaging mutations in genes that are critical to synaptic function, including neural circuitry mediated by the neurotransmitters glutamine, \u03b3-aminobutyric acid, and dopamine. Schizophrenia is genetically highly heterogeneous, involving severe ultrarare mutations in genes that are critical to synaptic plasticity. The depth of genetic variation in Africa revealed this relationship with a moderate sample size and informed our understanding of the genetics of schizophrenia worldwide.",
-        "year": "2020"
-    },
-    {
-        "title": "Dopamine D<sub>3</sub> receptor and GSK3\u03b2 signaling mediate deficits in novel object recognition memory within dopamine transporter knockdown mice.",
-        "abstract": "Over-stimulation of dopamine signaling is thought to underlie the pathophysiology of a list of mental disorders, such as psychosis, mania and attention-deficit/hyperactivity disorder. These disorders are frequently associated with cognitive deficits in attention or learning and memory, suggesting that persistent activation of dopamine signaling may change neural plasticity to induce cognitive or emotional malfunction. Dopamine transporter knockdown (DAT-KD) mice were used to mimic a hyper-dopamine state. Novel object recognition (NOR) task was performed to assess the recognition memory. To test the role of dopamine D<sub>3</sub> receptor (D<sub>3</sub>R) on NOR, DAT-KD mice were treated with either a D<sub>3</sub>R antagonist, FAUC365 or by deletion of D<sub>3</sub>R. Total or phospho-GSK3 and -ERK1/2 signals in various brain regions were measured by Western blot analyses. To examine the impact of GSK3 signal on NOR, wild-type mice were systemically treated with GSK3 inhibitor SB216763 or, micro-injected with lentiviral shRNA of GSK3\u03b2 or GSK3\u03b1 in the medial prefrontal cortex (mPFC). We confirmed our previous findings that DAT-KD mice displayed a deficit in NOR memory, which could be prevented by deletion of D<sub>3</sub>R or exposure to FAUC365. In WT mice, p-GSK3\u03b1 and p-GSK3\u03b2 were significantly decreased in the mPFC after exposure to novel objects; however, the DAT-KD mice exhibited no such change in mPFC p-GSK3\u03b1/\u03b2 levels. DAT-KD mice treated with FAUC365 or with D<sub>3</sub>R deletion exhibited restored novelty-induced GSK3 dephosphorylation in the mPFC. Moreover, inhibition of GSK3 in WT mice diminished NOR performance and impaired recognition memory. Lentiviral shRNA knockdown of GSK3\u03b2, but not GSK3\u03b1, in the mPFC of WT mice also impaired NOR. These findings suggest that D<sub>3</sub>R acts via GSK3\u03b2 signaling in the mPFC to play a functional role in NOR memory. In addition, treatment with D<sub>3</sub>R antagonists may be a reasonable approach for ameliorating cognitive impairments or episodic memory deficits in bipolar disorder patients.",
-        "year": "2020"
-    }
+  {
+    "pmid": "39442564",
+    "title": "The dopamine transporter inhibition using GBR 12909 as a novel pharmacological tool to assess bipolar disorder-like neurobehavioral phenotypes in zebrafish.",
+    "abstract": "Dopamine (DA) is a neurotransmitter that plays an important role in brain physiology. Changes in DA-mediated signaling have been implicated with the pathophysiology of various neuropsychiatric conditions. Bipolar disorder (BD) is a mental disorder, characterized by alterning between manic/hypomanic and depressive mood. In experimental research, the pharmacological inhibition of DA reuptake using GBR 12909 serves as a tool to elicit BD-like phenotypes. Alternative model organisms, such as the zebrafish (Danio rerio), have been considered important systems for investigating the neurobehavioral changes involved in different neuropsychiatric conditions, including BD. Here, we discuss the use of GBR 12909 as a novel pharmacological strategy to mimic BD-like phenotypes in zebrafish models. We also emphasize the well-conserved DA-mediated signaling in zebrafish and the early expression of dopaminergic biomarkers in the brain, especially focusing on dopamine transporter (DAT), the main target of GBR 12909. Finally, we discuss potential advantages and limitations in the field, the perspectives of using GBR 12909 in BD research, and how distinct validation criteria (i.e., face, predictive, and construct validity) can be assessed in translational approaches using zebrafish-based models.",
+    "year": "2025",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "39793267",
+    "title": "Plausible therapeutic effects of melatonin and analogs in the dopamine-associated pathophysiology of bipolar disorder.",
+    "abstract": "Bipolar disorder (BD) is a significant neuropsychiatric condition characterized by marked psychological mood disturbances. Despite extensive research on the symptomatology of BD, the mechanisms underlying its development and presentation remain unknown. Consequently, potential treatments are limited, and existing medications often cause significant side effects, leading to treatment discontinuation. Dopamine (DA) has been implicated in behavioral regulation, reward systems, and mood, highlighting the importance of the dopaminergic system in BD. Elevated levels of DA and tyrosine hydroxylase are associated with the onset of manic episodes, whereas reduced levels are linked to the depressive phase. Additionally, endogenous melatonin (MEL) levels are considerably lower in patients with BD. When administered as a treatment, exogenous MEL and MEL agonists improve behavioral characteristics and significantly modulate DA-related pathophysiological pathways in BD, with minimal adverse effects achieved through MEL receptor activation. Moreover, MEL and MEL agonists offer neuroprotection by promoting physiological homeostasis during disruption. The aim of this review is to investigate and propose MEL receptors as potential novel therapeutic targets for BD. This review seeks to analyze the role of MEL and its agonists in modulating dopamine-related pathophysiological pathways, improving behavioral outcomes, and providing neuroprotection with minimal side effects.",
+    "year": "2025",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "40754997",
+    "title": "Are There Connections between the Neuroendocrine and Dopamine Systems in Bipolar Disorder?",
+    "abstract": "Bipolar disorder (BPD) represents a frequent and disabling disease, characterized by the occurrence of extreme mood swings leading to episodes of depression or mania. Although dysfunctions in dopamine (DA) neurotransmission are increasingly recognized as key determinants of BPD, little attention has been given to the biological factors which may shape such a cyclicity of mania and depression. We propose that BPD may result, at least in part, from skewed connections between the neuroendocrine system, the DA system, and the hypothalamic clock center. First, we provide a brief description of the hypothalamic-pituitary complex, i.e., the core anatomical structure of the neuroendocrine system. We then review clinical data demonstrating the frequent onset of BPD at menopause, during postpartum or in peri-pubertal periods, suggesting that hormonal changes, under neuroendocrine regulation, may favor the clinical expression of BPD. Finally, we revisit the DA hypothesis of BPD and propose that both the hypothalamic clock center and the hypothalamic-pituitary axis exert rheostat effects on the regulation of mood by DA. Thus, in individuals with a genetically determined predisposition to BPD, an alteration of such rheostat functions may translate into a hyper- or hypo-activity of the DA system. Potential therapeutic implications and future research directions are discussed. BPD may be related to altered connections between the DA system, the neuroendocrine system and the hypothalamic clock center. We hope this article will provide a basis for future interactions between endocrinologists, neurobiologists, and psychiatrists.",
+    "year": "2025",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "37800205",
+    "title": "Association Between Bipolar Disorder and Parkinson's Disease.",
+    "abstract": "Bipolar disorder and Parkinson's disease are two distinct neurological conditions that share common features related to dopaminergic dysfunction. This article presents a comprehensive review of the existing literature to investigate the association between bipolar disorder and Parkinson's disease, focusing on the dopaminergic hypothesis and potential therapeutic options. The dopaminergic hypothesis suggests that both bipolar disorder and Parkinson's disease involve impairments in the nigrostriatal or mesolimbic dopaminergic pathways. Studies have demonstrated alterations in dopamine regulation during manic and depressive phases of bipolar disorder. Similarly, Parkinson's disease is characterized by the loss of dopaminergic neurons in the substantia nigra, resulting in motor symptoms. Recent analyses have highlighted a predisposition to Parkinson's disease in individuals with bipolar disorder. Longitudinal studies and meta-analyses have demonstrated an increased risk of developing Parkinson's disease in patients with bipolar disorder. However, differentiating idiopathic Parkinson's disease from parkinsonism induced by medications used in bipolar disorder can be challenging. Dopamine transporter (DAT) scans can aid in making a differential diagnosis. Treatment options for patients with both bipolar disorder and Parkinson's disease are limited. Neuroleptics, commonly used to manage psychotic symptoms in Parkinson's disease, may worsen motor symptoms and have limitations in bipolar disorder patients. Clozapine has shown efficacy in treating psychosis without worsening motor symptoms. Pimavanserin, an inverse agonist of the 5-HT2A receptor can offer new opportunities. However, its efficacy in bipolar disorder patients with Parkinson's disease remains unexplored. In conclusion, the association between bipolar disorder and Parkinson's disease is supported by the involvement of the dopaminergic system in both conditions. The identification of shared mechanisms opens new avenues for potential therapeutic interventions. Further research is needed to investigate the efficacy of pimavanserin and explore other treatment options for individuals with both bipolar disorder and Parkinson's disease.",
+    "year": "2023",
+    "is_review": true,
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "37458003",
+    "title": "Evaluating lumateperone for its use in treating depressive episodes associated with bipolar I or II disorder in adults.",
+    "abstract": "Lumateperone is a novel antipsychotic medication that has recently received approval by the United States Food and Drug Administration for treatment of major depressive episodes of type I and II bipolar disorder. It is approved for use as monotherapy or as an adjunctive treatment to lithium or valproic acid. Clinical trials performed with lumateperone for bipolar disorder were reviewed. Additionally, pharmacodynamic actions of lumateperone are reviewed. Lumateperone is superior to placebo whether used alone or in combination with a mood stabilizer in patients with type I or type II bipolar disorder. It achieves this effect with minimal dopamine blockade-related side effects due to less than 50% dopamine D2 receptor occupancy. While the pharmacodynamic profile of lumateperone is unique, the mechanism of action in bipolar depression remains obscure. Lumateperone is an antipsychotic with full antagonist effects at the post-synaptic D2, and partial agonist effects at the presynaptic D2. This unique profile allows for both antipsychotic and antidepressant effects at the same dose, which does not produce dopamine-related side effects. Consequently, lumateperone is exceptionally well tolerated compared to other antidepressant-acting antipsychotic agents. It is now the only agent approved as an adjunct to the mood stabilizer for bipolar II depression.",
+    "year": "2023",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "36843130",
+    "title": "Mood and behavior regulation: interaction of lithium and dopaminergic system.",
+    "abstract": "Lithium is one of the most effect mood-stabilizing drugs prescribed especially for bipolar disorder. Lithium has wide range effects on different molecular factors and neural transmission including dopaminergic signaling. On the other hand, mesolimbic and mesocortical dopaminergic signaling is significantly involved in the pathophysiology of neuropsychiatric disorders. This review article aims to study lithium therapeutic mechanisms, dopaminergic signaling, and the interaction of lithium and dopamine. We concluded that acute and chronic lithium treatments often reduce dopamine synthesis and level in the brain. However, some studies have reported conflicting results following lithium treatment, especially chronic treatment. The dosage, duration, and type of lithium administration, and the brain region selected for measuring dopamine level were not significant differences in different chronic treatments used in previous studies. It was suggested that lithium has various mechanisms affecting dopaminergic signaling and mood, and that many molecular factors can be involved, including brain-derived neurotrophic factor (BDNF), cAMP response element-binding protein (CREB), \u03b2-catenin, protein kinase B (Akt), and glycogen synthase kinase-3 beta (GSK-3\u03b2). Thus, molecular effects of lithium can be the most important mechanisms of lithium that also alter neural transmissions including dopaminergic signaling in mesolimbic and mesocortical pathways.",
+    "year": "2023",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "35163764",
+    "title": "Therapeutic Interventions to Mitigate Mitochondrial Dysfunction and Oxidative Stress-Induced Damage in Patients with Bipolar Disorder.",
+    "abstract": "Bipolar disorder (BD) is characterized by mood changes, including recurrent manic, hypomanic, and depressive episodes, which may involve mixed symptoms. Despite the progress in neurobiological research, the pathophysiology of BD has not been extensively described to date. Progress in the understanding of the neurobiology driving BD could help facilitate the discovery of therapeutic targets and biomarkers for its early detection. Oxidative stress (OS), which damages biomolecules and causes mitochondrial and dopamine system dysfunctions, is a persistent finding in patients with BD. Inflammation and immune dysfunction might also play a role in BD pathophysiology. Specific nutrient supplements (nutraceuticals) may target neurobiological pathways suggested to be perturbed in BD, such as inflammation, mitochondrial dysfunction, and OS. Consequently, nutraceuticals may be used in the adjunctive treatment of BD. This paper summarizes the possible roles of OS, mitochondrial dysfunction, and immune system dysregulation in the onset of BD. It then discusses OS-mitigating strategies that may serve as therapeutic interventions for BD. It also analyzes the relationship between diet and BD as well as the use of nutritional interventions in the treatment of BD. In addition, it addresses the use of lithium therapy; novel antipsychotic agents, including clozapine, olanzapine, risperidone, cariprazine, and quetiapine; and anti-inflammatory agents to treat BD. Furthermore, it reviews the efficacy of the most used therapies for BD, such as cognitive-behavioral therapy, bright light therapy, imagery-focused cognitive therapy, and electroconvulsive therapy. A better understanding of the roles of OS, mitochondrial dysfunction, and inflammation in the pathogenesis of bipolar disorder, along with a stronger elucidation of the therapeutic functions of antioxidants, antipsychotics, anti-inflammatory agents, lithium therapy, and light therapies, may lead to improved strategies for the treatment and prevention of bipolar disorder.",
+    "year": "2022",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "35013130",
+    "title": "Comprehensive exploration of the genetic contribution of the dopaminergic and serotonergic pathways to psychiatric disorders.",
+    "abstract": "Psychiatric disorders are highly prevalent and display considerable clinical and genetic overlap. Dopaminergic and serotonergic neurotransmission have been shown to play an important role in many psychiatric disorders. Here we aim to assess the genetic contribution of these systems to eight psychiatric disorders (attention-deficit hyperactivity disorder (ADHD), anorexia nervosa (ANO), autism spectrum disorder (ASD), bipolar disorder (BIP), major depression (MD), obsessive-compulsive disorder (OCD), schizophrenia (SCZ) and Tourette's syndrome (TS)) using publicly available GWAS analyses performed by the Psychiatric Genomics Consortium that include more than 160,000 cases and 275,000 controls. To do so, we elaborated four different gene sets: two 'wide' selections for dopamine (DA) and for serotonin (SERT) using the Gene Ontology and KEGG pathways tools, and two'core' selections for the same systems, manually curated. At the gene level, we found 67 genes from the DA and/or SERT gene sets significantly associated with one of the studied disorders, and 12 of them were associated with two different disorders. Gene-set analysis revealed significant associations for ADHD and ASD with the wide DA gene set, for BIP with the wide SERT gene set, and for MD with the core SERT set. Interestingly, interrogation of a cross-disorder GWAS meta-analysis of the eight psychiatric conditions displayed association with the wide DA gene set. To our knowledge, this is the first systematic examination of genes encoding proteins essential to the function of these two neurotransmitter systems in these disorders. Our results support a pleiotropic contribution of the dopaminergic and serotonergic systems in several psychiatric conditions.",
+    "year": "2022",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "32977535",
+    "title": "Critical Impact of Different Conserved Endoplasmic Retention Motifs and Dopamine Receptor Interacting Proteins (DRIPs) on Intracellular Localization and Trafficking of the D<sub>2</sub> Dopamine Receptor (D<sub>2</sub>-R) Isoforms.",
+    "abstract": "The type 2 dopamine receptor D<sub>2</sub> (D<sub>2</sub>-R), member of the G protein-coupled receptor (GPCR) superfamily, exists in two isoforms, short (D<sub>2S</sub>-R) and long (D<sub>2L</sub>-R). They differ by an additional 29 amino acids (AA) in the third cytoplasmic loop (ICL3) of the D<sub>2L</sub>-R. These isoforms differ in their intracellular localization and trafficking functionality, as D<sub>2L</sub>-R possesses a larger intracellular pool, mostly in the endoplasmic reticulum (ER). This review focuses on the evolutionarily conserved motifs in the ICL3 of the D<sub>2</sub>-R and proteins interacting with the ICL3 of both isoforms, specifically with the 29 AA insert. These motifs might be involved in D<sub>2</sub>-R exit from the ER and have an impact on cell-surface and intracellular localization and, therefore, also play a role in the function of dopamine receptor signaling, ligand binding and possible homo/heterodimerization. Our recent bioinformatic data on potential new interaction partners for the ICL3 of D<sub>2</sub>-Rs are also presented. Both are highly relevant, and have clinical impacts on the pathophysiology of several diseases such as Parkinson's disease, schizophrenia, Tourette's syndrome, Huntington's disease, manic depression, and others, as they are connected to a variety of essential motifs and differences in communication with interaction partners.",
+    "year": "2020",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "30953003",
+    "title": "Opposite effects of dopamine and serotonin on resting-state networks: review and implications for psychiatric disorders.",
+    "abstract": "Alterations in brain intrinsic activity-as organized in resting-state networks (RSNs) such as sensorimotor network (SMN), salience network (SN), and default-mode network (DMN)-and in neurotransmitters signaling-such as dopamine (DA) and serotonin (5-HT)-have been independently detected in psychiatric disorders like bipolar disorder and schizophrenia. Thus, the aim of this work was to investigate the relationship between such neurotransmitters and RSNs in healthy, by reviewing the relevant work on this topic and performing complementary analyses, in order to better understand their physiological link, as well as their alterations in psychiatric disorders. According to the reviewed data, neurotransmitters nuclei diffusively project to subcortical and cortical regions of RSNs. In particular, the dopaminergic substantia nigra (SNc)-related nigrostriatal pathway is structurally and functionally connected with core regions of the SMN, whereas the ventral tegmental area (VTA)-related mesocorticolimbic pathway with core regions of the SN. The serotonergic raphe nuclei (RNi) connections involve regions of the SMN and DMN. Coherently, changes in neurotransmitters activity impact the functional configuration and level of activity of RSNs, as measured by functional connectivity (FC) and amplitude of low-frequency fluctuations/temporal variability of BOLD signal. Specifically, DA signaling is associated with increase in FC and activity in the SMN (hypothetically via the SNc-related nigrostriatal pathway) and SN (hypothetically via the VTA-related mesocorticolimbic pathway), as well as concurrent decrease in FC and activity in the DMN. By contrast, 5-HT signaling (via the RNi-related pathways) is associated with decrease in SMN activity along with increase in DMN activity. Complementally, our empirical data showed a positive correlation between SNc-related FC and SMN activity, whereas a negative correlation between RNi-related FC and SMN activity (along with tilting of networks balance toward the DMN). According to these data, we hypothesize that the activity of neurotransmitter-related neurons synchronize the low-frequency oscillations within different RSNs regions, thus affecting the baseline level of RSNs activity and their balancing. In our model, DA signaling favors the predominance of SMN-SN activity, whereas 5-HT signaling favors the predominance of DMN activity, manifesting in distinct behavioral patterns. In turn, alterations in neurotransmitters signaling (or its disconnection) may favor a correspondent functional reorganization of RSNs, manifesting in distinct psychopathological states. The here suggested model carries important implications for psychiatric disorders, providing novel and well testable hypotheses especially on bipolar disorder and schizophrenia.",
+    "year": "2020",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "30654115",
+    "title": "Significance of protein kinase C in the neuropsychotoxicity induced by methamphetamine-like psychostimulants.",
+    "abstract": "The abuse of methamphetamine (MA), an amphetamine (AMPH)-type stimulant, has been demonstrated to be associated with various neuropsychotoxicity, including memory impairment, psychiatric morbidity, and dopaminergic toxicity. Compelling evidence from preclinical studies has indicated that protein kinase C (PKC), a large family of serine/threonine protein kinases, plays an important role in MA-induced neuropsychotoxicity. PKC-mediated N-terminal phosphorylation of dopamine transporter has been identified as one of the prerequisites for MA-induced synaptic dopamine release. Consistently, it has been shown that PKC is involved in MA (or AMPH)-induced memory impairment and mania-like behaviors as well as MA drug dependence. Direct or indirect regulation of factors related to neuronal plasticity seemed to be critical for these actions of PKC. In addition, PKC-mediated mitochondrial dysfunction, oxidative stress or impaired antioxidant defense system has been suggested to play a role in psychiatric and cognitive disturbance induced by MA (or AMPH). In MA-induced dopaminergic toxicity, particularly PKC\u03b4 has been shown to trigger oxidative stress, mitochondrial dysfunction, pro-apoptotic changes, and neuroinflammation. Importantly, PKC\u03b4 may be a key mediator in the positive feedback loop composed of these detrimental events to potentiate MA-induced dopaminergic toxicity. This review outlines the role of PKC and its individual isozymes in MA-induced neuropsychotoxicity. Better understanding on the molecular mechanism of PKCs might provide a great insight for the development of potential therapeutic or preventive candidates for MA (or AMPH)-associated neuropsychotoxicity.",
+    "year": "2019",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "28289283",
+    "title": "The dopamine hypothesis of bipolar affective disorder: the state of the art and implications for treatment.",
+    "abstract": "Bipolar affective disorder is a common neuropsychiatric disorder. Although its neurobiological underpinnings are incompletely understood, the dopamine hypothesis has been a key theory of the pathophysiology of both manic and depressive phases of the illness for over four decades. The increased use of antidopaminergics in the treatment of this disorder and new in vivo neuroimaging and post-mortem studies makes it timely to review this theory. To do this, we conducted a systematic search for post-mortem, pharmacological, functional magnetic resonance and molecular imaging studies of dopamine function in bipolar disorder. Converging findings from pharmacological and imaging studies support the hypothesis that a state of hyperdopaminergia, specifically elevations in D2/3 receptor availability and a hyperactive reward processing network, underlies mania. In bipolar depression imaging studies show increased dopamine transporter levels, but changes in other aspects of dopaminergic function are inconsistent. Puzzlingly, pharmacological evidence shows that both dopamine agonists and antidopaminergics can improve bipolar depressive symptoms and perhaps actions at other receptors may reconcile these findings. Tentatively, this evidence suggests a model where an elevation in striatal D2/3 receptor availability would lead to increased dopaminergic neurotransmission and mania, whilst increased striatal dopamine transporter (DAT) levels would lead to reduced dopaminergic function and depression. Thus, it can be speculated that a failure of dopamine receptor and transporter homoeostasis might underlie the pathophysiology of this disorder. The limitations of this model include its reliance on pharmacological evidence, as these studies could potentially affect other monoamines, and the scarcity of imaging evidence on dopaminergic function. This model, if confirmed, has implications for developing new treatment strategies such as reducing the dopamine synthesis and/or release in mania and DAT blockade in bipolar depression.",
+    "year": "2017",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "29533425",
+    "title": "Different patterns of dopaminergic and serotonergic dysfunction in manic, depressive and euthymic phases of bipolar disorder.",
+    "abstract": "A variety of alterations in brain neurotransmitter systems has been proposed as the cause of bipolar disorder (BD). We conducted a PUBMED search, which provided a total of 45 in vivo investigations with PET and SPECT, in which binding to serotonin transporter (SERT), 5-HT<sub>1A</sub> receptor (R), 5-HT<sub>2A</sub>R, dopamine transporter (DAT), vesicular monoamine transporter (VMAT2), D<sub>1</sub>R, D<sub>2</sub>R, muscarinic M2R and nicotinic \u00df2-nAChR as well as dopamine synthesis and/or dopamine release were assessed in BD patients in the manic (6 studies, 39 patients, 77 controls), depressive (15 studies, 248 patients, 488 controls) or eu- thymic condition (18 studies, 265 patients, 293 controls) and in mixed collectives of BD patients (6 studies, 55 patients, 80 controls). The retrospective analysis revealed a complex pattern of dysregulations within and between neurotransmitter systems, which is causally linked to the acute and euthymic states of BD. While increased mesencephalic, limbic and parietotemporoccipital serotonin and increased frontal dopamine underlie mania, the depressive state is characterized by decreased frontal and limbic serotonin, increased frontal and limbic acetylcholine and increased frontal dopamine. Also in euthymia, no normalization of receptor and transporter densities was observed. Alterations of regulation states of bindings sites, however, act together to achieve a normalization of mesencephalic, limbic and cortical serotonin.",
+    "year": "2017",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "27690184",
+    "title": "Are reprogrammed cells a useful tool for studying dopamine dysfunction in psychotic disorders? A review of the current evidence.",
+    "abstract": "Since 2006, reprogrammed cells have increasingly been used as a biomedical research technique in addition to neuro-psychiatric methods. These rapidly evolving techniques allow for the generation of neuronal sub-populations, and have sparked interest not only in monogenetic neuro-psychiatric diseases, but also in poly-genetic and poly-aetiological disorders such as schizophrenia (SCZ) and bipolar disorder (BPD). This review provides a summary of 19 publications on reprogrammed adult somatic cells derived from patients with SCZ, and five publications using this technique in patients with BPD. As both disorders are complex and heterogeneous, there is a plurality of hypotheses to be tested in\u00a0vitro. In SCZ, data on alterations of dopaminergic transmission in\u00a0vitro are sparse, despite the great explanatory power of the so-called DA hypothesis of SCZ. Some findings correspond to perturbations of cell energy metabolism, and observations in reprogrammed cells suggest neuro-developmental alterations. Some studies also report on the efficacy of medicinal compounds to revert alterations observed in cellular models. However, due to the paucity of replication studies, no comprehensive conclusions can be drawn from studies using reprogrammed cells at the present time. In the future, findings from cell culture methods need to be integrated with clinical, epidemiological, pharmacological and imaging data in order to generate a more comprehensive picture of SCZ and BPD.",
+    "year": "2017",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "25467847",
+    "title": "Biomarkers of psychiatric diseases: current status and future prospects.",
+    "abstract": "Abnormal behavior and disturbed cognition, often assumed to represent psychiatric illness, may actually result from some form of occult organic brain disease that can be detected by means of one or more biomarkers. This truth was discovered more than a century ago by Aloysius Alzheimer, a German psychiatrist and neuropathologist. As a psychiatrist, he described the behavioral manifestations of \"senile dementia\" in a 51-year-old female; as a neuropathologist, he was the first to recognize the significance of the senile plaques and neurofibrillary tangles found in her brain after her death at age 55 years. It was Alzheimer who made the connection between these \"biomarkers\" and the symptoms of the increasingly prevalent disease that now bears his name. In recent years, the search for psychiatry-relevant biomarkers of major depression, schizophrenia, bipolar disease, and other important psychiatric/neuropsychiatric disorders has intensified. Biomarkers in psychiatry and neuropsychiatry have the potential of clarifying the etiology of an ambiguous clinical presentation-making it possible, for example, to detect underlying differences between psychological maladies that have confusingly similar symptoms. In addition, attempts are now being made to classify mental disorders on the basis of biomarkers. Biomarkers may also disclose the presence of a previously unsuspected physical explanation for behavior(s) originally presumed to be \"psychiatric\" in origin. Although clinically usable biomarkers in the diagnosis and treatment of mental illness await validation, candidate genomic biomarkers and protein profiling of candidate biomarkers in psychiatry are rapidly gaining ground as areas of interest, with considerable future potential. This review considers biomarker-related issues germane to psychiatry and neuropsychiatry in the context of new data that can be used to tailor therapies to the individual psychiatric patient.",
+    "year": "2015",
+    "is_review": true,
+    "publication_types": [
+      "Historical Article",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "24554693",
+    "title": "The emerging role of dopamine-glutamate interaction and of the postsynaptic density in bipolar disorder pathophysiology: Implications for treatment.",
+    "abstract": "Aberrant synaptic plasticity, originating from abnormalities in dopamine and/or glutamate transduction pathways, may contribute to the complex clinical manifestations of bipolar disorder (BD). Dopamine and glutamate systems cross-talk at multiple levels, such as at the postsynaptic density (PSD). The PSD is a structural and functional protein mesh implicated in dopamine and glutamate-mediated synaptic plasticity. Proteins at PSD have been demonstrated to be involved in mood disorders pathophysiology and to be modulated by antipsychotics and mood stabilizers. On the other side, post-receptor effectors such as protein kinase B (Akt), glycogen synthase kinase-3 (GSK-3) and the extracellular signal-regulated kinase (Erk), which are implicated in both molecular abnormalities and treatment of BD, may interact with PSD proteins, and participate in the interplay of the dopamine-glutamate signalling pathway. In this review, we describe emerging evidence on the molecular cross-talk between dopamine and glutamate signalling in BD pathophysiology and pharmacological treatment, mainly focusing on dysfunctions in PSD molecules. We also aim to discuss future therapeutic strategies that could selectively target the PSD-mediated signalling cascade at the crossroads of dopamine-glutamate neurotransmission.",
+    "year": "2014",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "24359856",
+    "title": "[Pathophysiological models of mixed states].",
+    "abstract": "Mixed states are complex manifestations of bipolar disorders. Pathophysiology of mixed states remains unclear. Several models have been proposed to understand the mechanisms underlying these mood states. These models describe mixed state either as a combinaison of depression and mania, as well as a transition between mania and depression, or mixed state as a severe type of depression or mania. Pathophysiological hypotheses involve temperaments or some personality disorders, psychiatric comorbidities as well as substance use disorders, or thyroid dysfunction. However, the formal demonstration of any specific genetic vulnerability to mixed state has not yet been provided.",
+    "year": "2013",
+    "is_review": true,
+    "publication_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "23084802",
+    "title": "Salience and dysregulation of the dopaminergic system.",
+    "abstract": "Psychosis is a subjective and experiential phenomenon of the mind, influenced by cognitive and socio-cultural patterns of the individual. The neurobiological correlate of this phenomenon is the dysfunction of brain dopaminergic pathways. This article reviews the scientific evidence on the theoretical approaches of the dopaminergic hypothesis of psychosis and its relationship with the reward and salience systems. The aberrant salience occurs when the dysregulation of dopamine transmission produces a mistaken interpretation of neutral or irrelevant stimuli as a source of reward or punishment. Advances in neuroscience achieved in the last decade have led to the conceptualization of the constructs of visual, social and emotional salience, to test the hypothesis of aberrant salience in psychosis. Psychosis appears, therefore, as a trans-nosological pathological process, relatively nonspecific, which alters the attribution system of reality.",
+    "year": "2013",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "23129333",
+    "title": "Antipsychotics in the treatment of bipolar disorder.",
+    "abstract": "Atypical antipsychotics have an important role in the acute and maintenance treatment of bipolar disorder. While robust evidence supports the efficacy of these agents in the treatment of mania and in the prevention of manic relapse, few atypical antipsychotics have shown efficacy in the treatment or prevention of depressive episodes. These agents pose a lower risk of extrapyramidal side effects compared to typical neuroleptics, but carry a significant liability for weight gain and other metabolic side effects such as hyperglycemia and hyperlipidemia. More comparative effectiveness studies are needed to assess the optimal treatment regimens, including the relative benefits and risks of antipsychotics versus mood stabilizers. The exploration of the molecular mechanisms of antipsychotics has helped to shed further light on the underlying neurobiology of bipolar disorder, since these compounds target systems thought to be key to the pathophysiology of bipolar disorder. In addition to modulating monoaminergic neurotransmission, atypical antipsychotics appear to share properties with mood-stabilizing agents known to alter intracellular signal transduction leading to changes in neuronal activity and gene expression. Atypical antipsychotic drugs have been shown to exhibit neuroprotective properties that are mediated by upregulation of trophic and cellular resilience factors. Building on our understanding of existing therapeutics, especially as it relates to underlying disease pathology, newer \"plasticity enhancing\" strategies hold promise for future treatments of bipolar disorder.",
+    "year": "2012",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "19396728",
+    "title": "Effect of dopamine on intracellular sodium: a common pathway for pharmacological mechanism of action in bipolar illness.",
+    "abstract": "The pathogenesis of bipolar illness is unknown. A search for common mechanism of action in effective medications has been utilized as a method to gain clues into mechanisms of illness. The recent increase of reports of documented efficacy of first- and second-generation antipsychotics in the control of mania offers a new opportunity to gain insight into the pathophysiological mechanism of bipolar disorder. A selected critical review of the literature is performed to gain insights into the effect of antipsychotic medications on ion regulation. Dopamine D(1) and D(2) receptor stimulation increases intracellular sodium concentrations. D(1) and D(2) blockade normalizes stimulated intracellular sodium concentrations, and increases active sodium pump expression. A similar exercise has previously suggested that lithium and effective anticonvulsants reduce sodium influx in an activity-dependent manner. The current review suggests that antipsychotic medications may have a similar effect by a different mechanism. The role of ion dysregulation in the genesis of mania in bipolar illness needs to continue to be examined.",
+    "year": "2010",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "19922550",
+    "title": "The role of dopamine in bipolar disorder.",
+    "abstract": "Despite effective pharmacological treatments for bipolar disorder, we still lack a comprehensive pathophysiological model of the illness. Recent neurobiological research has implicated a number of key brain regions and neuronal components in the behavioural and cognitive manifestations of bipolar disorder. Dopamine has previously been investigated in some depth in bipolar disorder, but of late has not been a primary focus of attention. This article examines the role of dopamine in bipolar disorder, incorporating recent advances into established models where possible. A critical evaluation of the literature was undertaken, including a review of behavioural, neurochemical, receptor, and imaging studies, as well as genetic studies focusing on dopamine receptors and related metabolic pathways. In addition, pharmacologic manipulation of the central dopaminergic pathways and comparisons with other disease states such as schizophrenia were considered, principally as a means of exploring the hypothesised models. Multiple lines of evidence, including data from pharmacological interventions and structural and functional magnetic resonance imaging studies, suggest that the dopaminergic system may play a central role in bipolar disorder. Future research into the pathophysiological mechanisms of bipolar disorder and the development of new treatments for bipolar disorder should focus on the dopaminergic system.",
+    "year": "2009",
+    "is_review": true,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  {
+    "pmid": "41381864",
+    "title": "Gut microbiota modulates synaptic plasticity, connectivity, and dopamine transmission in the VTA-mPFC pathway in bipolar depression.",
+    "abstract": "Adequate evidence has shown that gut microbial dysbiosis is an emerging disease phenotype of bipolar disorder (BD), and is closely related to clinical symptoms of this intractable disease. However, how gut microbiota affects the nervous system in BD remains largely unclear. In this study, we constructed a BD depression-like mouse model via fecal microbiota transplantation, and explored the changes of synaptic plasticity and connectivity in the medial prefrontal cortex (mPFC) of BD mice. We found that bipolar depression-like mice presented with a decrease in the density of dendritic spines in medial prefrontal neurons, and \"Translation at postsynapse\" as a key contributor to the changes in synaptic plasticity. In addition, analysis of synaptic connectivity in the mPFC revealed that compared to control mice, less connections were observed between ventral tegmental area and mPFC glutamate neurons and dopamine response was decreased in BD mice. These findings suggest that gut microbiota from BD depression patients induces the development of bipolar depression possibly by modulating aberrant synaptic connectivity and dopamine transmission in the VTA-mPFC pathway, which sheds light on the microbiota-gut-brain mechanisms underlying BD.",
+    "year": "2026",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "41315276",
+    "title": "Elevated synaptic PKA activity and abnormal striatal dopamine signaling in Akap11 mutant mice, a genetic model of schizophrenia and bipolar disorder.",
+    "abstract": "Loss-of-function mutations in AKAP11 (a protein kinase A (PKA)-binding protein) greatly increase the risk of bipolar disorder and schizophrenia. To determine the neurobiological functions of AKAP11, we conduct multi-omic and neurobiological analyses of Akap11 mutant mouse brains. We find that AKAP11 is a key regulator of PKA proteostasis in the brain whose loss leads to dramatically increased levels of PKA subunits and phosphorylated PKA substrates, especially in synapses. Akap11 mutant mice show extensive transcriptomic changes throughout the brain, including prominent decreases in synapse-related genes sets. Gene expression is highly impacted in spiny projection neurons of the striatum, a brain region implicated in motivation, cognition and psychotic disorders. Real-time measurements of PKA activity reveal elevated basal PKA activity in the\u00a0striatum of Akap11<sup>-/-</sup> mice, with exaggerated additional response to dopamine receptor antagonists. Behaviorally, Akap11 mutant mice show abnormally prolonged locomotor response to amphetamine, deficits in associative learning and contextual discrimination, as well as depression-like behaviors. Our study connects molecular changes to circuit dysfunction and behavioral disturbance in a genetically valid animal model of psychotic disorder.",
+    "year": "2025",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "40891025",
+    "title": "A Common Cause of ADHD and Bipolar Disorder (BD).",
+    "abstract": "Bipolar and ADHD are two diseases that exhibit similar traits but at different levels of severity. Understanding this behavior can help treatment of these disorders. We hypothesize that there is a common partial genetic cause for both attention-deficit/hyperactivity disorder (ADHD) and bipolar disorders (BD), which is the reversal function of the dopamine neurotransporter DAT gate (see Figure\u00a01) into an efflux mode. We analyze the dopamine chemistry in the neuron synapse under this assumption. The difference between ADHD and BD phenotypes is due either to the dopamine receptor (D2R) operation or to the threshold levels of the dopamine homeostatic control and the intensity of its operation. The common cause of the two disorders could explain the frequent phenomenon of ADHD symptoms preceding BD beginning and the high comorbidity between these disorders.",
+    "year": "2025",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "39742489",
+    "title": "Mesolimbic dopamine neurons drive infradian rhythms in sleep-wake and heightened activity state.",
+    "abstract": "Infradian mood and sleep-wake rhythms with periods of 48 hours and beyond have been observed in patients with bipolar disorder (BD), which even persist in the absence of exogenous timing cues, indicating an endogenous origin. Here, we show that mice exposed to methamphetamine in drinking water develop infradian locomotor rhythms with periods of 48 hours and beyond which extend to sleep length and manic state-associated behaviors in support of a model for cycling in BD. The cycling capacity is abrogated upon genetic disruption of dopamine (DA) production in DA neurons of the ventral tegmental area (VTA) or ablation of nucleus accumbens projecting DA neurons. Furthermore, chemogenetic activation of <sup>VTA</sup>DA neurons including those that project to the nucleus accumbens led to locomotor period lengthening in circadian clock-deficient mice, which was counteracted by antipsychotic treatment. Together, our findings argue that BD cycling relies on infradian rhythm generation that depends on mesolimbic DA neurons.",
+    "year": "2025",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "38491343",
+    "title": "Association of neurotransmitter pathway polygenic risk with specific symptom profiles in psychosis.",
+    "abstract": "A primary goal of psychiatry is to better understand the pathways that link genetic risk to psychiatric symptoms. Here, we tested association of diagnosis and endophenotypes with overall and neurotransmitter pathway-specific polygenic risk in patients with early-stage psychosis. Subjects included 205 demographically diverse cases with a psychotic disorder who underwent comprehensive psychiatric and neurological phenotyping and 115 matched controls. Following genotyping, we calculated polygenic scores (PGSs) for schizophrenia (SZ) and bipolar disorder (BP) using Psychiatric Genomics Consortium GWAS summary statistics. To test if overall genetic risk can be partitioned into affected neurotransmitter pathways, we calculated pathway PGSs (pPGSs) for SZ risk affecting each of four major neurotransmitter systems: glutamate, GABA, dopamine, and serotonin. Psychosis subjects had elevated SZ PGS versus controls; cases with SZ or BP diagnoses had stronger SZ or BP risk, respectively. There was no significant association within psychosis cases between individual symptom measures and overall PGS. However, neurotransmitter-specific pPGSs were moderately associated with specific endophenotypes; notably, glutamate was associated with SZ diagnosis and with deficits in cognitive control during task-based fMRI, while dopamine was associated with global functioning. Finally, unbiased endophenotype-driven clustering identified three diagnostically mixed case groups that separated on primary deficits of positive symptoms, negative symptoms, global functioning, and cognitive control. All clusters showed strong genome-wide risk. Cluster 2, characterized by deficits in cognitive control and negative symptoms, additionally showed specific risk concentrated in glutamatergic and GABAergic pathways. Due to the intensive characterization of our subjects, the present study was limited to a relatively small cohort. As such, results should be followed up with additional research at the population and mechanism level. Our study suggests pathway-based PGS analysis may be a powerful path forward to study genetic mechanisms driving psychiatric endophenotypes.",
+    "year": "2024",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "38928178",
+    "title": "Impact of Serotonin Deficiency on Circadian Dopaminergic Rhythms.",
+    "abstract": "Physiology and behavior are structured temporally to anticipate daily cycles of light and dark, ensuring fitness and survival. Neuromodulatory systems in the brain-including those involving serotonin and dopamine-exhibit daily oscillations in neural activity and help shape circadian rhythms. Disrupted neuromodulation can cause circadian abnormalities that are thought to underlie several neuropsychiatric disorders, including bipolar mania and schizophrenia, for which a mechanistic understanding is still lacking. Here, we show that genetically depleting serotonin in <i>Tph2</i> knockout mice promotes manic-like behaviors and disrupts daily oscillations of the dopamine biosynthetic enzyme tyrosine hydroxylase (TH) in midbrain dopaminergic nuclei. Specifically, while TH mRNA and protein levels in the Substantia Nigra (SN) and Ventral Tegmental Area (VTA) of wild-type mice doubled between the light and dark phase, TH levels were high throughout the day in <i>Tph2</i> knockout mice, suggesting a hyperdopaminergic state. Analysis of TH expression in striatal terminal fields also showed blunted rhythms. Additionally, we found low abundance and blunted rhythmicity of the neuropeptide cholecystokinin (Cck) in the VTA of knockout mice, a neuropeptide whose downregulation has been implicated in manic-like states in both rodents and humans. Altogether, our results point to a previously unappreciated serotonergic control of circadian dopamine signaling and propose serotonergic dysfunction as an upstream mechanism underlying dopaminergic deregulation and ultimately maladaptive behaviors.",
+    "year": "2024",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "38558302",
+    "title": "Anti-manic effect of deep brain stimulation of the ventral tegmental area in an animal model of mania induced by methamphetamine.",
+    "abstract": "Treatment of refractory bipolar disorder (BD) is extremely challenging. Deep brain stimulation (DBS) holds promise as an effective treatment intervention. However, we still understand very little about the mechanisms of DBS and its application on BD. The present study aimed to investigate the behavioural and neurochemical effects of ventral tegmental area (VTA) DBS in an animal model of mania induced by methamphetamine (m-amph). Wistar rats were given 14\u2009days of m-amph injections, and on the last day, animals were submitted to 20\u2009min of VTA DBS in two different patterns: intermittent low-frequency stimulation (LFS) or continuous high-frequency stimulation (HFS). Immediately after DBS, manic-like behaviour and nucleus accumbens (NAc) phasic dopamine (DA) release were evaluated in different groups of animals through open-field tests and fast-scan cyclic voltammetry. Levels of NAc dopaminergic markers were evaluated by immunohistochemistry. M-amph induced hyperlocomotion in the animals and both DBS parameters reversed this alteration. M-amph increased DA reuptake time post-sham compared to baseline levels, and both LFS and HFS were able to block this alteration. LFS was also able to reduce phasic DA release when compared to baseline. LFS was able to increase dopamine transporter (DAT) expression in the NAc. These results demonstrate that both VTA LFS and HFS DBS exert anti-manic effects and modulation of DA dynamics in the NAc. More specifically the increase in DA reuptake driven by increased DAT expression may serve as a potential mechanism by which VTA DBS exerts its anti-manic effects.",
+    "year": "2024",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "37506410",
+    "title": "Social cognitive deficit is associated with visuomotor coordination impairment and dopamine transporter availability in euthymic bipolar disorder.",
+    "abstract": "Extensive evidence has suggested functional connections between co-occurring visuomotor and social cognitive deficits in neuropsychiatric disorders; however, such association has not been studied in bipolar disorder (BD). We aimed to investigate the relationship between visuomotor coordination and social cognition in the euthymic stage of BD (euBD). Given the shared neurobiological underpinnings involving the dopaminergic system and corticostriatal circuitry, we hypothesized a positive correlation between social cognition and visuomotor coordination in euBD patients. 40 euBD patients and 59 healthy control (HC) participants underwent evaluation of social (Diagnostic Analysis of Nonverbal Accuracy 2-Taiwan version (DANVA-2-TW)), non-social cognitive function and visuomotor coordination. A subgroup of participants completed single-photon emission computed tomography for striatal dopamine transporter (DAT) availability assessment. EuBD patients showed impaired nonverbal emotion recognition (ps\u00a0\u2264\u00a00.033) and poorer visuomotor coordination (ps\u00a0<\u00a00.003) compared to HC, with a positive correlation between these two abilities (r\u00a0=\u00a00.55, p\u00a0<\u00a00.01). However, after considering potential confounding factors, instead of visuomotor coordination, striatal DAT availability was a unique predictor of emotion recognition accuracy in euBD (beta\u00a0=\u00a00.33, p\u00a0=\u00a00.001). Our study result supported a functional association between social cognition and visuomotor coordination in euBD, with striatal dopaminergic dysfunction emerged as a crucial contributing factor in their interrelation.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "36608815",
+    "title": "Neural progenitor cells derived from lithium responsive and non-responsive bipolar disorder patients exhibit distinct sensitivity to cell death following methamphetamine.",
+    "abstract": "Bipolar disorder (BD) is characterized by manic and depressive mood episodes and loss of brain gray matter. Lithium has antimanic and neuroprotective properties, but only 30% BD patients respond to lithium pharmacotherapy. Dopamine signaling has been implicated in BD and may contribute to lithium response. Methamphetamine (METH) stimulates dopamine release and models the clinical features of mania but has never been used to study cell death in BD patient neurons. We used BD patient derived neuronal progenitor cells (NPCs) to determine whether the vulnerability to cell death differed in samples from lithium responder (Li-R) and non-responder (Li-NR) BD patients and healthy controls following METH exposure in vitro. We hypothesized that NPCs from Li-R and Li-NR would differ in vulnerability to METH, dopamine signaling and neuroprotection from lithium. Following METH, NPCs from controls and Li-NR showed significantly greater cell loss compared to Li-R. Pre-treatment of NPCs with the D1 dopamine receptor antagonist SCH 23390 reversed the neurotoxic effects of METH. In Li-R NPCs, expression of phosho-ERK1/2 was significantly increased. In Li-NR NPCs, phospho-AKT, D1 and D2 dopamine receptor proteins were significantly increased. Pre-treatment of NPCs with lithium before METH reversed the neurotoxic effects of METH in control NPCs, whereas Li-NR showed less protective benefit. Li-R cells showed decreased levels of cell death after METH and comparatively high viability, and lithium treatment did not increase viability any further. This novel NPC model of mania reveals differences in cell death that could help identify mechanisms of lithium response in BD.",
+    "year": "2023",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  {
+    "pmid": "36282772",
+    "title": "Pharmacokinetics, Safety, and Tolerability of Cariprazine in Pediatric Patients with Bipolar I Disorder or Schizophrenia.",
+    "abstract": "<b><i>Objective:</i></b> Cariprazine is a dopamine D<sub>3</sub>-preferring D<sub>3</sub>/D<sub>2</sub> and serotonin 5-HT<sub>1A</sub> receptor partial agonist approved to treat adults with schizophrenia and manic/mixed or depressive episodes associated with bipolar I disorder. This sequential-cohort, dose-escalation study was the first to evaluate the pharmacokinetic, safety, and tolerability profile of cariprazine and its two major active metabolites, desmethyl-cariprazine (DCAR) and didesmethyl-cariprazine (DDCAR), in pediatric patients with schizophrenia or bipolar I disorder. <b><i>Methods:</i></b> This phase I open-label study enrolled patients with schizophrenia (13-17 years of age) or bipolar I disorder (10-17 years of age). Patients met the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria for schizophrenia or bipolar I disorder and had Positive and Negative Syndrome Scale (PANSS) total scores \u226570 or Young Mania Rating Scale (YMRS) total scores \u226520. Patients were assigned to one of four treatment groups to receive 6 weeks of cariprazine treatment through slow titration to 1.5, 3, or 4.5\u2009mg/d or fast titration to 4.5\u2009mg/d. Pharmacokinetics, adverse events (AEs), and various safety parameters were analyzed. Efficacy was evaluated as an exploratory outcome. <b><i>Results:</i></b> A total of 50 participants were enrolled. Based on mean trough levels, steady state appeared to be reached within 1-2 weeks for cariprazine and DCAR and within 4-5 weeks for DDCAR. Systemic exposure of cariprazine, DCAR, and DDCAR generally increased approximately in proportion to the increases in dose from 1.5 to 4.5\u2009mg/d. The most frequent treatment-related, treatment-emergent AEs included sedation, parkinsonism, tremor, dystonia, and blurred vision. Improvements from baseline on the PANSS and YMRS were observed throughout treatment. <b><i>Conclusion:</i></b> In this first investigation of cariprazine in a pediatric population with schizophrenia or bipolar disorder, pharmacokinetic parameters were consistent with those observed in adults. Cariprazine appeared to be safe and tolerable in children and adolescents.",
+    "year": "2022",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "35749663",
+    "title": "Biomarker potential of hsa-miR-145-5p in peripheral whole blood of manic bipolar I patients.",
+    "abstract": "Bipolar I disorder (BD-I) is a type of bipolar spectrum disorder characterized by manic or mixed episodes. Detecting microRNA regulations as epigenetic actors in BD-I is important to elucidate the pathogenesis of the disease and reveal the potential of microRNAs (miRNAs) as biomarkers. We evaluated the expression profile of six candidate miRNAs (hsa-miR-145-5p, hsa-miR-376a-3p, hsa-miR-3680-5p, hsa-miR-4253-5p, hsa-miR-4482-3p, and hsa-miR-4725) in patients with BD-I and in healthy controls (aged 11-50 years). We also determined the potential target genes of these miRNAs through in silico analysis. The diagnostic values of the miRNAs were calculated through receiver operating characteristic curve analysis. Four miRNAs were upregulated (hsa-miR-376a-3p, hsa-miR-3680-5p, hsa-miR-4253-5p, hsa-miR-4482-3p) and hsa-miR-145-5p was downregulated in patients (p < 0.001). The target gene analyses showed that hsa-miR-145-5p specifically targets the dopamine decarboxylase (DDC) gene. The area under the curve of hsa-miR-145-5p was 0.987. Differential expression of five miRNAs in peripheral blood may be associated with the pathogenesis of BD-I, and hsa-miR-145-5p has potential as a BD-I biomarker. This miRNA can be used in dopamine-serotonin regulation and dose adjustment in drug therapy via the DDC gene.",
+    "year": "2022",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "34517246",
+    "title": "Dopamine release during psychological stress in euthymic bipolar I disorder: a Positron Emission Tomography study with [<sup>11</sup>C]raclopride.",
+    "abstract": "Neurochemical mechanisms underlying stress induced relapse of mood episodes in Bipolar I Disorder (BD) remain unknown. This study investigated whether euthymic BD patients have a greater dopamine release in ventral striatum, caudate and putamen in response to psychological stress using Positron Emission Tomography (PET) scanning with the radiotracer [<sup>11</sup>C]raclopride. Euthymic patients with BD (n\u00a0=\u00a010) and 10 matched healthy controls underwent two [<sup>11</sup>C]raclopride PET scans, one during a \"stress\" and the other in a \"no stress\" condition separated by at least 24\u00a0h. Montreal Imaging Stress Test (MIST) was used to induce stress during stress condition. Participants received an injection of [<sup>11</sup>C]raclopride over one minute followed by PET scan for 60\u00a0min. Participants were assessed for mood symptom severity at baseline, and before and after each scan. The reduction in [<sup>11</sup>C]raclopride binding in stress condition compared with non-stress rest condition for each subject provided an estimate of dopamine release due to stress. There was a significant effect of stress in reducing the [<sup>11</sup>C]raclopride binding in the ventral striatum, caudate and putamen; however, no significant effects of group or condition x group interaction were found. Small sample size and recruitment of euthymic patients who may be less vulnerable to stress may limit the generalizability of findings. Our findings showed that psychological stress led to dopamine release in the basal ganglia for all participants but the magnitude of dopamine release during a stress task was not different between euthymic BD patients and healthy controls.",
+    "year": "2021",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "33413711",
+    "title": "Changes in striatal dopamine transporters in bipolar disorder and valproate treatment.",
+    "abstract": "Previous studies suggested that a disturbance of the dopamine system underlies the pathophysiology of bipolar disorder (BD). In addition, the therapeutic action of medications for treating BD, such as valproate (VPA), might modulate dopamine system activity, but it remains unclear. Here, we aimed to investigate the role of the striatal dopamine transporter (DAT) in BD patients and in social defeat (SD) mice treated with VPA. We enrolled community-dwelling controls (N\u00a0=\u00a018) and BD patients (N\u00a0=\u00a023) who were treated with VPA in a euthymic stage. The striatal DAT availabilities were approached by TRODAT-1 single photon emission computed tomography. We also established a chronic SD mouse model and treated mice with 350\u00a0mg/kg VPA for 3\u00a0weeks. Behavioral tests were administered, and striatal DAT expression levels were determined. In humans, the level of striatal DAT availability was significantly higher in euthymic BD patients (1.52\u00a0\u00b1\u00a00.17 and 1.37\u00a0\u00b1\u00a00.23, p\u00a0=\u00a00.015). Moreover, the level of striatal DAT availability was also negatively correlated with the VPA concentration in BD patients (r\u00a0=\u00a0-0.653, p\u00a0=\u00a00.003). In SD mice, the expression of striatal DAT significantly increased (p\u00a0<\u00a00.001), and the SD effect on DAT expression was rescued by VPA treatment. The striatal DAT might play a role in the pathophysiology of BD and in the therapeutic mechanism of VPA. The homeostasis of DAT might represent a new therapeutic strategy for BD patients.",
+    "year": "2021",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "32788579",
+    "title": "Dysregulation of oxytocin and dopamine in the corticostriatal circuitry in bipolar II disorder.",
+    "abstract": "The oxytocin (OXT) and dopamine systems synergistically facilitate striatal reactivity. Abnormal striatal activation has repeatedly been observed in patients with bipolar disorder (BD); however, such abnormality remains unclear in BD II. Here we aimed to investigate whether the corticostriatal connectivity was altered and the possible relationships among corticostriatal connectivity, OXT, and dopamine systems in BD II. Twenty-five BD II patients, as defined by the DSM-V, and 29 healthy controls (HC) were enrolled in this study. Plasma OXT was measured and striatal dopamine transporter (DAT) availability was assessed using [<sup>99m</sup>Tc]TRODAT-1 single-photon emission computed tomography (SPECT). Brain network functional connectivity (FC) was measured during the resting-state using functional magnetic resonance imaging, and the dorsal caudate (DC) was selected as the seed region. The results showed that the OXT level was significantly lower in the BD II patients, while the striatal DAT availability was not significantly different between the BD II and HC groups. The BD II patients exhibited significantly lower FC between the DC and the executive control network (dorsolateral prefrontal, anterior cingulate cortex, and posterior parietal cortex) as compared with the HC. Only observed in HC, the DC-posterior parietal cortex FC was negatively correlated with the OXT level and striatal DAT availability. Our findings in the HC support a model in which the OXT and dopamine systems act in tandem to regulate corticostriatal circuitry, while the synergistic interaction was perturbed in BD II. Taken together, these results implied a maladaptive neuroplasticity in BD II.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "32040017",
+    "title": "Heightened reward response is associated with HCN2 overexpression in the ventral tegmental area in morphine-sensitized rats.",
+    "abstract": "Morphine sensitization is associated with increased locomotion and stereotypies in rats. This persistent condition has been proposed as a model of manic-like symptoms. Modifications in reward threshold are considered a central feature of mania and have been related to changes in mesocorticolimbic dopaminergic transmission. Thus, to further characterize this model, we investigated reward responses in morphine-sensitized male rats and the mechanisms underlying the behavioral phenotype. In particular, we examined the possible involvement of hyperpolarization-activated cyclic nucleotide-gated channels as they play a critical role in regulating the excitability of dopaminergic neurons. Rats were trained to self-administer sucrose to study whether morphine sensitization affected motivated behavior. Next, the dopaminergic response to sucrose was examined in the nucleus accumbens shell by in vivo microdialysis. To investigate the possible mechanisms underlying the increased dopaminergic transmission in morphine-sensitized rats, HCN2 channel expression levels in mesocorticolimbic regions were analyzed by immunoblotting. Sensitized rats showed an enhanced motivation to work for sucrose that was accompanied by an increased dopaminergic response to sucrose consumption in the nucleus accumbens shell. Moreover, HCN2 expression levels were increased in the ventral tegmental area, suggesting that their increased expression may underpin the enhanced motivation for sucrose reward and nucleus accumbens shell dopaminergic response in sensitized rats. The modified behavioral and dopaminergic reward response observed in sensitized rats supports the suggestion that the condition of morphine sensitization can be regarded as a model of manic symptoms.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "32001654",
+    "title": "Genetics of schizophrenia in the South African Xhosa.",
+    "abstract": "Africa, the ancestral home of all modern humans, is the most informative continent for understanding the human genome and its contribution to complex disease. To better understand the genetics of schizophrenia, we studied the illness in the Xhosa population of South Africa, recruiting 909 cases and 917 age-, gender-, and residence-matched controls. Individuals with schizophrenia were significantly more likely than controls to harbor private, severely damaging mutations in genes that are critical to synaptic function, including neural circuitry mediated by the neurotransmitters glutamine, \u03b3-aminobutyric acid, and dopamine. Schizophrenia is genetically highly heterogeneous, involving severe ultrarare mutations in genes that are critical to synaptic plasticity. The depth of genetic variation in Africa revealed this relationship with a moderate sample size and informed our understanding of the genetics of schizophrenia worldwide.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "31150559",
+    "title": "Abnormal Functional Relationship of Sensorimotor Network With Neurotransmitter-Related Nuclei via Subcortical-Cortical Loops in Manic and Depressive Phases of Bipolar Disorder.",
+    "abstract": "Manic and depressive phases of bipolar disorder (BD) show opposite psychomotor symptoms. Neuronally, these may depend on altered relationships between sensorimotor network (SMN) and subcortical structures. The study aimed to investigate the functional relationships of SMN with substantia nigra (SN) and raphe nuclei (RN) via subcortical-cortical loops, and their alteration in bipolar mania and depression, as characterized by psychomotor excitation and inhibition. In this resting-state functional magnetic resonance imaging (fMRI) study on healthy (n = 67) and BD patients (n = 100), (1) functional connectivity (FC) between thalamus and SMN was calculated and correlated with FC from SN or RN to basal ganglia (BG)/thalamus in healthy; (2) using an a-priori-driven approach, thalamus-SMN FC, SN-BG/thalamus FC, and RN-BG/thalamus FC were compared between healthy and BD, focusing on manic (n = 34) and inhibited depressed (n = 21) patients. (1) In healthy, the thalamus-SMN FC showed a quadratic correlation with SN-BG/thalamus FC and a linear negative correlation with RN-BG/thalamus FC. Accordingly, the SN-related FC appears to enable the thalamus-SMN coupling, while the RN-related FC affects it favoring anti-correlation. (2) In BD, mania showed an increase in thalamus-SMN FC toward positive values (ie, thalamus-SMN abnormal coupling) paralleled by reduction of RN-BG/thalamus FC. By contrast, inhibited depression showed a decrease in thalamus-SMN FC toward around-zero values (ie, thalamus-SMN disconnection) paralleled by reduction of SN-BG/thalamus FC (and RN-BG/thalamus FC). The results were replicated in independent HC and BD datasets. These findings suggest an abnormal relationship of SMN with neurotransmitters-related areas via subcortical-cortical loops in mania and inhibited depression, finally resulting in psychomotor alterations.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "31900153",
+    "title": "Dopamine D<sub>3</sub> receptor and GSK3\u03b2 signaling mediate deficits in novel object recognition memory within dopamine transporter knockdown mice.",
+    "abstract": "Over-stimulation of dopamine signaling is thought to underlie the pathophysiology of a list of mental disorders, such as psychosis, mania and attention-deficit/hyperactivity disorder. These disorders are frequently associated with cognitive deficits in attention or learning and memory, suggesting that persistent activation of dopamine signaling may change neural plasticity to induce cognitive or emotional malfunction. Dopamine transporter knockdown (DAT-KD) mice were used to mimic a hyper-dopamine state. Novel object recognition (NOR) task was performed to assess the recognition memory. To test the role of dopamine D<sub>3</sub> receptor (D<sub>3</sub>R) on NOR, DAT-KD mice were treated with either a D<sub>3</sub>R antagonist, FAUC365 or by deletion of D<sub>3</sub>R. Total or phospho-GSK3 and -ERK1/2 signals in various brain regions were measured by Western blot analyses. To examine the impact of GSK3 signal on NOR, wild-type mice were systemically treated with GSK3 inhibitor SB216763 or, micro-injected with lentiviral shRNA of GSK3\u03b2 or GSK3\u03b1 in the medial prefrontal cortex (mPFC). We confirmed our previous findings that DAT-KD mice displayed a deficit in NOR memory, which could be prevented by deletion of D<sub>3</sub>R or exposure to FAUC365. In WT mice, p-GSK3\u03b1 and p-GSK3\u03b2 were significantly decreased in the mPFC after exposure to novel objects; however, the DAT-KD mice exhibited no such change in mPFC p-GSK3\u03b1/\u03b2 levels. DAT-KD mice treated with FAUC365 or with D<sub>3</sub>R deletion exhibited restored novelty-induced GSK3 dephosphorylation in the mPFC. Moreover, inhibition of GSK3 in WT mice diminished NOR performance and impaired recognition memory. Lentiviral shRNA knockdown of GSK3\u03b2, but not GSK3\u03b1, in the mPFC of WT mice also impaired NOR. These findings suggest that D<sub>3</sub>R acts via GSK3\u03b2 signaling in the mPFC to play a functional role in NOR memory. In addition, treatment with D<sub>3</sub>R antagonists may be a reasonable approach for ameliorating cognitive impairments or episodic memory deficits in bipolar disorder patients.",
+    "year": "2020",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "31723123",
+    "title": "Coadministration of lithium and celecoxib reverses manic-like behavior and decreases oxidative stress in a dopaminergic model of mania induced in rats.",
+    "abstract": "The present study intends to investigate the effect of lithium (Li) and celecoxib (Cel) coadministration on the behavioral status and oxidative stress parameters in a rat model of mania induced by dextroamphetamine (d-AMPH). Male Wistar rats were treated with d-AMPH or saline (Sal) for 14 days; on the 8th day of treatment, rats received lithium (Li), celecoxib (Cel), Li plus Cel, or water until day 14. Levels of oxidative stress parameters were evaluated in the serum, frontal cortex, and hippocampus. d-AMPH administration induced hyperlocomotion in rats, which was significantly reversed by Li and Cel coadministration. In addition, d-AMPH administration induced damage to proteins and lipids in the frontal cortex and hippocampus of rats. All these impairments were reversed by treatment with Li and/or Cel, in a way dependent on cerebral area and biochemical analysis. Li and Cel coadministration reversed the d-AMPH-induced decrease in catalase activity in cerebral structures. The activity of glutathione peroxidase was decreased in the frontal cortex of animals receiving d-AMPH, and treatment with Li, Cel, or a combination thereof reversed this alteration in this structure. Overall, data indicate hyperlocomotion and alteration in oxidative stress biomarkers in the cerebral structures of rats receiving d-AMPH. Li and Cel coadministration can mitigate these modifications, comprising a potential novel approach for BD therapy.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "31666560",
+    "title": "Intracerebroventricular injection of ouabain causes mania-like behavior in mice through D2 receptor activation.",
+    "abstract": "Intracerebroventricular (ICV) administration of ouabain, an inhibitor of the Na, K-ATPase, is an approach used to study the physiological functions of the Na, K-ATPase and cardiotonic steroids in the central nervous system, known to cause mania-like hyperactivity in rats. We describe a mouse model of ouabain-induced mania-like behavior. ICV administration of 0.5\u2009\u00b5l of 50\u2009\u00b5M (25\u2009pmol, 14.6\u2009ng) ouabain into each lateral brain ventricle results in increased locomotor activity, stereotypical behavior, and decreased anxiety level an hour at minimum. Fast-scan cyclic voltammetry showed that administration of 50\u2009\u00b5M ouabain causes a drastic drop in dopamine uptake rate, confirmed by elevated concentrations of dopamine metabolites detected in the striatum 1\u2009h after administration. Ouabain administration also caused activation of Akt, deactivation of GSK3\u03b2 and activation of ERK1/2 in the striatum of ouabain-treated mice. All of the abovementioned effects are attenuated by haloperidol (70\u2009\u00b5g/kg intraperitoneally). Observed effects were not associated with neurotoxicity, since no dystrophic neuron changes in brain structures were demonstrated by histological analysis. This newly developed mouse model of ouabain-induced mania-like behavior could provide a perspective tool for studying the interactions between the Na,K-ATPase and the dopaminergic system.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "31175999",
+    "title": "Dopamine-mediated immunomodulation affects choroid plexus function.",
+    "abstract": "Immune system alterations have been implicated in various dopamine-related disorders, such as schizophrenia, bipolar disorder, and attention-deficit/hyperactivity disorder (ADHD). How immunity might be influenced by dopaminergic dysfunction and impact on clinically-relevant behaviors is still uncertain. We performed a peripheral and cerebral immunophenotyping in mice bearing dopaminergic alteration produced by genetic liability (hypofunction of the dopamine transporter DAT) and psychostimulant (amphetamine) administration. We found that DAT hypofunction influences immune tolerance by increasing functional Tregs and adrenomedullin levels in the thymus and spleen, while reducing microglia activation and infiltration of brain monocyte-derived macrophages (mo-M\u03a6). Remarkably, both DAT hypofunction and amphetamine treatment are associated with a weaker activation of the choroid plexus (CP) gateway. Conversely, amphetamine reactivated the CP in the setting of DAT hypofunction, paralleling its paradoxical ADHD-relevant behavioral effects. These findings add new knowledge on dopaminergic immunopharmacology and support the immunomodulation of CP functionality as a promising therapeutic strategy for neurodevelopmental and psychiatric disorders.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "30269107",
+    "title": "Acute anxiety disorder, major depressive disorder, bipolar disorder and schizophrenia are related to different patterns of nigrostriatal and mesolimbic dopamine dysfunction.",
+    "abstract": "Dopamine (DA) receptor and transporter dysfunctions play a major role in the pathophysiology of neuropsychiatric diseases including anxiety disorder (AD), major depressive disorder (MDD), bipolar disorder (BD) in the manic (BDman) or depressive (BDdep) state and schizophrenia (SZ). We performed a PUBMED search, which provided a total of 239 in vivo imaging studies with either positron emission tomography (PET) or single-proton emission computed tomography (SPECT). In these studies, DA transporter binding, D1 receptor (R) binding, D2R binding, DA synthesis and/or DA release in patients with the primary diagnosis of acute AD (n=310), MDD (n=754), BDman (n=15), BDdep (n=49) or SZ (n=1532) were compared to healthy individuals. A retrospective analysis revealed that AD, MDD, BDman, BDdep and SZ differed as to affected brain region(s), affected synaptic constituent(s) and extent as well as direction of dysfunction in terms of either sensitization or desensitization of transporter and/or receptor binding sites. In contrast to AD and SZ, in MDD, BDman and BDdep, neostriatal DA function was normal, whereas MDD, BDman, and BDdep were characterized by the increased availability of prefrontal and frontal DA. In contrast to AD, MDD, BDman and BDdep, DA function in SZ was impaired throughout the nigrostriatal and mesolimbocortical system with an increased availability of DA in the striatothalamocortical and a decreased availability in the mesolimbocortical pathway.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "31053723",
+    "title": "Differential methylation of enhancer at IGF2 is associated with abnormal dopamine synthesis in major psychosis.",
+    "abstract": "Impaired neuronal processes, including dopamine imbalance, are central to the pathogenesis of major psychosis, but the molecular origins are unclear. Here we perform a multi-omics study of neurons isolated from the prefrontal cortex in schizophrenia and bipolar disorder (n\u2009=\u200955 cases and 27 controls). DNA methylation, transcriptomic, and genetic-epigenetic interactions in major psychosis converged on pathways of neurodevelopment, synaptic activity, and immune functions. We observe prominent hypomethylation of an enhancer within the insulin-like growth factor 2 (IGF2) gene in major psychosis neurons. Chromatin conformation analysis revealed that this enhancer targets the nearby tyrosine hydroxylase (TH) gene responsible for dopamine synthesis. In patients, we find hypomethylation of the IGF2 enhancer is associated with increased TH protein levels. In mice, Igf2 enhancer deletion disrupts the levels of TH protein and striatal dopamine, and induces transcriptional and proteomic abnormalities affecting neuronal structure and signaling. Our data suggests that epigenetic activation of the enhancer at IGF2 may enhance dopamine synthesis associated with major psychosis.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "30658210",
+    "title": "Evidence for perturbed metabolic patterns in bipolar disorder subjects associated with lithium responsiveness.",
+    "abstract": "Bipolar disorder (BD) is multifactorial mood disorder characterized by alternating episodes of hyperactive mania and severe depression. Lithium is one of the most preferred drug used as mood stabilizer in treating BD. In this study, we examined the changes in plasma metabolome in BD subjects in the context of lithium responsiveness. Plasma samples from clinically defined, age and gender matched unrelated healthy controls and BD subjects (lithium responders and non-responders) were obtained and processed in positive and negative mode using untargeted liquid chromatography/mass spectrometry analysis. We identified significant alterations in plasma levels of dopamine along with its precursors (tyrosine and phenylalanine), branched chain amino acid such as valine and excitatory neurotransmitter glutamate between healthy control and BD subjects. Lipid molecules such as, eicosenoic acid and retinyl ester also showed distinguished patterns between control and BD individuals. Lithium responsiveness was markedly associated with significant differences in proline, L-gamma-glutamyl-isoleucine, dopamine, palmitic acid methyl ester, cholesterol sulfate, androsterone sulfate and 9S,12S,13S-triHOME levels. Altered metabolites enriched with key biochemical pathways associated with neuropsychiatry disorders. We hypothesize that BD pathogenesis and lithium responsiveness is associated with impaired homeostasis of amino acid and lipid metabolism.",
+    "year": "2019",
+    "is_review": false,
+    "publication_types": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "30391805",
+    "title": "Expression of dopamine signaling genes in the post-mortem brain of individuals with mental illnesses is moderated by body mass index and mediated by insulin signaling genes.",
+    "abstract": "Preclinical studies implicate insulin signaling as a modulator of dopamine transmission, but human data is currently limited. We hypothesize that changes in the expression of insulin receptor-related genes in the post-mortem brain tissue of patients with mood and psychotic disorders mediate the expression of dopamine regulation-related genes. From a database containing microarray data from the post-mortem dorsolateral prefrontal cortex (dlPFC) (healthy controls [HC]: n\u202f=\u202f209; patients: n\u202f=\u202f321) and hippocampus (HC: n\u202f=\u202f180; patients: n\u202f=\u202f196), we conducted a hypothesis-driven analysis through the a priori selection of 12 dopamine- and 3 insulin-related genes. Mediation and moderated mediation models, accounting for the role of body mass index (BMI), were used. In the dlPFC, expressions of insulin receptor- and dopamine regulation-related genes were moderated by BMI, with significantly lower expression in high BMI patients. In the hippocampus, there were significantly lower expressions of these genes, which were not moderated by BMI. Illnesses by BMI effects on expression of dopamine genes were fully mediated by expression of insulin receptor gene (INSR). Analysis of conditional indirect effects showed interactions between INSR and BMI, indicating significantly stronger indirect effects at higher BMI values. In the hippocampus we observed that expression of insulin receptor substrate 1 and 2 fully mediated the effects of illnesses on expression of dopamine genes. In conclusion, differential expression of dopamine-related genes was related to altered expression of insulin signaling genes. BMI had region-specific effects, supporting the hypothesis that metabolic systems are critical mediators of dopaminergic function.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Intramural"
+    ]
+  },
+  {
+    "pmid": "28612649",
+    "title": "A Brain on a Roller Coaster: Can the Dopamine Reward System Act as a Protagonist to Subdue the Ups and Downs of Bipolar Disorder?",
+    "abstract": "One of the most interesting but tenebrous parts of the bipolar disorder (BD) story is the switch between (hypo)mania and depression, which can give bipolar patients a thrilling, but somewhat perilous, 'ride'. Numerous studies have pointed out that there are some recognizable differences (either state-dependent or state-independent) in several brain regions of people with BD, including components of the brain's reward system. Understanding the underpinning mechanisms of high and low mood statuses in BD has potential, not only for the development of highly specific and selective pharmaceutical agents, but also for better treatment approaches and psychological interventions to manage BD and, thus, give patients a safer ride. Herein, we review evidence that supports involvement of the reward system in the pathophysiology of mood swings, with the main focus on the mesocorticolimbic dopaminergic neural circuitry. Principally using findings from neuroimaging studies, we aim to signpost readers as to how mood alterations may affect different areas of the reward system and how antipsychotic drugs can influence the activity of these brain areas. Finally, we critically evaluate the hypothesis that the mesocorticolimbic dopamine reward system may act as a functional rheostat for different mood states.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "30179154",
+    "title": "ErbB4 deletion in noradrenergic neurons in the locus coeruleus induces mania-like behavior via elevated catecholamines.",
+    "abstract": "Dysfunction of the noradrenergic (NE) neurons is implicated in the pathogenesis of bipolar disorder (BPD). ErbB4 is highly expressed in NE neurons, and its genetic variation has been linked to BPD; however, how ErbB4 regulates NE neuronal function and contributes to BPD pathogenesis is unclear. Here we find that conditional deletion of ErbB4 in locus coeruleus (LC) NE neurons increases neuronal spontaneous firing through NMDA receptor hyperfunction, and elevates catecholamines in the cerebrospinal fluid (CSF). Furthermore, <i>Erbb4</i>-deficient mice present mania-like behaviors, including hyperactivity, reduced anxiety and depression, and increased sucrose preference. These behaviors are completely rescued by the anti-manic drug lithium or antagonists of catecholaminergic receptors. Our study demonstrates the critical role of ErbB4 signaling in regulating LC-NE neuronal function, reinforcing the view that dysfunction of the NE system may contribute to the pathogenesis of mania-associated disorder.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  {
+    "pmid": "29684488",
+    "title": "Association of CACNA1C with bipolar disorder among the Pakistani population.",
+    "abstract": "Many single nucleotide polymorphisms (SNPs) have been identified for Bipolar disorder (BD), but association between SNPs and BD can vary depending on the population tested. SNPs rs10994336 and rs9804190 in ANK3 and rs1006737 in CACNA1C have emerged as the most highly replicated SNPs significantly associated with BD. The aim of the present study was to assess the association of these SNPs with BD in the Pakistani population, which has never before been examined. A total of 120 BD and 120 control individuals from Pakistan were examined in this analysis. Genotyping results indicated that rs1006737 in CACNA1C was significantly associated with BD, while rs10994336 or rs9804190 in ANK3 was not significant when examined individually. However, risk score assessment found that the presence of two or more risk alleles was significantly associated with disease, indicating that risk alleles from ANK3 and CACNA1C may additively contribute to BD. A protein-protein interaction network was generated using STRING to probe the relationship between ANK3 and CACNA1C interactors and their associations with BD. While none of the interactors are directly linked to BD, they play a role in pathways linked to BD, including oxytocin and dopamine signaling pathways. Collectively, these results reveal a significant association of CACNA1C with BD among the Pakistani population, extending results from other ethnic groups to the Pakistani population for the first time.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  },
+  {
+    "pmid": "29671235",
+    "title": "Evaluation of Neurotransmitter Alterations in Four Distinct Brain Regions After Rapid Eye Movement Sleep Deprivation (REMSD) Induced Mania-Like Behaviour in Swiss Albino Mice.",
+    "abstract": "A number of neurotransmitter systems have been implicated in contributing to the pathology of mood disorders, including those of dopamine (DA), serotonin (5-HT), norepinephrine (NE) and \u03b3-aminobutyric acid (GABA). Rapid eye movement sleep deprivation (REMSD) alters most of the neurotransmitters, which may have adverse behavioural changes and other health consequences like mania and other psychiatric disorders. The exact role of REMSD altered neurotransmitter levels and the manner in which emerging consequences lead to mania-like behaviour is poorly understood. Thus, we sought to verify the levels of neurotransmitter changes after 48, 72 and 96\u00a0h of REMSD induced mania-like behaviour in mice. We performed modified multiple platform (MMP) method of depriving the REM sleep and one group maintained as a control. To measure the hyperactivity through locomotion, exploration and behavioural despair, we performed the Open Field Test (OFT) and the Forced Swim Test (FST). Quantitative determinations of DA, 5-HT, NE and GABA concentrations in four distinct brain regions (cerebral cortex, hippocampus, midbrain, and pons) were determined by the spectrofluorimetric method. These experiments showed higher locomotion and increased swimming, struggling/climbing and decreased mobility among REMSD animals as well as disrupted concentrations of the majority of the studied neurotransmitters during REMSD. Our study indicated that REMSD results in mania-like behaviour in mice and associated disruption to neurotransmitter levels, although the exact mechanisms by which these take place remain to be determined.",
+    "year": "2018",
+    "is_review": false,
+    "publication_types": [
+      "Journal Article"
+    ]
+  }
 ]
